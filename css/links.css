@@ -1,8 +1,19 @@
 a {
+    color: lightcoral;
     text-decoration: none;
-    color: blue;
 }
 
 .source {
-    color: red;
+    background-color: white;
+    transition: background-color 0.1s linear;
+}
+
+.source a {
+    color: cadetblue;
+}
+
+.source:hover {
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+    cursor: pointer;
 }

@@ -1,0 +1,30 @@
+.data_title {
+    margin-left: -5px;
+    text-decoration: underline;
+    padding: 0 10px;
+    background-color: white;
+    transition: background-color 0.1s linear;
+}
+
+.data_title:hover {
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.data_info {
+    display: block;
+    position: relative;
+    left: 20px;
+}
+
+.data_abstract {
+    position: relative;
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.2s ease-out;
+    top: -10px;
+    left: 20px;
+    line-height: 1.2;
+    font-size: 20px;
+}

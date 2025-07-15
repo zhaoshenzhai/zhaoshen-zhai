@@ -1,0 +1,51 @@
+body {
+    font-family: 'mlm';
+}
+
+@font-face {
+    font-family: 'mlm';
+    src: url('fonts/mlm.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mlm';
+    src: url('fonts/mlmb.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mlm';
+    src: url('fonts/mlmi.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'mlm';
+    src: url('fonts/mlmbi.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'mlmt';
+    src: url('fonts/mlmtt.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mlmt';
+    src: url('fonts/mlmtti.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'mlmsc';
+    src: url('fonts/mlmsc.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}

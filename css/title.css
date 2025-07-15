@@ -1,0 +1,15 @@
+#title {
+    font-family: 'mlmt';
+    font-size: 30px;
+    right: 10%;
+    position: absolute;
+    top: 50px;
+}
+
+#title_sep {
+    padding: 0px 10px;
+}
+
+.section_title {
+    font-family: 'mlmt';
+}

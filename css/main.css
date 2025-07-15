@@ -4,3 +4,22 @@
     margin-top: 125px;
     width: 70%;
 }
+
+#title {
+    font-size: 30px;
+    right: 10%;
+    position: absolute;
+    top: 50px;
+}
+
+#title_sep {
+    padding: 0px 10px;
+}
+
+#information{
+    margin-bottom: 20px;
+}
+
+.section_title {
+    font-size: 30px;
+}

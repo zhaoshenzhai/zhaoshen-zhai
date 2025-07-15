@@ -1,10 +1,10 @@
-.research_cite {
+.writing_cite, .writing_joint {
     display: block;
     position: relative;
     left: 20px;
 }
 
-.research_abstract, .exposition_abstract {
+.writing_abstract {
     position: relative;
     top: -10px;
     left: 20px;

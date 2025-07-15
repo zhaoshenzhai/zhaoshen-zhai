@@ -19,7 +19,7 @@
             "pdf": "https://www.dropbox.com/scl/fi/pmfpbkqvlzttcmadzf35x/N-An-Exposition-of-the-Ribes-Zalesskii-Theorem-Zhaoshen-Zhai.pdf?rlkey=pai3pz6ocer5luusfgr7g6tik&st=3g1nc9tn&dl=0"
         },
         "info": [
-            "<span style='color: gray'>Summer research project, supervised by Professor <a href='https://www.math.mcgill.ca/msabok/'>Marcin Sabok</a>.</span>"
+            "<span style='color: gray'>Summer research project, supervised by Professor <a href='https://www.math.mcgill.ca/msabok/' target='_blank'>Marcin Sabok</a>.</span>"
         ],
         "type": "exposition"
     },
@@ -31,7 +31,7 @@
             "arxiv": "https://arxiv.org/abs/2409.09843"
         },
         "info": [
-            "<span style='color: gray'>Summer research project, supervised by Professor <a href='https://www.math.mcgill.ca/atserunyan/'>Anush Tserunyan</a>.</span>"
+            "<span style='color: gray'>Summer research project, supervised by Professor <a href='https://www.math.mcgill.ca/atserunyan/' target='_blank'>Anush Tserunyan</a>.</span>"
         ],
         "type": "exposition"
     },
@@ -42,7 +42,7 @@
             "pdf": "https://www.dropbox.com/scl/fi/tpwtjcddilj1djy3lcyvv/N-Hilbert-s-Fifth-Problem-Zhaoshen-Zhai.pdf?rlkey=zrfz0n816bk9bcgu131frikuz&st=m99j8b1k&dl=0"
         },
         "info": [
-            "<span style='color: gray'>Project for <i>MATH599: Lie Groups and their Representations</i>, by Professor Joel Kamnitzer.</span>"
+            "<span style='color: gray'>Project for <i>MATH599: Lie Groups and their Representations</i>, by Professor <a href='https://www.math.mcgill.ca/jkamni/' target='_blank'>Joel Kamnitzer</a>.</span>"
         ],
         "type": "exposition"
     },
@@ -53,7 +53,8 @@
             "pdf": "https://www.dropbox.com/scl/fi/tpwtjcddilj1djy3lcyvv/N-Hilbert-s-Fifth-Problem-Zhaoshen-Zhai.pdf?rlkey=zrfz0n816bk9bcgu131frikuz&st=m99j8b1k&dl=0"
         },
         "info": [
-            "<span style='color: gray'>Project for <i>MATH599: Lie Groups and their Representations</i>, by Professor Joel Kamnitzer.</span>"
+            "<span style='color: gray'>Project for <i>COMP527: Logic and Computation</i>, by Professor <a href='https://www.cs.mcgill.ca/~bpientka/' target='_blank'>Brigitte Pientka</a>.</span>",
+            "<span style='color: gray'>Joint with Charlotte Marchal, Dashiell Rich, and Milton Rosenbaum.</span>"
         ],
         "type": "exposition"
     },

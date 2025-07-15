@@ -6,7 +6,7 @@
     transition: background-color 0.1s linear;
 }
 
-.data_title:hover {
+.data_title_button:hover {
     background-color: rgb(240, 240, 240);
     border-radius: 5px;
     cursor: pointer;

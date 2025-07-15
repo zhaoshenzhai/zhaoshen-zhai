@@ -29,7 +29,6 @@ function insertData(container, list, type) {
         var title = document.createElement('span');
         title.classList.add('data_title');
         title.innerText = list[i].title;
-        title.addEventListener('click', function () { toggleAbstract(this) });
         item.appendChild(title);
 
         if (list[i].sources) {
@@ -44,7 +43,11 @@ function insertData(container, list, type) {
             }
         }
 
-        createAbstract(item, list[i].abstract);
+        if (list[i].abstract) {
+            createAbstract(item, list[i].abstract);
+            title.classList.add('data_title_button')
+            title.addEventListener('click', function () { toggleAbstract(this) });
+        }
     }
 }
 
@@ -83,7 +86,6 @@ function createAbstract(parEl, data) {
 function toggleAbstract(el) {
     var par = el.parentElement;
     var abs = par.getElementsByClassName('data_abstract')[0];
-
     if (abs.style.maxHeight) {
         abs.style.maxHeight = null;
     } else {

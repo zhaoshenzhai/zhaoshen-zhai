@@ -13,13 +13,33 @@
         "type": "research"
     },
     {
+        "title": "Tree-like graphings of countable Borel equivalence relations",
+        "abstract": "Countable Borel equivalence relations (CBERs) have been extensively studied within the framework of descriptive set theory, and a powerful way of analyzing them is by understanding what countable structures one can uniformly assign to each equivalence class in a Borel way. For instance, a graphing of a CBER E is a Borel graph whose connected components are exactly the E-classes, and a CBER is treeable if it admits an acyclic graphing, called a treeing. Treeable CBERs are analogous to free groups, so, naturally, results stating treeability of certain classes of CBERs are difficult to obtain. A recent such result is by Chen, Poulin, Tao, and Tserunyan, stating that if a CBER E admits a locally-finite graphing whose components are quasi-trees, then E is treeable. Their proof uses geometric-group-theoretic ideas and Stone duality, which we will present. Time permitting, we will also discuss a generalization of this result (which they proved as well), that precisely identifies the structure underlying all treeable CBERs. This is an expository talk based on work by Ruiyuan Chen, Antoine Poulin, Ran Tao, and Anush Tserunyan.",
+        "sources": {
+            "slides": "https://www.dropbox.com/scl/fi/q53dtlg3pjuue6qqajeq6/S-Tree-like-graphings-of-countable-Borel-equivalence-relations-Zhaoshen-Zhai.pdf?rlkey=kl5kyu5tv3puy3c7wobbiq4bx&st=861kbebd&dl=0"
+        },
+        "info": [
+            "<span style='color: gray'><a href='https://www.math.mcgill.ca/dcl/DDC-Seminar/' target='_blank'><i>Montréal Descriptive Dynamics and Combinatorics Seminar</i></a> (October 1, 2024)</span>"
+        ],
+        "type": "talk"
+    },
+    {
+        "title": "A saturated 1-system of curves on the surface of genus 3",
+        "abstract": "We construct a saturated system of 33 essential simple closed curves that are pairwise non-homotopic and intersect at most once on the oriented, closed surface of genus 3.",
+        "info": [
+            "<span style='color: gray'><a href='https://www.summ.xyz/' target='_blank'><i>Seminars in Undergraduate Mathematics in Montreal</i></a> (January 6, 2024)</span>",
+            "<span style='color: gray'><a href='https://www.math.mcgill.ca/ggt/' target='_blank'><i>McGill Geometric Group Theory Seminar</i></a> (September 27, 2023)</span>"
+        ],
+        "type": "talk"
+    },
+    {
         "title": "An exposition of the Ribes-Zalesskii Theorem",
-        "abstract": "We give a detailed proof of the Ribes-Zalesskii product theorem for pro-$\\mathcal{C}$ topologies, where $\\mathcal{C}$ is a pseudovariety of groups closed under extensions. The proof relies on geometric properties of the profinite Cayley graph of the pro-$\\mathcal{C}$ completion of free groups, which we develop here following [Rib17].",
+        "abstract": "We give a detailed proof of the Ribes-Zalesskii product theorem for pro-$\\mathcal{C}$ topologies, where $\\mathcal{C}$ is a pseudovariety of groups closed under extensions. The proof relies on geometric properties of the profinite Cayley graph of the pro-$\\mathcal{C}$ completion of free groups, which we develop here following <a href='https://link.springer.com/book/10.1007/978-3-319-61199-0' target='_blank'>[Rib17]</a>.",
         "sources": {
             "pdf": "https://www.dropbox.com/scl/fi/pmfpbkqvlzttcmadzf35x/N-An-Exposition-of-the-Ribes-Zalesskii-Theorem-Zhaoshen-Zhai.pdf?rlkey=pai3pz6ocer5luusfgr7g6tik&st=3g1nc9tn&dl=0"
         },
         "info": [
-            "<span style='color: gray'>Summer research project, supervised by Professor <a href='https://www.math.mcgill.ca/msabok/' target='_blank'>Marcin Sabok</a>.</span>"
+            "<span style='color: gray'>Summer 2025 research project, supervised by Professor <a href='https://www.math.mcgill.ca/msabok/' target='_blank'>Marcin Sabok</a> (in preparation).</span>"
         ],
         "type": "exposition"
     },
@@ -31,13 +51,13 @@
             "arxiv": "https://arxiv.org/abs/2409.09843"
         },
         "info": [
-            "<span style='color: gray'>Summer research project, supervised by Professor <a href='https://www.math.mcgill.ca/atserunyan/' target='_blank'>Anush Tserunyan</a>.</span>"
+            "<span style='color: gray'>Summer 2024 research project, supervised by Professor <a href='https://www.math.mcgill.ca/atserunyan/' target='_blank'>Anush Tserunyan</a>.</span>"
         ],
         "type": "exposition"
     },
     {
         "title": "Hilbert’s Fifth Problem",
-        "abstract": "Following [Tao14], we provide a sketch of Hilbert’s Fifth Problem, which asks for a topological characterization of Lie groups. To do so, we prove (part of) a deep structural result of Gleason and Yamabe on locally-compact groups, stating that they contain an inverse limit of Lie groups as an open subgroup.",
+        "abstract": "Following <a href='https://terrytao.wordpress.com/books/hilberts-fifth-problem-and-related-topics/' target='_blank'>[Tao14]</a>, we provide a sketch of Hilbert’s Fifth Problem, which asks for a topological characterization of Lie groups. To do so, we prove (part of) a deep structural result of Gleason and Yamabe on locally-compact groups, stating that they contain an inverse limit of Lie groups as an open subgroup.",
         "sources": {
             "pdf": "https://www.dropbox.com/scl/fi/tpwtjcddilj1djy3lcyvv/N-Hilbert-s-Fifth-Problem-Zhaoshen-Zhai.pdf?rlkey=zrfz0n816bk9bcgu131frikuz&st=m99j8b1k&dl=0"
         },
@@ -47,8 +67,30 @@
         "type": "exposition"
     },
     {
+        "title": "Moduli Spaces of Riemann Surfaces",
+        "abstract": "The theory of Riemann surfaces, first developed by Bernhard Riemann to study algebraic functions, now lies in the confluence of complex analysis, differential geometry, and algebraic geometry. This expository paper aims to introduce this theory, with the goal classifying all compact Riemann surfaces of genus 0 and 1. To do so, we first develop the basics of covering space theory, which defines the degree of proper holomorphic maps, and then study the sheaf of holomorphic maps on a Riemann surface and their associated cohomology theory. Together, they form the core technical tools of the paper and allow us to connect the function theory of Riemann surfaces to their complex structure. Lastly, we give a glimpse into the non-compact case, namely the Uniformization Theorem, which gives us a tri-fold classification of all Riemann surfaces.",
+        "sources": {
+            "pdf": "https://www.dropbox.com/scl/fi/x09i34tv4shh7x3nhzz9v/N-Moduli-Spaces-of-Riemann-Surfaces-Zhaoshen-Zhai.pdf?rlkey=iwhxh40cvn247x3zjvakw0m1y&st=1295l8b0&dl=0"
+        },
+        "info": [
+            "<span style='color: gray'>Report for McGill's Winter 2023 <a href='https://math.mcgill.ca/gsams/drp/' target='_blank'>Directed Reading Program</a>, supervised by <a href='https://kaleb.ruscitti.ca/' target='_blank'>Kaleb Ruscitti</a>.</span>"
+        ],
+        "type": "exposition"
+    },
+    {
+        "title": "Bounded Arithmetic, Constant-depth Frege Proofs, and the Linear Time Hierarchy",
+        "sources": {
+            "slides": "https://www.dropbox.com/scl/fi/asborud956d3yew85ylmf/S-Bounded-Arithmetic-Constant-depth-Frege-Proofs-and-the-Linear-Time-Hierarchy-Nathan-Acheampong-Zhaoshen-Zhai.pdf?rlkey=ljaf7cn2u644whzt4nmtff2eg&st=txg55zng&dl=0"
+        },
+        "info": [
+            "<span style='color: gray'>Project for <i>COMP532: Propositional Proof Complexity</i>, by Professor <a href='https://www.cs.mcgill.ca/~robere/' target='_blank'>Robert Robere</a>.</span>",
+            "<span style='color: gray'>Joint with Nathan Acheampong.</span>"
+        ],
+        "type": "exposition"
+    },
+    {
         "title": "Subject reduction for pure type systems",
-        "abstract": "Following [GN91] and [Bar91], we study the basics of <i>pure type systems</i>, which abstract many of the constructs found in the eight systems of the $\\lambda$-cube. We start with a brief introduction to the systems of the $\\lambda$-cube, discuss their expressive power, and introduce pure type systems as a unifying framework in which they can be studied. We then give a detailed proof of subject reduction for arbitrary pure type systems.",
+        "abstract": "Following <a href='https://www.cambridge.org/core/journals/journal-of-functional-programming/article/modular-proof-of-strong-normalization-for-the-calculus-of-constructions/348B6914C707F5282ED91E08AE47BDB8' target='_blank'>[GN91]</a> and <a href='https://www.cambridge.org/core/journals/journal-of-functional-programming/article/introduction-to-generalized-type-systems/869991BA6A99180BF96A616894C6D710' target='_blank'>[Bar91]</a>, we study the basics of <i>pure type systems</i>, which abstract many of the constructs found in the eight systems of the $\\lambda$-cube. We start with a brief introduction to the systems of the $\\lambda$-cube, discuss their expressive power, and introduce pure type systems as a unifying framework in which they can be studied. We then give a detailed proof of subject reduction for arbitrary pure type systems.",
         "sources": {
             "pdf": "https://www.dropbox.com/scl/fi/tpwtjcddilj1djy3lcyvv/N-Hilbert-s-Fifth-Problem-Zhaoshen-Zhai.pdf?rlkey=zrfz0n816bk9bcgu131frikuz&st=m99j8b1k&dl=0"
         },
@@ -57,25 +99,5 @@
             "<span style='color: gray'>Joint with Charlotte Marchal, Dashiell Rich, and Milton Rosenbaum.</span>"
         ],
         "type": "exposition"
-    },
-    {
-        "title": "Tree-like graphings of countable Borel equivalence relations",
-        "abstract": "Countable Borel equivalence relations (CBERs) have been extensively studied within the framework of descriptive set theory, and a powerful way of analyzing them is by understanding what countable structures one can uniformly assign to each equivalence class in a Borel way. For instance, a graphing of a CBER E is a Borel graph whose connected components are exactly the E-classes, and a CBER is treeable if it admits an acyclic graphing, called a treeing. Treeable CBERs are analogous to free groups, so, naturally, results stating treeability of certain classes of CBERs are difficult to obtain. A recent such result is by Chen, Poulin, Tao, and Tserunyan, stating that if a CBER E admits a locally-finite graphing whose components are quasi-trees, then E is treeable. Their proof uses geometric-group-theoretic ideas and Stone duality, which we will present. Time permitting, we will also discuss a generalization of this result (which they proved as well), that precisely identifies the structure underlying all treeable CBERs. This is an expository talk based on work by Ruiyuan Chen, Antoine Poulin, Ran Tao, and Anush Tserunyan.",
-        "sources": {
-            "slides": "https://www.dropbox.com/scl/fi/q53dtlg3pjuue6qqajeq6/S-Tree-like-graphings-of-countable-Borel-equivalence-relations-Zhaoshen-Zhai.pdf?rlkey=kl5kyu5tv3puy3c7wobbiq4bx&st=861kbebd&dl=0"
-        },
-        "info": [
-            "<span style='color: gray'><i>Montréal Descriptive Dynamics and Combinatorics Seminar</i> (October 1, 2024)</span>"
-        ],
-        "type": "talk"
-    },
-    {
-        "title": "A saturated 1-system of curves on the surface of genus 3",
-        "abstract": "We construct a saturated system of 33 essential simple closed curves that are pairwise non-homotopic and intersect at most once on the oriented, closed surface of genus 3.",
-        "info": [
-            "<span style='color: gray'><i>Seminars in Undergraduate Mathematics in Montreal</i> (January 6, 2024)</span>",
-            "<span style='color: gray'><i>McGill Geometric Group Theory Seminar</i> (September 27, 2023)</span>"
-        ],
-        "type": "talk"
     }
 ]

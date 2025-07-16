@@ -1,23 +1,54 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'mlmt';
 }
 
 #content {
     font-size: 25px;
-    margin-left: calc(50% - (1250px/2 + 150px));
     margin-top: 125px;
-    width: 1250px;
+    margin-left: max(5%, calc(50% - (var(--contentWidth)/2 + 150px)));
+    width: min(80%, var(--contentWidth));
 }
 
 #title {
-    position: fixed;
     font-size: 30px;
     right: 10%;
     top: 50px;
+    user-select: none;
 }
 
 #title_sep {
     padding: 0px 10px;
+}
+
+#section_nav {
+    position: fixed;
+    z-index: 1000;
+    padding-right: max(10%, calc(50% - (var(--contentWidth)/2 + 150px)));
+    text-align: right;
+    width: 250px;
+    right: 0px;
+    top: 100px;
+
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+#section_nav ol {
+    list-style: none;
+    display: block;
+    user-select: none;
+}
+
+#section_nav ol a {
+    color: #888;
+    transition: color 0.1s linear;
+}
+
+#section_nav ol a:hover, #section_nav li.active > a {
+    color: #222;
 }
 
 #information {

@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', (e) => {
-    var research = document.getElementById('research');
-    var talks = document.getElementById('talks');
-    var exposition = document.getElementById('exposition');
+    var research = document.getElementById('publications');
+    var talks = document.getElementById('seminar_talks');
+    var exposition = document.getElementById('expositions');
 
     fetch('./data.json').then(response => response.json())
     .then((data) => {

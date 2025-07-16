@@ -3,7 +3,7 @@
         "title": "A saturated 1-system of curves on the surface of genus 3",
         "abstract": "We construct a system of 33 essential simple closed curves that are pairwise non-homotopic and intersect at most once on the oriented, closed surface of genus 3. Moreover, we show that our construction is saturated, in the sense that it is not properly contained in any other such system of curves.",
         "sources": {
-            "pdf": "https://www.dropbox.com/scl/fi/e9tefasapsavir6786ya7/P-A-saturated-1-system-of-curves-on-the-surface-of-genus-3-Zhaoshen-Zhai.pdf?rlkey=sf2aegmyeb0qg0wfc6l889f4z&st=ts3v4i0m&dl=0",
+            "pdf": "data/1_system_of_curves.pdf",
             "arxiv": "https://arxiv.org/abs/2310.10814",
             "journal": "https://link.springer.com/article/10.1007/s10711-025-01009-2"
         },
@@ -80,7 +80,7 @@
     {
         "title": "Bounded Arithmetic, Constant-depth Frege Proofs, and the Linear Time Hierarchy",
         "sources": {
-            "slides": "https://www.dropbox.com/scl/fi/asborud956d3yew85ylmf/S-Bounded-Arithmetic-Constant-depth-Frege-Proofs-and-the-Linear-Time-Hierarchy-Nathan-Acheampong-Zhaoshen-Zhai.pdf?rlkey=ljaf7cn2u644whzt4nmtff2eg&st=txg55zng&dl=0"
+            "slides": "data/bounded_arithmetic.pdf"
         },
         "info": [
             "<span style='color: gray'>Project for <i>COMP532: Propositional Proof Complexity</i>, by Professor <a href='https://www.cs.mcgill.ca/~robere/' target='_blank'>Robert Robere</a>.</span>",

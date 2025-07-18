@@ -39,3 +39,7 @@
     line-height: 1.2;
     font-size: 20px;
 }
+
+.data_abstract p {
+    margin-bottom: 0;
+}

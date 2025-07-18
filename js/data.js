@@ -1,20 +1,61 @@
 document.addEventListener('DOMContentLoaded', (e) => {
+    initData();
+    initSectionButtons();
+});
+
+function initData() {
     var research = document.getElementById('publications');
     var talks = document.getElementById('seminar_talks');
     var exposition = document.getElementById('expositions');
 
     fetch('./data.json').then(response => response.json())
     .then((data) => {
-        var researchList = Object.values(data).filter(item => item.type == 'research');
+        var values = Object.values(data);
+        var researchList = values.filter(item => item.type == 'research');
         insertData(research, researchList);
 
-        var talksList = Object.values(data).filter(item => item.type == 'talk');
+        var talksList = values.filter(item => item.type == 'talk');
         insertData(talks, talksList);
 
-        var expositionList = Object.values(data).filter(item => item.type == 'exposition');
-        insertData(exposition, expositionList);
+        var expList = values.filter(item => item.type == 'exposition');
+        insertData(exposition, expList);
     });
-});
+}
+
+function initSectionButtons() {
+    var sections = document.getElementsByClassName('section_content');
+    for (var i = 0; i < sections.length; i++) {
+        sections[i].addEventListener('mouseenter', function() {
+            var button = this.getElementsByClassName('section_button')[0];
+            button.style.opacity = '1';
+        });
+        sections[i].addEventListener('mouseleave', function() {
+            var button = this.getElementsByClassName('section_button')[0];
+            button.style.opacity = '0';
+        });
+    }
+
+    var buttons = document.getElementsByClassName('section_button');
+    for (var i = 0; i < buttons.length; i++) {
+        buttons[i].addEventListener('click', function() {
+            var section = this.parentElement;
+            var ratio = calculateExpandedRatio(section);
+            var arrows = section.getElementsByClassName('data_arrow');
+
+            for (var j = 0; j < arrows.length; j++) {
+                var arrow = arrows[j];
+                if (ratio > 0.5) {
+                    collapseAbstract(arrow);
+                } else {
+                    expandAbstract(arrow);
+                }
+            }
+
+            ratio = calculateExpandedRatio(section);
+            updateButton(this, ratio);
+        });
+    }
+}
 
 function insertData(container, list) {
     var listContainer = document.createElement('ol');
@@ -51,7 +92,9 @@ function insertData(container, list) {
 
         if (list[i].abstract) {
             createAbstract(item, list[i].abstract);
-            arrow.addEventListener('click', function () { toggleAbstract(this) });
+            arrow.addEventListener('click', function () {
+                toggleAbstract(this)
+            });
         } else {
             arrow.classList.remove('data_arrow');
             arrow.classList.add('data_arrow_disabled');
@@ -88,22 +131,65 @@ function createAbstract(parEl, data) {
 
     var div = document.createElement('div');
     div.classList.add('data_abstract');
+    div.classList.add('data_abstract_collapsed');
     div.appendChild(el);
 
     parEl.appendChild(div);
 }
 
-function toggleAbstract(el) {
-    console.log(el);
-    var par = el.parentElement;
-    var abs = par.getElementsByClassName('data_abstract')[0];
+function toggleAbstract(arrow) {
+    var item = arrow.parentElement;
+    var abs = item.getElementsByClassName('data_abstract')[0];
     if (abs.style.maxHeight) {
-        abs.style.maxHeight = null;
-        abs.style.opacity = '0';
-        el.style.rotate = '0deg';
+        collapseAbstract(arrow);
     } else {
-        abs.style.maxHeight = abs.scrollHeight + 'px';
-        abs.style.opacity = '1';
-        el.style.rotate = '-180deg';
+        expandAbstract(arrow);
+    }
+
+    var section = item.parentElement.parentElement;
+    var ratio = calculateExpandedRatio(section);
+    var button = section.getElementsByClassName('section_button')[0];
+    updateButton(button, ratio);
+}
+
+function expandAbstract(arrow) {
+    var item = arrow.parentElement;
+    var abs = item.getElementsByClassName('data_abstract')[0];
+
+    abs.style.maxHeight = abs.scrollHeight + 'px';
+    abs.style.opacity = '1';
+    arrow.style.rotate = '-180deg';
+    arrow.classList.add('data_abstract_expanded');
+    arrow.classList.remove('data_abstract_collapsed');
+}
+function collapseAbstract(arrow) {
+    var item = arrow.parentElement;
+    var abs = item.getElementsByClassName('data_abstract')[0];
+
+    abs.style.maxHeight = null;
+    abs.style.opacity = '0';
+    arrow.style.rotate = '0deg';
+    arrow.classList.add('data_abstract_collapsed');
+    arrow.classList.remove('data_abstract_expanded');
+}
+
+function calculateExpandedRatio(section) {
+    var arrows = section.getElementsByClassName('data_arrow');
+
+    var numExpanded = 0;
+    for (var i = 0; i < arrows.length; i++) {
+        if (arrows[i].classList.contains('data_abstract_expanded')) {
+            numExpanded++;
+        }
+    }
+
+    return numExpanded / arrows.length;
+}
+
+function updateButton(button, ratio) {
+    if (ratio > 0.5) {
+        button.innerText = '[-]';
+    } else {
+        button.innerText = '[+]';
     }
 }

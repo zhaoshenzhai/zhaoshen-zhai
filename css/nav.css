@@ -4,6 +4,10 @@
     top: 50px;
 }
 
+#title:hover {
+    cursor: pointer;
+}
+
 #title_sep {
     padding: 0px 10px;
 }

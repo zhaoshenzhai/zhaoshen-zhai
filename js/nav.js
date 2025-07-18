@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
                 document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.remove('active');
             }
         });
-    });
+    }, {rootMargin: '-150px'});
 
     document.querySelectorAll('section[id]').forEach((section) => {
         observer.observe(section);

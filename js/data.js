@@ -6,25 +6,31 @@ document.addEventListener('DOMContentLoaded', (e) => {
     fetch('./data.json').then(response => response.json())
     .then((data) => {
         var researchList = Object.values(data).filter(item => item.type == 'research');
-        insertData(research, researchList, 'ol');
+        insertData(research, researchList);
 
         var talksList = Object.values(data).filter(item => item.type == 'talk');
-        insertData(talks, talksList, 'ul');
+        insertData(talks, talksList);
 
         var expositionList = Object.values(data).filter(item => item.type == 'exposition');
-        insertData(exposition, expositionList, 'ul');
+        insertData(exposition, expositionList);
     });
 });
 
-function insertData(container, list, type) {
-    var listContainer = document.createElement(type);
+function insertData(container, list) {
+    var listContainer = document.createElement('ol');
     listContainer.classList.add('data_list');
     container.appendChild(listContainer);
 
     for (var i = 0; i < list.length; i++) {
-        var item = document.createElement('li');
+        var item = document.createElement('div');
         item.classList.add('data_item');
         listContainer.appendChild(item);
+
+        var arrow = document.createElement('img');
+        arrow.classList.add('data_arrow');
+        arrow.classList.add('noSelect');
+        arrow.src = "css/fa/arrow-head.svg";
+        item.appendChild(arrow);
 
         var title = document.createElement('span');
         title.classList.add('data_title');
@@ -45,8 +51,12 @@ function insertData(container, list, type) {
 
         if (list[i].abstract) {
             createAbstract(item, list[i].abstract);
-            title.classList.add('data_title_button')
-            title.addEventListener('click', function () { toggleAbstract(this) });
+            arrow.addEventListener('click', function () { toggleAbstract(this) });
+        } else {
+            arrow.classList.remove('data_arrow');
+            arrow.classList.add('data_arrow_disabled');
+            arrow.style.opacity = '0';
+            arrow.pointer_events = 'none';
         }
     }
 }
@@ -84,11 +94,16 @@ function createAbstract(parEl, data) {
 }
 
 function toggleAbstract(el) {
+    console.log(el);
     var par = el.parentElement;
     var abs = par.getElementsByClassName('data_abstract')[0];
     if (abs.style.maxHeight) {
         abs.style.maxHeight = null;
+        abs.style.opacity = '0';
+        el.style.rotate = '0deg';
     } else {
         abs.style.maxHeight = abs.scrollHeight + 'px';
+        abs.style.opacity = '1';
+        el.style.rotate = '-180deg';
     }
 }

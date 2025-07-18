@@ -4,6 +4,7 @@ a {
 }
 
 .source {
+    border-radius: 8px;
     background-color: white;
     transition: background-color 0.1s linear;
 }
@@ -14,6 +15,5 @@ a {
 
 .source:hover {
     background-color: rgb(240, 240, 240);
-    border-radius: 5px;
     cursor: pointer;
 }

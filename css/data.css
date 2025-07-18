@@ -1,30 +1,41 @@
-.data_title {
-    margin-left: -5px;
-    text-decoration: underline;
-    padding: 0 10px;
-    background-color: white;
-    transition: background-color 0.1s linear;
+.data_item {
+    margin-bottom: 10px;
 }
 
-.data_title_button:hover {
+.data_arrow, .data_arrow_disabled {
+    left: -20px;
+    width: 15px;
+    border-radius: 8px;
+    padding: 8px;
+    vertical-align: middle;
+    background-color: white;
+    transition: background-color 0.2s, rotate 0.3s;
+}
+
+.data_arrow:hover {
     background-color: rgb(240, 240, 240);
-    border-radius: 5px;
     cursor: pointer;
+}
+
+.data_title {
+    margin-left: 10px;
+    text-decoration: underline;
+    padding: 0px 10px;
 }
 
 .data_info {
     display: block;
     position: relative;
-    left: 20px;
+    left: 60px;
 }
 
 .data_abstract {
-    position: relative;
     overflow: hidden;
+    position: relative;
     max-height: 0;
-    transition: max-height 0.2s ease-out;
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
     top: -10px;
-    left: 20px;
+    left: 60px;
     line-height: 1.2;
     font-size: 20px;
 }

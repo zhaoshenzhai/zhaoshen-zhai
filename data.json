@@ -35,9 +35,6 @@
     {
         "title": "An exposition of the Ribes-Zalesskii Theorem",
         "abstract": "We give a detailed proof of the Ribes-Zalesskii product theorem for pro-$\\mathcal{C}$ topologies, where $\\mathcal{C}$ is a pseudovariety of groups closed under extensions. The proof relies on geometric properties of the profinite Cayley graph of the pro-$\\mathcal{C}$ completion of free groups, which we develop here following <a href='https://link.springer.com/book/10.1007/978-3-319-61199-0' target='_blank'>[Rib17]</a>.",
-        "sources": {
-            "pdf": "data/ribes_zalesskii.pdf"
-        },
         "info": [
             "<span style='color: gray'>Summer 2025 research project, supervised by Professor <a href='https://www.math.mcgill.ca/msabok/' target='_blank'>Marcin Sabok</a> (in preparation).</span>"
         ],

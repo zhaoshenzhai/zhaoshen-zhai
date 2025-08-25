@@ -33,10 +33,13 @@
         "type": "talk"
     },
     {
-        "title": "An exposition of the Ribes-Zalesskii Theorem",
-        "abstract": "We give a detailed proof of the Ribes-Zalesskii product theorem for pro-$\\mathcal{C}$ topologies, where $\\mathcal{C}$ is a pseudovariety of groups closed under extensions. The proof relies on geometric properties of the profinite Cayley graph of the pro-$\\mathcal{C}$ completion of free groups, which we develop here following <a href='https://link.springer.com/book/10.1007/978-3-319-61199-0' target='_blank'>[Rib17]</a>.",
+        "title": "The Ribes-Zalesskiĭ theorem via foldings and extensions",
+        "abstract": "We present an exposition of the Auinger-Steinberg proof of the Ribes-Zalesskiĭ product theorem for pro-$\\mathbf{V}$ topologies, where $\\mathbf{V}$ is a pseudovariety of groups closed under extensions with abelian kernel. This proof is self-contained and is accessible to those acquainted with coverings of graphs, and as such, it provides an easy entry point to various other deep theorems for which the product theorem is formally equivalent to.",
+        "sources": {
+            "pdf": "data/ribes_zalesskii.pdf"
+        },
         "info": [
-            "<span style='color: gray'>Summer 2025 research project, supervised by Professor <a href='https://www.math.mcgill.ca/msabok/' target='_blank'>Marcin Sabok</a> (in preparation).</span>"
+            "<span style='color: gray'>Summer 2025 research project, supervised by Professor <a href='https://www.math.mcgill.ca/msabok/' target='_blank'>Marcin Sabok</a>.</span>"
         ],
         "type": "exposition"
     },
@@ -70,7 +73,7 @@
             "pdf": "data/moduli_spaces.pdf"
         },
         "info": [
-            "<span style='color: gray'>Report for McGill's Winter 2023 <a href='https://math.mcgill.ca/gsams/drp/' target='_blank'>Directed Reading Program</a>, supervised by <a href='https://kaleb.ruscitti.ca/' target='_blank'>Kaleb Ruscitti</a>.</span>"
+            "<span style='color: gray'>Report for McGill’s Winter 2023 <a href='https://math.mcgill.ca/gsams/drp/' target='_blank'>Directed Reading Program</a>, supervised by <a href='https://kaleb.ruscitti.ca/' target='_blank'>Kaleb Ruscitti</a>.</span>"
         ],
         "type": "exposition"
     },

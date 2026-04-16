@@ -32,12 +32,19 @@
         <script>
             const params = new URLSearchParams(window.location.search);
             const noteId = params.get('note');
-
             const container = document.getElementById('svg-container');
 
             if (noteId) {
-                const svgPath = `./notes/${noteId}.svg`;
+                const svgPath = `notes/${noteId}.svg`;
                 container.innerHTML = `<object data="${svgPath}" type="image/svg+xml" class="latex-document" id="note-svg"></object>`;
+
+                const obj = document.getElementById('note-svg');
+                obj.onload = function() {
+                    const svgDoc = obj.contentDocument;
+                    if (svgDoc) {
+                        svgDoc.querySelectorAll('a').forEach(a => a.setAttribute('target', '_top'));
+                    }
+                };
             } else {
                 container.innerHTML = "<div class='error-msg'>No note ID provided. Please use a link with ?note=ID</div>";
             }

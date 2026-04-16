@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Viewer</title>
         <style>
-            /* Isolated styling */
             body {
                 background-color: white;
                 margin: 0;
@@ -31,20 +30,15 @@
         <div id="svg-container" class="latex-document"></div>
 
         <script>
-            // Grab the note ID from the URL (e.g., ?note=20781)
             const params = new URLSearchParams(window.location.search);
             const noteId = params.get('note');
 
             const container = document.getElementById('svg-container');
 
             if (noteId) {
-                // Point to the notes directory (one level up from /attic/)
-                const svgPath = `../notes/${noteId}.svg`;
-
-                // Inject the SVG
+                const svgPath = `./notes/${noteId}.svg`;
                 container.innerHTML = `<object data="${svgPath}" type="image/svg+xml" class="latex-document" id="note-svg"></object>`;
             } else {
-                // Handle cases where someone just visits /attic/ without a note ID
                 container.innerHTML = "<div class='error-msg'>No note ID provided. Please use a link with ?note=ID</div>";
             }
         </script>

@@ -42,7 +42,24 @@
                 obj.onload = function() {
                     const svgDoc = obj.contentDocument;
                     if (svgDoc) {
-                        svgDoc.querySelectorAll('a').forEach(a => a.setAttribute('target', '_top'));
+                        svgDoc.querySelectorAll('a').forEach(a => {
+                            a.setAttribute('target', '_top');
+
+                            try {
+                                const bbox = a.getBBox();
+                                const rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+                                rect.setAttribute("x", bbox.x);
+                                rect.setAttribute("y", bbox.y);
+                                rect.setAttribute("width", bbox.width);
+                                rect.setAttribute("height", bbox.height);
+                                rect.setAttribute("fill", "transparent");
+                                rect.setAttribute("pointer-events", "all");
+
+                                a.insertBefore(rect, a.firstChild);
+                            } catch(e) {
+                                console.error("Failed to generate bounding box for link");
+                            }
+                        });
                     }
                 };
             } else {

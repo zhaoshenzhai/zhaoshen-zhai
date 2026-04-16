@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Viewer</title>
+        <style>
+            /* Isolated styling */
+            body {
+                background-color: white;
+                margin: 0;
+                padding: 2rem;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                font-family: sans-serif;
+            }
+            .latex-document {
+                width: 100%;
+                max-width: 800px;
+                border: none;
+                min-height: 80vh;
+            }
+            .error-msg {
+                color: #666;
+                margin-top: 2rem;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="svg-container" class="latex-document"></div>
+
+        <script>
+            // Grab the note ID from the URL (e.g., ?note=20781)
+            const params = new URLSearchParams(window.location.search);
+            const noteId = params.get('note');
+
+            const container = document.getElementById('svg-container');
+
+            if (noteId) {
+                // Point to the notes directory (one level up from /attic/)
+                const svgPath = `../notes/${noteId}.svg`;
+
+                // Inject the SVG
+                container.innerHTML = `<object data="${svgPath}" type="image/svg+xml" class="latex-document" id="note-svg"></object>`;
+            } else {
+                // Handle cases where someone just visits /attic/ without a note ID
+                container.innerHTML = "<div class='error-msg'>No note ID provided. Please use a link with ?note=ID</div>";
+            }
+        </script>
+    </body>
+</html>

@@ -41,15 +41,12 @@ text.f15 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f14' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/03/24</tspan><tspan fill='#808080' x='114.319304'>12:00:00</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[</tspan></text>
 <text class='f13' x='50.809465' y='11.357373'><tspan fill='#808080'>σ</tspan></text>
 <text class='f14' x='55.934761' y='11.357373'><tspan fill='#808080'>-compactness,</tspan><tspan fill='#808080' x='115.212469'>Baire</tspan><tspan fill='#808080' x='140.617201'>space,</tspan><tspan fill='#808080' x='170.256056'>Hurewicz]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
-<a href='/notes/15568/15568.svg' style='cursor: pointer;' target='_top'>
-<path d='M59.777345 24.70703C60.101564 24.50391 60.410157 24.30859 60.773439 24.30859C61.13281 24.30859 61.44531 24.50391 61.76953 24.70703C62.09375 24.91016 62.40234 25.10547 62.76563 25.10547C63.125 25.10547 63.4375 24.91016 63.76172 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M63.76172 24.70703C64.085939 24.50391 64.398439 24.30859 64.757814 24.30859C65.11719 24.30859 65.42969 24.50391 65.75391 24.70703C66.07813 24.91016 66.39063 25.10547 66.75 25.10547C67.10938 25.10547 67.42188 24.91016 67.7461 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M67.746092 24.70703C68.07031 24.50391 68.38281 24.30859 68.742185 24.30859S69.41406 24.50391 69.73828 24.70703C70.0625 24.91016 70.375 25.10547 70.73437 25.10547C71.09375 25.10547 71.40625 24.91016 71.73047 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M71.730466 24.70703C72.054685 24.50391 72.367185 24.30859 72.72656 24.30859C73.08984 24.30859 73.39843 24.50391 73.72265 24.70703C74.04687 24.91016 74.35937 25.10547 74.71875 25.10547C75.08203 25.10547 75.39062 24.91016 75.71484 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f14' x='59.277709' y='22.714746'><tspan fill='#808080'>15568</tspan></text>
-</a>
-<text class='f14' x='80.446327' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
+<path d='M59.277345 24.70703C59.601564 24.50391 59.914064 24.30859 60.273439 24.30859C60.63281 24.30859 60.94531 24.50391 61.26953 24.70703C61.59375 24.91016 61.90625 25.10547 62.26563 25.10547C62.62891 25.10547 62.9375 24.91016 63.26172 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M63.26172 24.70703C63.585939 24.50391 63.898439 24.30859 64.257814 24.30859C64.6211 24.30859 64.92969 24.50391 65.25391 24.70703C65.58203 24.91016 65.89063 25.10547 66.25 25.10547C66.61328 25.10547 66.92188 24.91016 67.2461 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M67.246091 24.70703C67.574216 24.50391 67.88281 24.30859 68.242185 24.30859C68.60547 24.30859 68.91406 24.50391 69.24218 24.70703C69.5664 24.91016 69.875 25.10547 70.23828 25.10547C70.59765 25.10547 70.90625 24.91016 71.23437 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M71.234372 24.70703C71.558591 24.50391 71.867185 24.30859 72.230466 24.30859C72.58984 24.30859 72.90234 24.50391 73.22656 24.70703C73.55078 24.91016 73.85937 25.10547 74.22265 25.10547C74.58203 25.10547 74.89453 24.91016 75.21875 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M75.218747 24.70703C75.542966 24.50391 75.855466 24.30859 76.214841 24.30859C76.57422 24.30859 76.88672 24.50391 77.21093 24.70703C77.53515 24.91016 77.84765 25.10547 78.20703 25.10547C78.5664 25.10547 78.8789 24.91016 79.20312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f14' x='59.277709' y='22.714746'><tspan fill='#808080'>15568</tspan><tspan fill='#808080' x='80.446327' y='22.714746'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
 <text class='f15' x='0' y='58.380925'>W<tspan x='9.409367'>e</tspan><tspan x='17.158142'>sho</tspan><tspan x='31.327219'>w</tspan><tspan x='41.843117'>that</tspan><tspan x='63.429009'>the</tspan><tspan x='80.587003'>Baire</tspan><tspan x='107.043052'>space</tspan></text>
 <text class='f8' x='133.665552' y='58.380925'>N</text>
 <text class='f11' x='146.075221' y='58.034978'>:<tspan x='148.178448' y='58.380925'>=</tspan></text>
@@ -87,7 +84,6 @@ text.f15 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f15' x='312.428892' y='117.359645'>of<tspan x='323.456128'>compact</tspan><tspan x='362.987485'>subsets</tspan><tspan x='397.150475'>in</tspan></text>
 <text class='f8' x='408.454431' y='117.359645'>N</text>
 <text class='f15' x='418.096768' y='117.359645'>,<tspan x='423.9298'>their</tspan><tspan x='447.438175'>trees</tspan></text>
-<a href='/notes/15568/15568.svg' style='cursor: pointer;' target='_top'>
 <path d='M0 133.69923C.324219 133.4961 .636719 133.30079 .996094 133.30079C1.35547 133.30079 1.66797 133.4961 1.99219 133.69923C2.31641 133.90235 2.62891 134.09766 2.98828 134.09766C3.34766 134.09766 3.66016 133.90235 3.98438 133.69923' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M3.984375 133.69923C4.308594 133.4961 4.621094 133.30079 4.980469 133.30079C5.34375 133.30079 5.65234 133.4961 5.97656 133.69923C6.30078 133.90235 6.61328 134.09766 6.97266 134.09766C7.33594 134.09766 7.64453 133.90235 7.96875 133.69923' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M7.96875 133.69923C8.292969 133.4961 8.605469 133.30079 8.964844 133.30079C9.32813 133.30079 9.63672 133.4961 9.96094 133.69923C10.28906 133.90235 10.59766 134.09766 10.95703 134.09766C11.32031 134.09766 11.62891 133.90235 11.95703 133.69923' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -112,18 +108,16 @@ text.f15 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M79.699216 133.69923C80.027341 133.4961 80.335934 133.30079 80.699216 133.30079C81.05859 133.30079 81.36718 133.4961 81.69531 133.69923C82.01953 133.90235 82.32812 134.09766 82.6914 134.09766C83.05078 134.09766 83.36328 133.90235 83.6875 133.69923' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M83.687497 133.69923C84.011716 133.4961 84.320309 133.30079 84.683591 133.30079C85.04297 133.30079 85.35547 133.4961 85.67968 133.69923C86.0039 133.90235 86.3125 134.09766 86.67578 134.09766C87.03515 134.09766 87.34765 133.90235 87.67187 133.69923' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M87.671871 133.69923C87.99609 133.4961 88.30859 133.30079 88.667965 133.30079S89.33984 133.4961 89.66406 133.69923C89.98828 133.90235 90.30078 134.09766 90.66015 134.09766C91.01953 134.09766 91.33203 133.90235 91.65625 133.69923' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f15' x='16.939939' y='131.70581'>ﬁnitely-branc<tspan x='74.529706'>hing</tspan></text>
-</a>
-<text class='f15' x='93.347867' y='131.70581'>,<tspan x='99.820864'>so</tspan><tspan x='112.36063'>there</tspan><tspan x='138.156369'>is</tspan></text>
-<text class='f10' x='148.482195' y='131.70581'>x</text>
-<text class='f9' x='154.176127' y='133.200191'>n</text>
-<text class='f8' x='162.879436' y='131.70581'>∈<tspan x='172.801551'>N</tspan></text>
-<text class='f15' x='186.072553' y='131.70581'>dominating<tspan x='238.960519'>ev</tspan><tspan x='248.369947'>ery</tspan><tspan x='265.586845'>elemen</tspan><tspan x='295.19778'>t</tspan><tspan x='302.700939'>of</tspan></text>
-<text class='f10' x='314.355005' y='131.70581'>K</text>
-<text class='f9' x='322.816346' y='133.200191'>n</text>
-<text class='f15' x='331.868019' y='131.70581'>for<tspan x='347.424142'>eac</tspan><tspan x='360.984512'>h</tspan></text>
-<text class='f10' x='370.147933' y='131.70581'>n</text>
-<text class='f15' x='376.127858' y='131.70581'>;<tspan x='382.677807'>diagonalizing</tspan><tspan x='443.314729'>yields</tspan><tspan x='0' y='146.051976'>an</tspan><tspan x='13.836936'>elemen</tspan><tspan x='43.44787'>t</tspan></text>
+<text class='f15' x='16.632133' y='131.70581'>ﬁnitely-branc<tspan x='74.221901'>hing</tspan><tspan x='93.040062' y='131.70581'>,</tspan><tspan x='99.534341'>so</tspan><tspan x='112.091133'>there</tspan><tspan x='137.903883'>is</tspan></text>
+<text class='f10' x='148.24672' y='131.70581'>x</text>
+<text class='f9' x='153.940652' y='133.200191'>n</text>
+<text class='f8' x='162.672343' y='131.70581'>∈<tspan x='172.622823'>N</tspan></text>
+<text class='f15' x='185.910851' y='131.70581'>dominating<tspan x='238.815843'>ev</tspan><tspan x='248.225272'>ery</tspan><tspan x='265.459181'>elemen</tspan><tspan x='295.070115'>t</tspan><tspan x='302.5903'>of</tspan></text>
+<text class='f10' x='314.261393' y='131.70581'>K</text>
+<text class='f9' x='322.722733' y='133.200191'>n</text>
+<text class='f15' x='331.791432' y='131.70581'>for<tspan x='347.364566'>eac</tspan><tspan x='360.924936'>h</tspan></text>
+<text class='f10' x='370.105368' y='131.70581'>n</text>
+<text class='f15' x='376.085293' y='131.70581'>;<tspan x='382.660796'>diagonalizing</tspan><tspan x='443.314729'>yields</tspan><tspan x='0' y='146.051976'>an</tspan><tspan x='13.836936'>elemen</tspan><tspan x='43.44787'>t</tspan></text>
 <text class='f10' x='50.643224' y='146.051976'>x</text>
 <text class='f8' x='59.104488' y='146.051976'>∈<tspan x='68.513603'>N</tspan></text>
 <text class='f15' x='81.476814' y='146.051976'>dominating<tspan x='134.056975'>ev</tspan><tspan x='143.466403'>ery</tspan><tspan x='160.375496'>elemen</tspan><tspan x='189.98643'>t</tspan><tspan x='197.181783'>of</tspan></text>

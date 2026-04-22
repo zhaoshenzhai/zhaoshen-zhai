@@ -64,7 +64,16 @@ text.f14 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M143.460932 24.70703C143.785151 24.50391 144.097651 24.30859 144.457026 24.30859C144.82031 24.30859 145.1289 24.50391 145.45312 24.70703C145.78124 24.91016 146.08984 25.10547 146.44921 25.10547C146.81249 25.10547 147.12109 24.91016 147.44531 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f13' x='127.013704' y='22.714746'><tspan fill='#808080'>80288</tspan></text>
 </a>
-<text class='f13' x='152.418436' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
+<text class='f13' x='152.418436' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
+<a href='../?note=86162' style='cursor: pointer;' target='_top'>
+<path d='M71.730466 36.0664C72.054685 35.85937 72.367185 35.66797 72.72656 35.66797C73.08984 35.66797 73.39843 35.85937 73.72265 36.0664C74.04687 36.26953 74.35937 36.46484 74.71875 36.46484C75.08203 36.46484 75.39062 36.26953 75.71484 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M75.714841 36.0664C76.03906 35.85937 76.35156 35.66797 76.710935 35.66797C77.07422 35.66797 77.38281 35.85937 77.70703 36.0664C78.03515 36.26953 78.34375 36.46484 78.70312 36.46484C79.0664 36.46484 79.375 36.26953 79.70312 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M79.699216 36.0664C80.027341 35.85937 80.335934 35.66797 80.699216 35.66797C81.05859 35.66797 81.36718 35.85937 81.69531 36.0664C82.01953 36.26953 82.32812 36.46484 82.6914 36.46484C83.05078 36.46484 83.36328 36.26953 83.6875 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M83.687497 36.0664C84.011716 35.85937 84.320309 35.66797 84.683591 35.66797C85.04297 35.66797 85.35547 35.85937 85.67968 36.0664C86.0039 36.26953 86.3125 36.46484 86.67578 36.46484C87.03515 36.46484 87.34765 36.26953 87.67187 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M87.671871 36.0664C87.99609 35.85937 88.30859 35.66797 88.667965 35.66797S89.33984 35.85937 89.66406 36.0664C89.98828 36.26953 90.30078 36.46484 90.66015 36.46484C91.01953 36.46484 91.33203 36.26953 91.65625 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f13' x='71.980075' y='34.07212'><tspan fill='#808080'>86162</tspan></text>
+</a>
+<text class='f13' x='97.380824' y='34.07212'><tspan fill='#808080'>]</tspan></text>
 <text class='f14' x='0' y='58.380925'>Let</text>
 <text class='f10' x='17.849902' y='58.380925'>L</text>
 <text class='f14' x='27.950924' y='58.380925'>b<tspan x='33.762414'>e</tspan><tspan x='41.511188'>a</tspan><tspan x='49.813383'>con</tspan><tspan x='64.480595'>tin</tspan><tspan x='76.380445'>uous</tspan><tspan x='99.681888'>ﬁrst-order</tspan><tspan x='146.312707'>language.</tspan></text>
@@ -225,7 +234,7 @@ text.f14 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f10' x='125.245127' y='168.803495'>d</text>
 <text class='f12' x='130.430559' y='168.803495'>(</text>
 <rect x='134.305038' y='159.934365' height='.487658' width='4.275623'/>
-<text class='f10' x='134.305038' y='168.803495'>b<tspan x='138.580661' y='168.803495'>,</tspan><tspan x='143.008468'>K</tspan></text>
+<text class='f10' x='134.305038' y='168.803495'>b<tspan x='138.580661'>,</tspan><tspan x='143.008468'>K</tspan></text>
 <text class='f12' x='152.182408' y='168.803495'>)<tspan x='158.824219'>=</tspan><tspan x='169.340489'>0</tspan></text>
 <text class='f14' x='174.321809' y='168.803495'>,<tspan x='179.656511'>then</tspan><tspan x='201.407297'>there</tspan><tspan x='225.953268'>is</tspan><tspan x='235.02934'>a</tspan><tspan x='242.389587'>sequence</tspan></text>
 <text class='f12' x='282.73762' y='168.803495'>(</text>
@@ -243,7 +252,7 @@ text.f14 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f10' x='407.402014' y='168.803495'>d</text>
 <text class='f12' x='412.587446' y='168.803495'>(</text>
 <rect x='416.461925' y='159.934365' height='.487658' width='4.275623'/>
-<text class='f10' x='416.461925' y='168.803495'>b<tspan x='420.737548' y='168.803495'>,</tspan></text>
+<text class='f10' x='416.461925' y='168.803495'>b<tspan x='420.737548'>,</tspan></text>
 <rect x='425.165355' y='162.563407' height='.487658' width='4.311393'/>
 <text class='f10' x='425.165355' y='168.803495'>c</text>
 <text class='f9' x='429.476748' y='170.297876'>n</text>

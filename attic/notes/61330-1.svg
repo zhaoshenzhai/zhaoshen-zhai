@@ -41,7 +41,7 @@ text.f12 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f11' x='59.277709' y='22.714746'><tspan fill='#808080'>25443</tspan></text>
 </a>
-<text class='f11' x='80.448319' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
+<text class='f11' x='84.682441' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
 <a href='../?note=65537' style='cursor: pointer;' target='_top'>
 <path d='M71.730466 36.0664C72.054685 35.85937 72.367185 35.66797 72.72656 35.66797C73.08984 35.66797 73.39843 35.85937 73.72265 36.0664C74.04687 36.26953 74.35937 36.46484 74.71875 36.46484C75.08203 36.46484 75.39062 36.26953 75.71484 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M75.714841 36.0664C76.03906 35.85937 76.35156 35.66797 76.710935 35.66797C77.07422 35.66797 77.38281 35.85937 77.70703 36.0664C78.03515 36.26953 78.34375 36.46484 78.70312 36.46484C79.0664 36.46484 79.375 36.26953 79.70312 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -50,7 +50,7 @@ text.f12 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M87.671871 36.0664C87.99609 35.85937 88.30859 35.66797 88.667965 35.66797S89.33984 35.85937 89.66406 36.0664C89.98828 36.26953 90.30078 36.46484 90.66015 36.46484C91.01953 36.46484 91.33203 36.26953 91.65625 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f11' x='71.980075' y='34.07212'><tspan fill='#808080'>65537</tspan></text>
 </a>
-<text class='f11' x='93.148693' y='34.07212'><tspan fill='#808080'>]</tspan></text>
+<text class='f11' x='97.382816' y='34.07212'><tspan fill='#808080'>]</tspan></text>
 <text class='f12' x='0' y='58.380925'>Let</text>
 <text class='f9' x='18.592722' y='58.380925'>X</text>
 <text class='f12' x='31.691973' y='58.380925'>b<tspan x='37.503462'>e</tspan><tspan x='45.995056'>a</tspan><tspan x='55.040071'>top</tspan><tspan x='69.707359'>ological</tspan><tspan x='106.426373'>space</tspan><tspan x='133.791692'>and</tspan></text>
@@ -112,7 +112,7 @@ text.f12 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M19.925781 74.71875C20.249999 74.51563 20.562499 74.32032 20.921874 74.32032C21.28125 74.32032 21.59375 74.51563 21.91797 74.71875C22.24219 74.92188 22.55469 75.11719 22.91406 75.11719C23.27344 75.11719 23.58594 74.92188 23.91016 74.71875' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f12' x='0' y='72.72709'>space</text>
 </a>
-<text class='f12' x='26.622486' y='72.72709'>under<tspan x='54.877524'>the</tspan><tspan x='72.035518'>uniform</tspan><tspan x='109.422561'>norm.</tspan></text>
+<text class='f12' x='29.943361' y='72.72709'>under<tspan x='58.198399'>the</tspan><tspan x='75.356392'>uniform</tspan><tspan x='112.743436'>norm.</tspan></text>
 <text class='f3' x='0' y='95.043368'>Theorem.</text>
 <text class='f4' x='52.99576' y='95.043368'>F<tspan x='58.735569'>or</tspan><tspan x='71.592779'>an</tspan><tspan x='85.850073'>e</tspan><tspan x='89.923683'>quic</tspan><tspan x='106.981943'>ontinuous</tspan><tspan x='153.06413'>se</tspan><tspan x='161.211467'>quenc</tspan><tspan x='185.398336'>e</tspan></text>
 <text class='f10' x='193.545568' y='95.043368'>(</text>

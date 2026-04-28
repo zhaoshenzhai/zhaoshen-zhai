@@ -44,7 +44,7 @@ text.f18 {font-family:ec-mlmr10;font-size:9.96264px}
 </style>
 <g id='page1'>
 <text class='f0' x='173.856492' y='-27.297658'>ZHA<tspan x='190.232792'>OSHEN</tspan><tspan x='220.550236'>ZHAI</tspan><tspan x='242.703621'>/</tspan><tspan x='249.359114'>THE</tspan><tspan x='268.966541'>A</tspan><tspan x='274.204056'>TTIC</tspan><tspan x='464.028919'>1</tspan></text>
-<text class='f17' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/04/27</tspan><tspan fill='#808080' x='114.319304'>19:47:40</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[algebraicity</tspan></text>
+<text class='f17' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/04/27</tspan><tspan fill='#808080' x='114.319304'>22:12:21</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[algebraicity</tspan></text>
 <text class='f14' x='105.853051' y='11.357373'><tspan fill='#808080'>⇔</tspan></text>
 <text class='f17' x='118.555539' y='11.357373'><tspan fill='#808080'>approximate</tspan><tspan fill='#808080' x='169.365003'>algebraicity]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
 <a href='../?note=75189' style='cursor: pointer;' target='_top'>
@@ -407,9 +407,7 @@ text.f18 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f18' x='81.943158' y='292.912169'>.<tspan x='89.138376'>By</tspan><tspan x='104.774063'>h</tspan><tspan x='110.032055'>yp</tspan><tspan x='121.101822'>othesis,</tspan><tspan x='156.635426'>there</tspan><tspan x='182.123359'>exists</tspan></text>
 <text class='f11' x='209.6318' y='292.912169'>ε<tspan x='217.044892'>></tspan></text>
 <text class='f13' x='227.560972' y='292.912169'>0</text>
-<text class='f18' x='235.863167' y='292.912169'>suc<tspan x='249.478824'>h</tspan><tspan x='258.33444'>that</tspan><tspan x='279.920332'>the</tspan></text>
-<text class='f11' x='297.078326' y='292.912169'>ω</text>
-<text class='f18' x='303.637057' y='292.912169'>-t<tspan x='310.555664'>yp</tspan><tspan x='321.62543'>e</tspan></text>
+<text class='f18' x='235.863167' y='292.912169'>suc<tspan x='249.478824'>h</tspan><tspan x='258.33444'>that</tspan></text>
 <text class='f11' x='85.808969' y='315.613264'>p</text>
 <text class='f13' x='90.821434' y='315.613264'>(</text>
 <rect x='94.695912' y='309.373176' height='.487658' width='5.693919'/>

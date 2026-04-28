@@ -1,11 +1,28 @@
+:root {
+    --top-space: 8rem;
+    --bot-space: 4rem;
+}
+
 body {
     background-color: #E7E8E9;
     margin: 0;
-    padding: 2rem;
+    padding: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: sans-serif;
+}
+
+.top-space {
+    width: 100%;
+    height: var(--top-space);
+    flex-shrink: 0;
+}
+
+.bot-space {
+    width: 100%;
+    height: var(--bot-space);
+    flex-shrink: 0;
 }
 
 .latex-document {

@@ -43,7 +43,7 @@ text.f13 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f12' x='59.277709' y='22.714746'><tspan fill='#808080'>01712</tspan></text>
 </a>
-<text class='f12' x='84.682441' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
+<text class='f12' x='80.448319' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
 <a href='../?note=13132' style='cursor: pointer;' target='_top'>
 <path d='M71.730466 36.0664C72.054685 35.85937 72.367185 35.66797 72.72656 35.66797C73.08984 35.66797 73.39843 35.85937 73.72265 36.0664C74.04687 36.26953 74.35937 36.46484 74.71875 36.46484C75.08203 36.46484 75.39062 36.26953 75.71484 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M75.714841 36.0664C76.03906 35.85937 76.35156 35.66797 76.710935 35.66797C77.07422 35.66797 77.38281 35.85937 77.70703 36.0664C78.03515 36.26953 78.34375 36.46484 78.70312 36.46484C79.0664 36.46484 79.375 36.26953 79.70312 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -52,7 +52,7 @@ text.f13 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M87.671871 36.0664C87.99609 35.85937 88.30859 35.66797 88.667965 35.66797S89.33984 35.85937 89.66406 36.0664C89.98828 36.26953 90.30078 36.46484 90.66015 36.46484C91.01953 36.46484 91.33203 36.26953 91.65625 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f12' x='71.980075' y='34.07212'><tspan fill='#808080'>13132</tspan></text>
 </a>
-<text class='f12' x='97.384807' y='34.07212'><tspan fill='#808080'>]</tspan></text>
+<text class='f12' x='93.150685' y='34.07212'><tspan fill='#808080'>]</tspan></text>
 <text class='f10' x='0' y='66.351037'>Theorem.</text>
 <text class='f11' x='52.99576' y='66.351037'>The<tspan x='73.363657'>fol</tspan><tspan x='84.820488'>lowing</tspan><tspan x='115.881433'>ar</tspan><tspan x='124.665021'>e</tspan><tspan x='132.812253'>e</tspan><tspan x='136.885863'>quivalent</tspan><tspan x='179.149239'>for</tspan><tspan x='195.061655'>a</tspan><tspan x='203.717957'>metrizable</tspan><tspan x='251.455799'>sp</tspan><tspan x='260.112205'>ac</tspan><tspan x='269.277709'>e</tspan></text>
 <text class='f7' x='277.424941' y='66.351037'>X</text>
@@ -115,11 +115,11 @@ text.f13 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M203.238275 150.41016C203.562493 150.20312 203.874993 150.01172 204.234368 150.01172C204.59374 150.01172 204.90624 150.20312 205.23046 150.41016C205.55468 150.61328 205.86718 150.80859 206.22656 150.80859C206.58593 150.80859 206.89843 150.61328 207.22265 150.41016' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f13' x='173.79313' y='148.415731'>Lindelöf</text>
 </a>
-<text class='f13' x='212.398194' y='148.415731'>,<tspan x='218.486449'>so</tspan><tspan x='230.718409'>it</tspan><tspan x='240.681142'>suﬃces</tspan><tspan x='274.553951'>to</tspan><tspan x='286.730624'>pro</tspan><tspan x='300.871978'>v</tspan><tspan x='305.853507'>e</tspan><tspan x='313.602281'>(2)</tspan></text>
-<text class='f5' x='329.653433' y='148.415731'>⇒</text>
-<text class='f13' x='342.936976' y='148.415731'>(3)</text>
-<text class='f5' x='358.988128' y='148.415731'>⇒</text>
-<text class='f13' x='372.271672' y='148.415731'>(1).</text>
+<text class='f13' x='209.077319' y='148.415731'>,<tspan x='215.165574'>so</tspan><tspan x='227.397534'>it</tspan><tspan x='237.360267'>suﬃces</tspan><tspan x='271.233076'>to</tspan><tspan x='283.40975'>pro</tspan><tspan x='297.551103'>v</tspan><tspan x='302.532632'>e</tspan><tspan x='310.281406'>(2)</tspan></text>
+<text class='f5' x='326.332558' y='148.415731'>⇒</text>
+<text class='f13' x='339.616101' y='148.415731'>(3)</text>
+<text class='f5' x='355.667253' y='148.415731'>⇒</text>
+<text class='f13' x='368.950797' y='148.415731'>(1).</text>
 <text class='f3' x='12.176384' y='170.732008'>•</text>
 <text class='f13' x='24.906631' y='170.732008'>(2)</text>
 <text class='f5' x='40.990816' y='170.732008'>⇒</text>

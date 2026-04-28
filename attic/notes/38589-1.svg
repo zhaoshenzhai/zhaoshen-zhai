@@ -49,7 +49,7 @@ text.f16 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f15' x='59.277709' y='22.714746'><tspan fill='#808080'>82844</tspan></text>
 </a>
-<text class='f15' x='84.682441' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
+<text class='f15' x='80.448319' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
 <a href='../?note=95639' style='cursor: pointer;' target='_top'>
 <path d='M71.730466 36.0664C72.054685 35.85937 72.367185 35.66797 72.72656 35.66797C73.08984 35.66797 73.39843 35.85937 73.72265 36.0664C74.04687 36.26953 74.35937 36.46484 74.71875 36.46484C75.08203 36.46484 75.39062 36.26953 75.71484 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M75.714841 36.0664C76.03906 35.85937 76.35156 35.66797 76.710935 35.66797C77.07422 35.66797 77.38281 35.85937 77.70703 36.0664C78.03515 36.26953 78.34375 36.46484 78.70312 36.46484C79.0664 36.46484 79.375 36.26953 79.70312 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -58,7 +58,7 @@ text.f16 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M87.671871 36.0664C87.99609 35.85937 88.30859 35.66797 88.667965 35.66797S89.33984 35.85937 89.66406 36.0664C89.98828 36.26953 90.30078 36.46484 90.66015 36.46484C91.01953 36.46484 91.33203 36.26953 91.65625 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f15' x='71.980075' y='34.07212'><tspan fill='#808080'>95639</tspan></text>
 </a>
-<text class='f15' x='97.378833' y='34.07212'><tspan fill='#808080'>]</tspan></text>
+<text class='f15' x='93.144711' y='34.07212'><tspan fill='#808080'>]</tspan></text>
 <text class='f16' x='0' y='58.380925'>Let</text>
 <text class='f11' x='17.849902' y='58.380925'>X</text>
 <text class='f16' x='30.206333' y='58.380925'>b<tspan x='36.017822'>e</tspan><tspan x='43.766597'>a</tspan><tspan x='52.068792'>compact</tspan><tspan x='91.919189'>Hausdorﬀ</tspan><tspan x='137.387176'>space</tspan><tspan x='164.009676'>and</tspan></text>
@@ -120,24 +120,24 @@ text.f16 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M27.894532 160.38281C28.218751 160.17969 28.531251 159.98438 28.890626 159.98438C29.25391 159.98438 29.5625 160.17969 29.88672 160.38281C30.21094 160.58985 30.52344 160.78125 30.88281 160.78125C31.24609 160.78125 31.55469 160.58985 31.87891 160.38281' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f16' x='0' y='158.391992'>ensures</text>
 </a>
-<text class='f16' x='38.300283' y='158.391992'>that<tspan x='59.872022'>so</tspan><tspan x='72.089845'>is</tspan><tspan x='82.093712'>eac</tspan><tspan x='95.654082'>h</tspan></text>
-<text class='f11' x='104.49556' y='158.391992'>π</text>
-<text class='f10' x='110.174538' y='159.886373'>x</text>
-<text class='f14' x='115.190457' y='158.391992'>(</text>
-<text class='f8' x='119.064935' y='158.391992'>F</text>
-<text class='f14' x='127.214911' y='158.391992'>)</text>
-<text class='f16' x='131.089389' y='158.391992'>.<tspan x='138.27988'>F</tspan><tspan x='143.953257'>or</tspan><tspan x='156.143356'>equicon</tspan><tspan x='188.798865'>tin</tspan><tspan x='200.698716'>uit</tspan><tspan x='212.598566'>y</tspan><tspan x='221.163566'>of</tspan></text>
-<text class='f8' x='232.495704' y='158.391992'>F</text>
-<text class='f16' x='240.64568' y='158.391992'>,<tspan x='246.72261'>ﬁx</tspan></text>
-<text class='f11' x='260.822366' y='158.391992'>ε<tspan x='268.235458'>></tspan></text>
-<text class='f14' x='278.751538' y='158.391992'>0</text>
-<text class='f16' x='287.03958' y='158.391992'>and</text>
-<text class='f11' x='306.397104' y='158.391992'>x</text>
-<text class='f8' x='314.858368' y='158.391992'>∈</text>
-<text class='f11' x='324.267483' y='158.391992'>X</text>
-<text class='f16' x='333.303039' y='158.391992'>.<tspan x='340.493544'>The</tspan><tspan x='360.957944'>con</tspan><tspan x='375.625156'>tin</tspan><tspan x='387.525007'>uit</tspan><tspan x='399.424858'>y</tspan><tspan x='407.989857'>of</tspan><tspan x='419.321996'>eac</tspan><tspan x='432.882365'>h</tspan></text>
-<text class='f11' x='441.723829' y='158.391992'>f</text>
-<text class='f8' x='450.441108' y='158.391992'>∈<tspan x='459.850223'>F</tspan></text>
+<text class='f16' x='35.103013' y='158.391992'>that<tspan x='56.784221'>so</tspan><tspan x='69.111481'>is</tspan><tspan x='79.224817'>eac</tspan><tspan x='92.785187'>h</tspan></text>
+<text class='f11' x='101.736118' y='158.391992'>π</text>
+<text class='f10' x='107.415095' y='159.886373'>x</text>
+<text class='f14' x='112.431014' y='158.391992'>(</text>
+<text class='f8' x='116.305493' y='158.391992'>F</text>
+<text class='f14' x='124.455468' y='158.391992'>)</text>
+<text class='f16' x='128.329947' y='158.391992'>.<tspan x='135.811095'>F</tspan><tspan x='141.484473'>or</tspan><tspan x='153.784024'>equicon</tspan><tspan x='186.439533'>tin</tspan><tspan x='198.339384'>uit</tspan><tspan x='210.239235'>y</tspan><tspan x='218.913702'>of</tspan></text>
+<text class='f8' x='230.355293' y='158.391992'>F</text>
+<text class='f16' x='238.505269' y='158.391992'>,<tspan x='244.71266'>ﬁx</tspan></text>
+<text class='f11' x='258.921854' y='158.391992'>ε<tspan x='266.493805'>></tspan></text>
+<text class='f14' x='277.168728' y='158.391992'>0</text>
+<text class='f16' x='285.566238' y='158.391992'>and</text>
+<text class='f11' x='305.03323' y='158.391992'>x</text>
+<text class='f8' x='313.653338' y='158.391992'>∈</text>
+<text class='f11' x='323.221312' y='158.391992'>X</text>
+<text class='f16' x='332.256867' y='158.391992'>.<tspan x='339.738016'>The</tspan><tspan x='360.311869'>con</tspan><tspan x='374.97908'>tin</tspan><tspan x='386.878931'>uit</tspan><tspan x='398.778782'>y</tspan><tspan x='407.45325'>of</tspan><tspan x='418.894825'>eac</tspan><tspan x='432.455195'>h</tspan></text>
+<text class='f11' x='441.406126' y='158.391992'>f</text>
+<text class='f8' x='450.282265' y='158.391992'>∈<tspan x='459.850223'>F</tspan></text>
 <text class='f16' x='0' y='172.738157'>furnishes<tspan x='41.984784'>a</tspan><tspan x='50.345734'>family</tspan></text>
 <text class='f11' x='80.845682' y='172.738157'>U</text>
 <text class='f10' x='87.647948' y='174.232538'>f</text>

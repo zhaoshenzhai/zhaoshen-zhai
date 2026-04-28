@@ -55,7 +55,7 @@ text.f18 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f17' x='59.277709' y='22.714746'><tspan fill='#808080'>75189</tspan></text>
 </a>
-<text class='f17' x='84.680449' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
+<text class='f17' x='80.446327' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
 <text class='f18' x='0' y='58.380925'>Let</text>
 <text class='f11' x='17.849902' y='58.380925'>L</text>
 <text class='f18' x='27.950924' y='58.380925'>b<tspan x='33.762414'>e</tspan><tspan x='41.511188'>a</tspan><tspan x='49.813383'>con</tspan><tspan x='64.480595'>tin</tspan><tspan x='76.380445'>uous</tspan><tspan x='99.681888'>ﬁrst-order</tspan><tspan x='146.312707'>language,</tspan><tspan x='190.591003'>let</tspan></text>
@@ -263,7 +263,7 @@ text.f18 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M235.117191 174.73046C235.44141 174.52734 235.75391 174.33202 236.113285 174.33202C236.47657 174.33202 236.78516 174.52734 237.10938 174.73046C237.4336 174.93359 237.7461 175.1289 238.10547 175.1289C238.46875 175.1289 238.77735 174.93359 239.10157 174.73046' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f18' x='200.594831' y='172.738157'>compact</text>
 </a>
-<text class='f18' x='240.445224' y='172.738157'>.</text>
+<text class='f18' x='237.124349' y='172.738157'>.</text>
 <text class='f3' x='12.176384' y='195.054435'>•</text>
 <text class='f9' x='24.906631' y='195.054435'>¬</text>
 <text class='f13' x='31.548413' y='195.054435'>(1)</text>

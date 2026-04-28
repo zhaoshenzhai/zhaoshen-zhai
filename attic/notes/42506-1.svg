@@ -43,7 +43,7 @@ text.f13 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f12' x='59.277709' y='22.714746'><tspan fill='#808080'>92264</tspan></text>
 </a>
-<text class='f12' x='84.678458' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
+<text class='f12' x='80.444336' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
 <a href='../?note=92264' style='cursor: pointer;' target='_top'>
 <path d='M71.730466 36.0664C72.054685 35.85937 72.367185 35.66797 72.72656 35.66797C73.08984 35.66797 73.39843 35.85937 73.72265 36.0664C74.04687 36.26953 74.35937 36.46484 74.71875 36.46484C75.08203 36.46484 75.39062 36.26953 75.71484 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M75.714841 36.0664C76.03906 35.85937 76.35156 35.66797 76.710935 35.66797C77.07422 35.66797 77.38281 35.85937 77.70703 36.0664C78.03515 36.26953 78.34375 36.46484 78.70312 36.46484C79.0664 36.46484 79.375 36.26953 79.70312 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -52,7 +52,7 @@ text.f13 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M87.671871 36.0664C87.99609 35.85937 88.30859 35.66797 88.667965 35.66797S89.33984 35.85937 89.66406 36.0664C89.98828 36.26953 90.30078 36.46484 90.66015 36.46484C91.01953 36.46484 91.33203 36.26953 91.65625 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f12' x='71.980075' y='34.07212'><tspan fill='#808080'>92264</tspan></text>
 </a>
-<text class='f12' x='97.380824' y='34.07212'><tspan fill='#808080'>]</tspan></text>
+<text class='f12' x='93.146702' y='34.07212'><tspan fill='#808080'>]</tspan></text>
 <text class='f13' x='0' y='58.380925'>Let</text>
 <text class='f9' x='17.849902' y='58.380925'>L</text>
 <text class='f13' x='27.950924' y='58.380925'>b<tspan x='33.762414'>e</tspan><tspan x='41.511188'>the</tspan><tspan x='58.669181'>language</tspan><tspan x='100.180097'>of</tspan><tspan x='111.526373'>arithmetic</tspan><tspan x='159.706729'>and</tspan><tspan x='179.078406'>ﬁx</tspan><tspan x='193.1923'>a</tspan><tspan x='201.494495'>mo</tspan><tspan x='215.054428'>del</tspan></text>
@@ -170,7 +170,7 @@ text.f13 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f11' x='288.143372' y='146.051976'>Σ</text>
 <text class='f10' x='295.338394' y='147.546356'>1</text>
 </a>
-<text class='f13' x='306.449369' y='146.051976'>themselv<tspan x='344.694926'>es.</tspan></text>
+<text class='f13' x='303.128495' y='146.051976'>themselv<tspan x='341.374051'>es.</tspan></text>
 <text class='f2' x='14.94396' y='177.886362'>Dep<tspan x='29.912897'>ar</tspan><tspan x='39.069219'>tment</tspan><tspan x='66.904906'>of</tspan><tspan x='79.367442'>Ma</tspan><tspan x='91.605811'>thema</tspan><tspan x='115.958345'>tics</tspan><tspan x='134.566793'>and</tspan><tspan x='152.448589'>St</tspan><tspan x='161.498902'>a</tspan><tspan x='165.855619'>tistics,</tspan><tspan x='197.808078'>McGill</tspan><tspan x='230.906736'>University,</tspan><tspan x='280.184629'>805</tspan><tspan x='296.531006'>Sherbr</tspan><tspan x='324.780091'>ooke</tspan><tspan x='347.550765'>Street</tspan><tspan x='378.663348'>West,</tspan><tspan x='405.984052'>Montreal,</tspan><tspan x='452.4592'>QC,</tspan><tspan x='0' y='187.350871'>H3A</tspan><tspan x='20.390538'>0B9,</tspan><tspan x='40.902524'>Canad</tspan><tspan x='66.631844'>a</tspan></text>
 <text class='f1' x='14.94396' y='199.306039'>Email<tspan x='39.980657'>addr</tspan><tspan x='56.268713'>ess:</tspan></text>
 <text class='f12' x='73.75847' y='199.306039'>zhaoshen.zhai@mail.mcgill.ca</text>

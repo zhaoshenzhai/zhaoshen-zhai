@@ -39,7 +39,7 @@ text.f11 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f10' x='59.277709' y='22.714746'><tspan fill='#808080'>20781</tspan></text>
 </a>
-<text class='f10' x='84.682441' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
+<text class='f10' x='80.448319' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
 <a href='../?note=20781' style='cursor: pointer;' target='_top'>
 <path d='M71.730466 36.0664C72.054685 35.85937 72.367185 35.66797 72.72656 35.66797C73.08984 35.66797 73.39843 35.85937 73.72265 36.0664C74.04687 36.26953 74.35937 36.46484 74.71875 36.46484C75.08203 36.46484 75.39062 36.26953 75.71484 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M75.714841 36.0664C76.03906 35.85937 76.35156 35.66797 76.710935 35.66797C77.07422 35.66797 77.38281 35.85937 77.70703 36.0664C78.03515 36.26953 78.34375 36.46484 78.70312 36.46484C79.0664 36.46484 79.375 36.26953 79.70312 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -48,7 +48,7 @@ text.f11 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M87.671871 36.0664C87.99609 35.85937 88.30859 35.66797 88.667965 35.66797S89.33984 35.85937 89.66406 36.0664C89.98828 36.26953 90.30078 36.46484 90.66015 36.46484C91.01953 36.46484 91.33203 36.26953 91.65625 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f10' x='71.980075' y='34.07212'><tspan fill='#808080'>20781</tspan></text>
 </a>
-<text class='f10' x='97.384807' y='34.07212'><tspan fill='#808080'>]</tspan></text>
+<text class='f10' x='93.150685' y='34.07212'><tspan fill='#808080'>]</tspan></text>
 <text class='f11' x='0' y='58.380925'>Let</text>
 <text class='f7' x='17.849902' y='58.380925'>L</text>
 <text class='f6' x='27.397382' y='58.380925'>⊆</text>
@@ -110,9 +110,9 @@ text.f11 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M414.445298 82.69141C414.769517 82.48438 415.082017 82.29297 415.441392 82.29297C415.80467 82.29297 416.11327 82.48438 416.43749 82.69141C416.7617 82.89453 417.0742 83.08985 417.43358 83.08985C417.79686 83.08985 418.10545 82.89453 418.42967 82.69141' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f4' x='379.540459' y='80.697202'>extension</text>
 </a>
-<text class='f4' x='427.189169' y='80.697202'>of</text>
-<text class='f7' x='438.900677' y='80.697202'>T</text>
-<text class='f4' x='446.10632' y='80.697202'>.<tspan x='0' y='103.01348'>Pr</tspan><tspan x='10.449846'>o</tspan><tspan x='15.032526'>of.</tspan></text>
+<text class='f4' x='423.624761' y='80.697202'>of</text>
+<text class='f7' x='435.33627' y='80.697202'>T</text>
+<text class='f4' x='442.541912' y='80.697202'>.<tspan x='0' y='103.01348'>Pr</tspan><tspan x='10.449846'>o</tspan><tspan x='15.032526'>of.</tspan></text>
 <text class='f11' x='31.2161' y='103.01348'>Let</text>
 <text class='f7' x='49.080459' y='103.01348'>σ</text>
 <text class='f11' x='58.466023' y='103.01348'>b<tspan x='64.277512'>e</tspan><tspan x='72.040743'>an</tspan></text>

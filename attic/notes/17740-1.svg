@@ -49,7 +49,7 @@ text.f15 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f14' x='59.277709' y='22.714746'><tspan fill='#808080'>56147</tspan></text>
 </a>
-<text class='f14' x='84.680449' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
+<text class='f14' x='80.446327' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
 <text class='f15' x='0' y='58.380925'>Let</text>
 <text class='f11' x='17.849902' y='58.380925'>L</text>
 <text class='f15' x='27.950924' y='58.380925'>b<tspan x='33.762414'>e</tspan><tspan x='41.511188'>a</tspan><tspan x='49.813383'>con</tspan><tspan x='64.480595'>tin</tspan><tspan x='76.380445'>uous</tspan><tspan x='99.681888'>ﬁrst-order</tspan><tspan x='146.312707'>language,</tspan><tspan x='190.591003'>let</tspan></text>
@@ -225,7 +225,7 @@ text.f15 {font-family:ec-mlmr10;font-size:9.96264px}
 <rect x='155.150987' y='166.498069' height='.487658' width='5.266141'/>
 <text class='f11' x='155.150987' y='172.738157'>a</text>
 </a>
-<text class='f15' x='163.738003' y='172.738157'>.</text>
+<text class='f15' x='160.417128' y='172.738157'>.</text>
 <text class='f3' x='12.176384' y='195.054435'>•</text>
 <text class='f9' x='24.906631' y='195.054435'>¬</text>
 <text class='f12' x='31.548413' y='195.054435'>(1)</text>

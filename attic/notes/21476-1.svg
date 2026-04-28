@@ -52,7 +52,7 @@ text.f16 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f15' x='59.277709' y='22.714746'><tspan fill='#808080'>00758</tspan></text>
 </a>
-<text class='f15' x='84.682441' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
+<text class='f15' x='80.448319' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
 <text class='f11' x='0' y='66.351037'>Theorem.</text>
 <text class='f12' x='52.99576' y='66.351037'>Ther<tspan x='73.490944'>e</tspan><tspan x='81.638176'>is</tspan><tspan x='92.331516'>a</tspan><tspan x='100.987818'>top</tspan><tspan x='113.972228'>olo</tspan><tspan x='126.192749'>gic</tspan><tspan x='137.90439'>al</tspan><tspan x='149.106639'>emb</tspan><tspan x='165.910516'>e</tspan><tspan x='169.984126'>dding</tspan></text>
 <text class='f8' x='196.971345' y='66.351037'>f</text>
@@ -166,7 +166,7 @@ text.f16 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M350.683596 119.35156C351.011721 119.14844 351.320315 118.95312 351.67969 118.95312C352.04297 118.95312 352.35156 119.14844 352.67578 119.35156C353.00391 119.55469 353.3125 119.75 353.67578 119.75C354.03516 119.75 354.34375 119.55469 354.67188 119.35156' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f6' x='348.733304' y='117.359645'>C</text>
 </a>
-<text class='f16' x='357.880976' y='117.359645'>.</text>
+<text class='f16' x='354.560101' y='117.359645'>.</text>
 <text class='f4' x='460.251392' y='117.359645'></text>
 <text class='f2' x='14.94396' y='149.194032'>Dep<tspan x='29.912897'>ar</tspan><tspan x='39.069219'>tment</tspan><tspan x='66.904906'>of</tspan><tspan x='79.367442'>Ma</tspan><tspan x='91.605811'>thema</tspan><tspan x='115.958345'>tics</tspan><tspan x='134.566793'>and</tspan><tspan x='152.448589'>St</tspan><tspan x='161.498902'>a</tspan><tspan x='165.855619'>tistics,</tspan><tspan x='197.808078'>McGill</tspan><tspan x='230.906736'>University,</tspan><tspan x='280.184629'>805</tspan><tspan x='296.531006'>Sherbr</tspan><tspan x='324.780091'>ooke</tspan><tspan x='347.550765'>Street</tspan><tspan x='378.663348'>West,</tspan><tspan x='405.984052'>Montreal,</tspan><tspan x='452.4592'>QC,</tspan><tspan x='0' y='158.65854'>H3A</tspan><tspan x='20.390538'>0B9,</tspan><tspan x='40.902524'>Canad</tspan><tspan x='66.631844'>a</tspan></text>
 <text class='f1' x='14.94396' y='170.613708'>Email<tspan x='39.980657'>addr</tspan><tspan x='56.268713'>ess:</tspan></text>

@@ -39,17 +39,17 @@ text.f11 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M75.714841 24.70703C76.03906 24.50391 76.35156 24.30859 76.710935 24.30859C77.07422 24.30859 77.38281 24.50391 77.70703 24.70703C78.03515 24.91016 78.34375 25.10547 78.70312 25.10547C79.0664 25.10547 79.375 24.91016 79.70312 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f10' x='59.277709' y='22.714746'><tspan fill='#808080'>20173</tspan></text>
 </a>
-<text class='f10' x='84.682441' y='22.714746'><tspan fill='#808080'>,</tspan></text>
+<text class='f10' x='80.448319' y='22.714746'><tspan fill='#808080'>,</tspan></text>
 <a href='../?note=10154' style='cursor: pointer;' target='_top'>
+<path d='M87.671871 24.70703C87.99609 24.50391 88.30859 24.30859 88.667965 24.30859S89.33984 24.50391 89.66406 24.70703C89.98828 24.91016 90.30078 25.10547 90.66015 25.10547C91.01953 25.10547 91.33203 24.91016 91.65625 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M91.656247 24.70703C91.980465 24.50391 92.292965 24.30859 92.65234 24.30859C93.01172 24.30859 93.32422 24.50391 93.64843 24.70703C93.97265 24.91016 94.28515 25.10547 94.64453 25.10547C95.0039 25.10547 95.3164 24.91016 95.64062 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M95.640629 24.70703C95.964847 24.50391 96.277347 24.30859 96.636722 24.30859C97 24.30859 97.3086 24.50391 97.63282 24.70703C97.95703 24.91016 98.26953 25.10547 98.62891 25.10547C98.99219 25.10547 99.30078 24.91016 99.625 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M99.624996 24.70703C99.953121 24.50391 100.261715 24.30859 100.62109 24.30859C100.98437 24.30859 101.29296 24.50391 101.61718 24.70703C101.94531 24.91016 102.2539 25.10547 102.61718 25.10547C102.97656 25.10547 103.28515 24.91016 103.61328 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M103.609375 24.70703C103.9375 24.50391 104.246094 24.30859 104.605469 24.30859C104.96875 24.30859 105.27734 24.50391 105.60547 24.70703C105.92969 24.91016 106.23828 25.10547 106.60156 25.10547C106.96094 25.10547 107.26953 24.91016 107.59766 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M107.597656 24.70703C107.921875 24.50391 108.234375 24.30859 108.59375 24.30859C108.95312 24.30859 109.26562 24.50391 109.58984 24.70703C109.91406 24.91016 110.22656 25.10547 110.58594 25.10547C110.94531 25.10547 111.25781 24.91016 111.58203 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M111.582031 24.70703C111.906249 24.50391 112.218749 24.30859 112.578124 24.30859C112.9375 24.30859 113.25 24.50391 113.57422 24.70703C113.89844 24.91016 114.21094 25.10547 114.57031 25.10547C114.92969 25.10547 115.24219 24.91016 115.56641 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f10' x='93.150685' y='22.714746'><tspan fill='#808080'>10154</tspan></text>
+<text class='f10' x='88.916563' y='22.714746'><tspan fill='#808080'>10154</tspan></text>
 </a>
-<text class='f10' x='118.555417' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
+<text class='f10' x='110.087173' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
 <text class='f8' x='0' y='66.351037'>Theorem</text>
 <text class='f11' x='48.738957' y='66.351037'>(W<tspan x='62.022803'>eierstrass</tspan><tspan x='105.492634'>appro</tspan><tspan x='130.150048'>ximation)</tspan></text>
 <text class='f8' x='172.491288' y='66.351037'>.</text>
@@ -98,11 +98,11 @@ text.f11 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f6' x='279.924739' y='80.697202'>a,<tspan x='289.618701'>b</tspan></text>
 <text class='f7' x='293.894335' y='80.697202'>]</text>
 <text class='f9' x='296.661715' y='80.697202'>.<tspan x='0' y='103.01348'>Pr</tspan><tspan x='10.449846'>o</tspan><tspan x='15.032526'>of.</tspan></text>
-<text class='f11' x='31.2161' y='103.01348'>Note<tspan x='54.899626'>that</tspan></text>
-<text class='f7' x='76.092476' y='103.01348'>[</text>
-<text class='f6' x='78.909657' y='103.01348'>a,<tspan x='88.603619'>b</tspan></text>
-<text class='f7' x='92.879253' y='103.01348'>]</text>
-<text class='f11' x='98.574481' y='103.01348'>is<tspan x='108.199475'>a</tspan></text>
+<text class='f11' x='31.2161' y='103.01348'>Note<tspan x='55.119215'>that</tspan></text>
+<text class='f7' x='76.531656' y='103.01348'>[</text>
+<text class='f6' x='79.348837' y='103.01348'>a,<tspan x='89.042798'>b</tspan></text>
+<text class='f7' x='93.318433' y='103.01348'>]</text>
+<text class='f11' x='99.233251' y='103.01348'>is<tspan x='109.077818'>a</tspan></text>
 <a href='../?note=20173' style='cursor: pointer;' target='_top'>
 <path d='M115.566405 105.00391C115.890624 104.80078 116.203124 104.60547 116.562499 104.60547C116.92578 104.60547 117.23437 104.80078 117.55859 105.00391C117.88281 105.21094 118.19531 105.40234 118.55469 105.40234C118.91797 105.40234 119.22656 105.21094 119.55078 105.00391' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M119.550779 105.00391C119.874998 104.80078 120.187498 104.60547 120.546873 104.60547C120.91015 104.60547 121.21875 104.80078 121.54297 105.00391C121.87109 105.21094 122.17969 105.40234 122.53906 105.40234C122.90234 105.40234 123.21094 105.21094 123.53515 105.00391' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -113,19 +113,20 @@ text.f11 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M139.476557 105.00391C139.800776 104.80078 140.113276 104.60547 140.472651 104.60547C140.83203 104.60547 141.14453 104.80078 141.46874 105.00391C141.79296 105.21094 142.10546 105.40234 142.46484 105.40234C142.82812 105.40234 143.13671 105.21094 143.46093 105.00391' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M143.460932 105.00391C143.785151 104.80078 144.097651 104.60547 144.457026 104.60547C144.82031 104.60547 145.1289 104.80078 145.45312 105.00391C145.78124 105.21094 146.08984 105.40234 146.44921 105.40234C146.81249 105.40234 147.12109 105.21094 147.44531 105.00391' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M147.445306 105.00391C147.773431 104.80078 148.082025 104.60547 148.4414 104.60547C148.80468 104.60547 149.11328 104.80078 149.4414 105.00391C149.76562 105.21094 150.07421 105.40234 150.43749 105.40234C150.79687 105.40234 151.10546 105.21094 151.43359 105.00391' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f11' x='116.108628' y='103.01348'>compact</text>
+<path d='M151.433587 105.00391C151.757806 104.80078 152.066399 104.60547 152.429681 104.60547C152.78906 104.60547 153.10156 104.80078 153.42577 105.00391C153.74999 105.21094 154.05859 105.40234 154.42187 105.40234C154.78124 105.40234 155.09374 105.21094 155.41796 105.00391' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f11' x='117.206576' y='103.01348'>compact</text>
 </a>
-<text class='f11' x='158.493827' y='103.01348'>Hausdorﬀ<tspan x='203.568788'>space.</tspan><tspan x='233.934621'>The</tspan><tspan x='254.020132'>p</tspan><tspan x='259.831622'>olynomial</tspan><tspan x='305.100437'>ring</tspan></text>
-<text class='f3' x='325.213767' y='103.01348'>R</text>
-<text class='f7' x='332.409028' y='103.01348'>[</text>
-<text class='f6' x='335.226209' y='103.01348'>x</text>
-<text class='f7' x='340.920141' y='103.01348'>]</text>
-<text class='f5' x='346.454853' y='103.01348'>⊆</text>
-<text class='f6' x='356.970933' y='103.01348'>C</text>
-<text class='f7' x='364.804047' y='103.01348'>([</text>
-<text class='f6' x='371.495706' y='103.01348'>a,<tspan x='381.189668'>b</tspan></text>
-<text class='f7' x='385.465302' y='103.01348'>])</text>
-<text class='f11' x='395.035009' y='103.01348'>is<tspan x='404.659987'>the</tspan><tspan x='421.424953'>subalgebra</tspan><tspan x='0' y='117.359645'>generated</tspan><tspan x='45.661216'>b</tspan><tspan x='50.919208'>y</tspan></text>
+<text class='f11' x='156.883517' y='103.01348'>Hausdorﬀ<tspan x='202.178068'>space.</tspan><tspan x='232.617098'>The</tspan><tspan x='252.922184'>p</tspan><tspan x='258.733673'>olynomial</tspan><tspan x='304.222094'>ring</tspan></text>
+<text class='f3' x='324.554998' y='103.01348'>R</text>
+<text class='f7' x='331.750258' y='103.01348'>[</text>
+<text class='f6' x='334.567439' y='103.01348'>x</text>
+<text class='f7' x='340.261371' y='103.01348'>]</text>
+<text class='f5' x='345.796084' y='103.01348'>⊆</text>
+<text class='f6' x='356.312164' y='103.01348'>C</text>
+<text class='f7' x='364.145278' y='103.01348'>([</text>
+<text class='f6' x='370.836937' y='103.01348'>a,<tspan x='380.530899'>b</tspan></text>
+<text class='f7' x='384.806533' y='103.01348'>])</text>
+<text class='f11' x='394.595829' y='103.01348'>is<tspan x='404.440397'>the</tspan><tspan x='421.424953'>subalgebra</tspan><tspan x='0' y='117.359645'>generated</tspan><tspan x='45.661216'>b</tspan><tspan x='50.919208'>y</tspan></text>
 <text class='f5' x='59.746347' y='117.359645'>{</text>
 <text class='f7' x='64.727682' y='117.359645'>1</text>
 <text class='f6' x='69.709003' y='117.359645'>,<tspan x='74.13681'>x</tspan></text>
@@ -175,7 +176,7 @@ text.f11 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M183.312496 133.69923C183.636715 133.4961 183.949215 133.30079 184.30859 133.30079C184.67187 133.30079 184.98047 133.4961 185.30468 133.69923C185.6289 133.90235 185.9414 134.09766 186.30078 134.09766C186.66406 134.09766 186.97265 133.90235 187.29687 133.69923' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f11' x='149.928835' y='131.70581'>theorem</text>
 </a>
-<text class='f11' x='188.699947' y='131.70581'>.</text>
+<text class='f11' x='185.379072' y='131.70581'>.</text>
 <text class='f4' x='460.251318' y='131.70581'></text>
 <text class='f2' x='14.94396' y='163.540197'>Dep<tspan x='29.912897'>ar</tspan><tspan x='39.069219'>tment</tspan><tspan x='66.904906'>of</tspan><tspan x='79.367442'>Ma</tspan><tspan x='91.605811'>thema</tspan><tspan x='115.958345'>tics</tspan><tspan x='134.566793'>and</tspan><tspan x='152.448589'>St</tspan><tspan x='161.498902'>a</tspan><tspan x='165.855619'>tistics,</tspan><tspan x='197.808078'>McGill</tspan><tspan x='230.906736'>University,</tspan><tspan x='280.184629'>805</tspan><tspan x='296.531006'>Sherbr</tspan><tspan x='324.780091'>ooke</tspan><tspan x='347.550765'>Street</tspan><tspan x='378.663348'>West,</tspan><tspan x='405.984052'>Montreal,</tspan><tspan x='452.4592'>QC,</tspan><tspan x='0' y='173.004705'>H3A</tspan><tspan x='20.390538'>0B9,</tspan><tspan x='40.902524'>Canad</tspan><tspan x='66.631844'>a</tspan></text>
 <text class='f1' x='14.94396' y='184.959873'>Email<tspan x='39.980657'>addr</tspan><tspan x='56.268713'>ess:</tspan></text>

@@ -115,60 +115,62 @@ text.f28 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f19' x='193.875597' y='25.076967'></text>
 <text class='f24' x='196.670673' y='28.692331'>]</text>
 <text class='f28' x='199.438053' y='28.692331'>,<tspan x='205.526308'>since</tspan></text>
-<text class='f22' x='73.727808' y='51.393426'>p</text>
-<text class='f24' x='78.740273' y='51.393426'>(</text>
-<text class='f22' x='82.614751' y='51.393426'>ϕ</text>
-<text class='f24' x='89.131984' y='51.393426'>)<tspan x='95.773794'>=</tspan></text>
-<text class='f22' x='106.290064' y='51.393426'>ϕ</text>
-<text class='f21' x='112.807296' y='47.27993'>M</text>
-<text class='f24' x='121.650538' y='51.393426'>(</text>
-<rect x='125.525016' y='45.153337' height='.487658' width='5.266141'/>
-<text class='f22' x='125.525016' y='51.393426'>a</text>
-<text class='f24' x='130.791157' y='51.393426'>)</text>
-<text class='f20' x='137.432968' y='51.393426'>≤</text>
-<text class='f24' x='147.949048' y='51.393426'>max</text>
-<text class='f20' x='166.6499' y='51.393426'>{</text>
-<text class='f22' x='171.631239' y='51.393426'>ψ</text>
-<text class='f21' x='178.478263' y='47.27993'>M</text>
-<text class='f24' x='187.321504' y='51.393426'>(</text>
-<rect x='191.195983' y='42.524295' height='.487658' width='4.275623'/>
-<text class='f22' x='191.195983' y='51.393426'>b</text>
-<text class='f24' x='195.471606' y='51.393426'>)</text>
-<text class='f28' x='204.05064' y='47.104015'>.</text>
-<text class='f20' x='201.55995' y='51.393426'>−</text>
-<text class='f22' x='211.52256' y='51.393426'>δ</text>
-<text class='f19' x='216.327452' y='47.27993'></text>
-<text class='f22' x='219.122527' y='51.393426'>,<tspan x='223.550335'>d</tspan></text>
-<text class='f24' x='228.735768' y='51.393426'>(</text>
-<rect x='232.610246' y='45.153337' height='.487658' width='5.266141'/>
-<text class='f22' x='232.610246' y='51.393426'>a<tspan x='237.876387'>,</tspan></text>
-<rect x='242.304195' y='42.524295' height='.487658' width='4.275623'/>
-<text class='f22' x='242.304195' y='51.393426'>b</text>
-<text class='f24' x='246.579817' y='51.393426'>)</text>
-<text class='f28' x='255.158852' y='47.104015'>.</text>
-<text class='f20' x='252.668162' y='51.393426'>−</text>
-<text class='f22' x='262.630771' y='51.393426'>ε</text>
-<text class='f19' x='267.276531' y='47.27993'></text>
-<text class='f20' x='270.071607' y='51.393426'>}</text>
-<text class='f22' x='277.820278' y='51.393426'>&lt;</text>
-<text class='f24' x='288.336358' y='51.393426'>max</text>
-<text class='f20' x='308.69761' y='51.393426'>{</text>
-<text class='f22' x='313.678946' y='51.393426'>δ</text>
-<text class='f28' x='323.188394' y='47.104015'>.</text>
-<text class='f20' x='320.697704' y='51.393426'>−</text>
-<text class='f22' x='330.660313' y='51.393426'>δ</text>
-<text class='f19' x='335.465205' y='47.27993'></text>
-<text class='f22' x='338.260281' y='51.393426'>,<tspan x='342.688089'>ε/</tspan></text>
-<text class='f24' x='352.315188' y='51.393426'>4</text>
-<text class='f28' x='362.001064' y='47.104015'>.</text>
-<text class='f20' x='359.510374' y='51.393426'>−</text>
-<text class='f22' x='369.472983' y='51.393426'>ε</text>
-<text class='f19' x='374.118743' y='47.27993'></text>
-<text class='f20' x='376.913819' y='51.393426'>}</text>
-<text class='f24' x='384.662468' y='51.393426'>=</text>
-<text class='f22' x='395.178738' y='51.393426'>δ</text>
-<text class='f20' x='402.197496' y='51.393426'>−</text>
-<text class='f22' x='412.160109' y='51.393426'>δ<tspan x='416.411519'>.</tspan></text>
+<text class='f22' x='72.05353' y='51.393426'>p</text>
+<text class='f24' x='77.065994' y='51.393426'>(</text>
+<text class='f22' x='80.940473' y='51.393426'>ϕ</text>
+<text class='f24' x='87.457705' y='51.393426'>)<tspan x='94.099516'>=</tspan></text>
+<text class='f22' x='104.615786' y='51.393426'>ϕ</text>
+<text class='f21' x='111.133018' y='47.27993'>M</text>
+<text class='f24' x='119.976259' y='51.393426'>(</text>
+<rect x='123.850738' y='45.153337' height='.487658' width='5.266141'/>
+<text class='f22' x='123.850738' y='51.393426'>a</text>
+<text class='f24' x='129.116878' y='51.393426'>)</text>
+<text class='f20' x='135.758689' y='51.393426'>≤</text>
+<text class='f24' x='146.274769' y='51.393426'>max</text>
+<text class='f20' x='164.975622' y='51.393426'>{</text>
+<text class='f22' x='169.956961' y='51.393426'>ψ</text>
+<text class='f21' x='176.803984' y='47.27993'>M</text>
+<text class='f24' x='185.647226' y='51.393426'>(</text>
+<rect x='189.521704' y='42.524295' height='.487658' width='4.275623'/>
+<text class='f22' x='189.521704' y='51.393426'>b</text>
+<text class='f24' x='193.797327' y='51.393426'>)</text>
+<text class='f28' x='202.376362' y='47.104015'>.</text>
+<text class='f20' x='199.885671' y='51.393426'>−</text>
+<text class='f22' x='209.848281' y='51.393426'>δ</text>
+<text class='f19' x='214.653173' y='47.27993'></text>
+<text class='f22' x='217.448249' y='51.393426'>,<tspan x='221.876057'>d</tspan></text>
+<text class='f24' x='227.061489' y='51.393426'>(</text>
+<rect x='230.935967' y='45.153337' height='.487658' width='5.266141'/>
+<text class='f22' x='230.935967' y='51.393426'>a<tspan x='236.202108'>,</tspan></text>
+<rect x='240.629916' y='42.524295' height='.487658' width='4.275623'/>
+<text class='f22' x='240.629916' y='51.393426'>b</text>
+<text class='f24' x='244.905539' y='51.393426'>)</text>
+<text class='f28' x='253.484573' y='47.104015'>.</text>
+<text class='f20' x='250.993883' y='51.393426'>−</text>
+<text class='f22' x='260.956493' y='51.393426'>ε</text>
+<text class='f19' x='265.602252' y='47.27993'></text>
+<text class='f20' x='268.397328' y='51.393426'>}</text>
+<text class='f22' x='276.146' y='51.393426'>&lt;</text>
+<text class='f24' x='286.66208' y='51.393426'>max</text>
+<text class='f20' x='307.023332' y='51.393426'>{</text>
+<text class='f22' x='312.004667' y='51.393426'>δ</text>
+<text class='f28' x='321.514115' y='47.104015'>.</text>
+<text class='f20' x='319.023425' y='51.393426'>−</text>
+<text class='f22' x='328.986035' y='51.393426'>δ</text>
+<text class='f19' x='333.790927' y='47.27993'></text>
+<text class='f22' x='336.586002' y='51.393426'>,<tspan x='341.01381'>ε/</tspan></text>
+<text class='f24' x='350.640909' y='51.393426'>4</text>
+<text class='f28' x='360.326785' y='47.104015'>.</text>
+<text class='f20' x='357.836095' y='51.393426'>−</text>
+<text class='f22' x='367.798705' y='51.393426'>ε</text>
+<text class='f19' x='372.444464' y='47.27993'></text>
+<text class='f20' x='375.23954' y='51.393426'>}</text>
+<text class='f24' x='382.988189' y='51.393426'>=</text>
+<text class='f22' x='393.504459' y='51.393426'>δ</text>
+<text class='f20' x='400.523217' y='51.393426'>−</text>
+<text class='f22' x='410.48583' y='51.393426'>δ</text>
+<text class='f19' x='415.290722' y='47.27993'></text>
+<text class='f22' x='418.085798' y='51.393426'>.</text>
 <text class='f28' x='24.906631' y='74.094521'>Finally<tspan x='54.656486'>,</tspan><tspan x='61.261936'>ﬁx</tspan></text>
 <text class='f22' x='75.789592' y='74.094521'>r</text>
 <text class='f24' x='84.018011' y='73.748574'>:<tspan x='86.121238' y='74.094521'>=</tspan><tspan x='97.327092'>tp</tspan></text>

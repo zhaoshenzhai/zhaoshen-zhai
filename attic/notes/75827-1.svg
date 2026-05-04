@@ -24,7 +24,7 @@
 @font-face{font-family:rm-mlmr10;src:url(data:application/x-font-woff2;base64,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) format('woff2');}
 @font-face{font-family:ec-mlmtt8;src:url(data:application/x-font-woff2;base64,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) format('woff2');}
 @font-face{font-family:ec-mlmr8;src:url(data:application/x-font-woff2;base64,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) format('woff2');}
-@font-face{font-family:ec-mlmr10;src:url(data:application/x-font-woff2;base64,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) format('woff2');}
+@font-face{font-family:ec-mlmr10;src:url(data:application/x-font-woff2;base64,d09GMgABAAAAABIkAAoAAAAAJfwAABHYAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAAgSQKwlCwFgtiAAE2AiQDgUAEIAWCOwcgG64bUZSuWh3iiwM7JhkWES92+E5fuWZHjHw/0Db/3R1wBxa0ICoYjYQbulAJEdqoxN10FcxVsahm1f79KvRXGav6qxzUqdZO+QUsGwtspwSBEcjxGK8eT/umb1OmIQXGIOj/giGa/T+Q3XD+3UzgHFIxne58rQ9TCEmqNt5Yg5W/ej6J86P1SE0Saoa81//b71udWZVmBh4JZbdRAomSPjPM2XefrKsn3Nq6JEQtiXaaRToh9P8YLBuXBRIS6va5DMBQAnEDFQDdiH7/gQvLUUfk/i0KkhA67HRpYI5oAILquyY08TeMeYtRFn/4QYY4IyoxtkMml48IhKoDBtytgKD6FHBbSkAClAuLhUQYBlrQQyaYwQb5UAYV0AJT3iJvMTNxMZAASiFsUsy1qoH2t/D3dgzx1ReffPRewTlnnXIiGTUBEHhpKECtGrg0UGNs1fY9qkxUh1wxWqShKIshlbG7ElqCKXKXv2FSgS89Tq3F4jBFkr1Grvaz6VK5XL8RgjAZN44IG81mpOkZYRH1enYAW86PUWfKRyuyijUxfnshlVyyeAuoVPB3mCQMQlelEEu4QJtDCkIWPWU1TYec4Q4SkVcnTQHhAoweYbdmQig0LkcM/E+LyCryHWIU8BtztdCI3GRVENqFCzEsyURegkQJRm5+OJcpjBTPJdQ4J4fmftbPVjCkp12oOr1ewoMsNzycfcprWudzwqsss86XqYA0ZblCbevgdxTXgMz1bURmpXEIY1jKyMbHlqfAoun2D8PNL+aeHBN94ORvhVn7DnW854QrYIw8Wv+gMkqBvEpzZp3wnxoeRhFNqhWN8wufGLDeBX7XoMLMXRhKXgWG4kUuQZVo1kI8Xcj5uZ7rcgxL266SE1o6yV5K7Nx9QtByljuuepr5ql7uZ5l6ThaB4ve9wyhMN6rDdMRYFBDPII6rSFlogzD9BvZxrY/MsE74iLU8rLKGVFsK6e4uVMWqoGid12Xck+mQqEBBxVL5UYChKuWuBF+DRqxxW4A2HWUZEHV4C/o4FFM0fXXNyEci8USRlgBmTc92hUpXqMg9d55rpjp1n6gabbi1tN/AWVuoQE6YFXXAonxZ6P/ASXglYCCkSJhwTFTOu5yJ4zZtzlXllzUsNT4JGXFcErw2rHAwbg3C+5RV2ajOy/iNPi4v/vX1gIQF3PYd2bT6EBSELmccoAaH6oT9fgxy1H4RnBD21xo6RoOd4sxPxUyhhXRIxVJIk924MKE67EmigUO0EUKmnPewS7FRxqwGkZchUYeXAE2wASiMoq7HVFV+DCh7NeMwyub93m+dA9nvenauugBOD1zyEYTdglbDrTatz2gRi3oxuUSDflunxNyEXmX+vfOSB6SJGZI5dcGijwpB+4cLRckU17CfZqdn6SaLDQgJfYy6tHoSpizFCJ+2sekDMu7nRTCnOF3PkE3pCOv8FQFSx7hC3N4G+Ziwu0K/9hUKuutf+U//y8gF2ZLWNn5lfjzAw+Sh60evIcc7Xz3ZauwwnbJQ6CRV0bUvrR7NcOSVEk22tXOUn3fnhBaON19y569UQCqyhjkGYyZ5+9NHsW8Rv8HltZVNoVYuZTBWodk1nnQNUf7D5qr6yUzy8lIhDVx/DsJKzmB563kCsCIoJdd68bRD/B4boRl8AeQ5p7Vbasltlz3kTIzj9icbClQsJvSINDGu8AfDlHNAKtPTPY3Kck3jkcLMjKUG3S+/n2iyFAhT7Knji0Ni9+mM/KOg39VCEs3yc+yqZ7PDn10/nUyxr3RKyvZJR4V+UDu18A+VhvvZ1fPxqw+9Kpldsju81IPDiW4qxhQZoGzgjKU+Dj+xqnzkYzQGph8lde+vtH+4kqmyr37vv/59oPE/NHj38a1aolO9aLjPKz3bLVfO0QDD9h+lhUzi1f3qa5ncPz5Yk8nYqWnYRiVjcP4I+Flibma2F+R2TnHKpQGn4JWcnRvEf19hppjWcr9gWAs59tLqEN8VkcdK/L2vUNizHwoQrji3x1WLJAS/y0q713pBOJABUe/biHz0NhHZVQznoV+9rfOpn9vEZgXaFAyNbxkwFpsMH3ax9qPVT++Ud3FJtA6bc5mzkNUr6nkwG20rLlcNYoZ2TklS0x6X0njcnpd2PT7HzYWfCCmDyDmGtKii8CKb0NJJOJaZVpSkThx04NZQ0ta+i3C2QGLKICAHpav7nH5XzT2ks6exBtcT80n2XEcAeqbEOxcqzEJcrSKjQSNx8N5ExH21WB2bEnXnBXvHIvsV+41JB7dWoFefAeUU2OIcc0+v+FifSWcChVWXC7vmWFVPqS5pg99l/PsSF796xSoaL0H1vhh0ZZ/5pijNOyLo43JJAwb4WbJSHpnLa9tuDS1WLVlo/BBeoalb0+wqlrvzGx91V7/faHQiOBUsWe2g+bSEoc1sKUBKEEc3F3QSQEgMP4N78UI/DWHsyt79HkF/kzEX7pLgP6yis1HJFzsODNOxlvD1YWNyCuhhKNsz8c77kY7VEn34gULQBe2IKpw3Omf9pjYdKJ4jku0CqRrWjXDsDt1jkcHaUTn7H4yKKkEkv2blZf+/HklZvzUWHMODw8QrpAZfCM5t6ehmsX3m/BCZw/+NLQ4D0WkmiY/GSSQLLB2/XZWsGn5IBIeJXHTv7rqQuAQnpd4wNbA3GHyCx+KhBJk96+yf+9hUzve8dP4DfZhUTL5C85ETctrwgknf9FjAqVvwXIZgYwpCHYay4h+Cn61QtwtwEYmLTwjwaSQR8Odnfz772D1dWokG8Xx86pHibJjy38pR3FRttjhRXRwVr4ofHmCQtp2aFpclo42oaEzRgLcy/uSvCKodDNb7+yDdVlOoLKzzE6QI9MrSAXkfn8fv3JVUka7Y57Uhm4ZFihGI7S38t0ByL1j1dQUpkAjIimx0G6tXzIsrJgNdokeJlfJcsyOqcBdOGfVfJbxlfdcYtec6rSuI7TsebZKbqSD153rj8ePGv2dWSnsF7GuSuajViLqId9KlMIQO3/F/wkzYRAgINLeYOt6ah8xH64uU3KIGdA201R7aU1cHGihRfqzVVbDGpj5XBIuE7PlF6U9GVZcm9Nhy4cDPUx3b9fxwAzSa5sZG8oH8SoQLqLqIyhxhyhSJPoDm8LzQRYYSpIgkAnBkZBwZt2aA63jK+zcvQupK6Ax0it3loQPduyKiuVtZA8GBJKE2uoogxDdx+JuwomutUmpClyc7FDv6YGLhZtA61GI1sFU8x3Mtar0SgoB1+IvQWxzSRoEQBKLC47lbsR0ZFKnyCQe62ZaiIUWajaPFnKPSgRCRa7vGtQl12EcIkmyMF3OPcoKDvnpWEzwfYjaihQWo9v9CWs38KV8m9Uvb0QGFBRZfQ5OaXy0i8SCCD4WdWVCoc0Bxc3IZ4r22I9UXHr+vFqmSMyWplWpkARfR72z/e62wp/1N4NtgRteZ5YvWDlOTzEUUf5VWG7vZHhqU55tL12puuFQn/rfRADlEZhioULmgOySTXTwOsn2VFW2RBkitiHhgyfSMlfUmruBiUH7uQH5QAUz8PpwWoTlWe8uib7lhbQEdUjKhqwhx2aMOeCuRWal9MreETc/PHw+XPheSNNQgrp1uZHp3/hwtFrzbFR3rZEwl+kUlSlzD2Nw3vwaK/Z3efqYlYPRrhllGcwlJnH2TRnaSNM5NHCjEEhIHnERQrHfp5lLUEXYywAXgaqJAxVYIk2rQ35Xa8EP7pJV1xM5HSdOZK7kjxtr7OgLN07KG6JLxk2WaqH51SXj4HBzLmpPjoM+BEGxYRo8reJJY+FCYG0mc+KdWldIyEt8a9UPAHTjzT7SPaeCpxn0mRO3/EzNy2y2mtCbv1hs/8/uBfE2Ip78+PbUVMtDmBXNrkH5dZFxfOFXowmtpu6VPXK7jc76KQeKwaQmXsrJv94xMJK0pPbV9YXLz0UkWUOfHRJH8SJ3oUWBgnE9B044TD+PQNrS5rI3Hk3z5rQOmTurz5XXQJNb8AT+Lw8c4+ES741BA5vj67G/1n9N2KwfdRR6uejWDxDuoe5QDorw6Va9reSHjC965++vTRreBHm2aNx/KGD6J1Sur5dMVoVM11K2jCtL+r0Tmz8PawJja+oDZb4ZSy+tTNPZ9Di/a10SrVcwqOcvTSYGxQPTOo3ixrYruHDOgUrZr0GNDYn4BYzWYBsbVMoVXEQE5RiF5YmwnkqzWqOhP9vQK2Crh97AHGTyA+K3d4KqWW0RbBdHT+vb3OuT+Uv1AvzSjWqqvlGbEThEzRTytKpyRnPtNf25onMxkj5MIq0YX4wqEF2GAAmRm1NbDIsXrFmm6bbJ820lBQBV8/V6YNJO5Bo2XGR1xTK9XvB0udTsy4pjLsfmAs6+R3vl2ol1u4v7x3zMOk0M+NxH9Jc6PHJFKnWEI4bXDpGJ1lqUHtquSw3rcn3ssOt6KjhHeLIy6WtpH4uXRk9At/2fzWwWB9twnY71+fgPiyUDgp8kqo1zjdlfTqzF0/eTzor+xq9xwbEixO7sxR5+gccL56ShLUgUbfvNg9mAU3fRca+36hci0Mmxfv7FhK9LMjaZGPtY4d24tUoXMn401g0nn/KBdUKe5XAbqHe67IYMBX7wKkM7q/Gh+RFjxyu30Bk2It6c+ffSESuNaHLEO7fHCtwsduwyfaeyKSHhA2cFxz6/bOWPRCp94vf8Lvqvz0TLQpYSV3j3L+uTXy48aJ5UxdXJ5qIVHE5B4Gurh2mMhwSw4/8NFP3r6G9NHtYMWbZk/F2K+D+Mhgf/I//ZdyK048g7fOuQFXvcxT7XQhRKFckE9wcueQsOH6VBlSnRBMZSmqbKRNIsfnWEoy/ILEH78sts0xEZdmQ1a+AUtOptE1CQskc3K4W1IsWtRxXyfKLieetvA5N6VIFrv2HzEYxzqX4CPnArnp6HLlZrm3HmRKWvZskfKJaZHI0UZZquR5SAJPk7qqMlOM75wupxcNAVXsAjmycQne1ZSAqaJNwLtVqG0XmjthwnyQ++an/eOffW9N+HMCoLX2WjHq2PgwhUbZnDG7OxNc22Gbv/Lsavabf+yNO0hiicd2Heykbw8nzH8qkcjfJjZvFiYc8WCEStOWzQxK7K7e3gVvYqIOxrsiXO12i71nyAFfKuwDslRH3P90opf2f86XaN/YiWgFGvljoInl1HzH6TQo+VmY43XarC850g2rIK97O6cg4OLmEXxYT3uKOsKdwyuImYcySy/WX6FSdGQhAQna9B87qhkDramrKt6unXjuUo7Poo+Jz6C6mfIN5UnGzbEhFgoAb/ak6aTp24oNXYqt+/AUBCLLfgrED24h9nSvXHSus7JvQkZtf+Zr6PlfeUNkx8rcj/dzGtPhMELWWST+9QVZwKtiNOzrtLI/KH4gH2szlrF5QUlfEYQztiDK1y8bTOTWW6UeB0Z/q1fOfcdjL1AZauElwWi+9u1QT8iemcCGzs1PwR6PNUuw1jTzOe6hcbBM2Rdcox+Lt/YFqQxXhs/0gKTEufD/G0ud092hn8ryZxO0qTFhuojg53pkxuOjXsyy2+DfaS7HpTHKlPcFzY28VD5UCiEGcnfcYNGfFnC9GRl+rZ+HfG32+3pVc0FCi7E2a5AIiAzNOYMlsqrtuZ84ZCCNksOot1VENIAd5Vyu5eIfHwW46fpiqqA0c8JjAKQ4sNLzILR/6BAGRXhj0QcsYJGo49vsxR98QrZIGQplD2TKBExZCHXHShksyB3i2NxmBoH8wpEh1S8NoOQ3FCIdAIHdWVBn4COpoCMDWJVID/ADyCw2YeDfMkGEarGQUDIwhwIFOOFHy5YgagUuJVtQCyO3SlXAR9ZCgw2iFH9IaDzGEnMcagqZjuxMZQGZa0AF2AtIPDyY8AMFiCkMqylAB0Ya6ngAxyggXLI3AwIhGjAAKHQAQEupMNaCrAhby0V+NAANFCemoMBClhqt9n/b4HMSkVDnczZ7ux8sL9z00iZ2Fzkb1Ffm/oJLV0TmpySpEQ12MEGdsiFMeCEGugAJSigAepA1gTtIHQeoBCiOqELWkS9OkACNScCNspEiLhXDYwDqIeoWpgMEgImGIAuBJoUUkogCRJBndXSvgAA) format('woff2');}
 text.f4 {font-family:ec-mlmr6;font-size:5.977584px}
 text.f5 {font-family:mlmsy6;font-size:5.977584px}
 text.f6 {font-family:mlmsy8;font-size:7.970112px}
@@ -52,7 +52,7 @@ text.f28 {font-family:ec-mlmr10;font-size:9.96264px}
 </style>
 <g id='page1'>
 <text class='f11' x='173.856492' y='-27.297658'>ZHA<tspan x='190.232792'>OSHEN</tspan><tspan x='220.550236'>ZHAI</tspan><tspan x='242.703621'>/</tspan><tspan x='249.359114'>THE</tspan><tspan x='268.966541'>A</tspan><tspan x='274.204056'>TTIC</tspan><tspan x='464.028919'>1</tspan></text>
-<text class='f25' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/04/29</tspan><tspan fill='#808080' x='114.317312'>22:29:19</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[principal</tspan><tspan fill='#808080' x='93.150685'>types,</tspan><tspan fill='#808080' x='122.789539'>characterization]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
+<text class='f25' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/05/04</tspan><tspan fill='#808080' x='114.319304'>11:13:37</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[principal</tspan><tspan fill='#808080' x='93.150685'>types,</tspan><tspan fill='#808080' x='122.789539'>characterization]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
 <a href='../?note=67168' style='cursor: pointer;' target='_top'>
 <path d='M59.777345 24.70703C60.101564 24.50391 60.410157 24.30859 60.773439 24.30859C61.13281 24.30859 61.44531 24.50391 61.76953 24.70703C62.09375 24.91016 62.40234 25.10547 62.76563 25.10547C63.125 25.10547 63.4375 24.91016 63.76172 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M63.76172 24.70703C64.085939 24.50391 64.398439 24.30859 64.757814 24.30859C65.11719 24.30859 65.42969 24.50391 65.75391 24.70703C66.07813 24.91016 66.39063 25.10547 66.75 25.10547C67.10938 25.10547 67.42188 24.91016 67.7461 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -72,804 +72,865 @@ text.f28 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f25' x='88.91258' y='22.714746'><tspan fill='#808080'>76615</tspan></text>
 </a>
 <text class='f25' x='110.079207' y='22.714746'><tspan fill='#808080'>,</tspan></text>
-<a href='../?note=19029' style='cursor: pointer;' target='_top'>
+<a href='../?note=68611' style='cursor: pointer;' target='_top'>
 <path d='M119.550779 24.70703C119.874998 24.50391 120.187498 24.30859 120.546873 24.30859C120.91015 24.30859 121.21875 24.50391 121.54297 24.70703C121.87109 24.91016 122.17969 25.10547 122.53906 25.10547C122.90234 25.10547 123.21094 24.91016 123.53515 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M123.535154 24.70703C123.863279 24.50391 124.171872 24.30859 124.535154 24.30859C124.89453 24.30859 125.20312 24.50391 125.53125 24.70703C125.85547 24.91016 126.16406 25.10547 126.52734 25.10547C126.88672 25.10547 127.19922 24.91016 127.52343 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M127.523434 24.70703C127.847653 24.50391 128.156247 24.30859 128.519528 24.30859C128.8789 24.30859 129.1914 24.50391 129.51562 24.70703C129.83984 24.91016 130.14843 25.10547 130.51172 25.10547C130.87109 25.10547 131.18359 24.91016 131.50781 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M131.507809 24.70703C131.832027 24.50391 132.144527 24.30859 132.503902 24.30859C132.86328 24.30859 133.17578 24.50391 133.5 24.70703C133.82421 24.91016 134.13671 25.10547 134.49609 25.10547C134.85546 25.10547 135.16796 24.91016 135.49218 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M135.492183 24.70703C135.816402 24.50391 136.128902 24.30859 136.488277 24.30859C136.84765 24.30859 137.16015 24.50391 137.48437 24.70703C137.80859 24.91016 138.12109 25.10547 138.48046 25.10547C138.83984 25.10547 139.15234 24.91016 139.47656 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f25' x='118.547451' y='22.714746'><tspan fill='#808080'>19029</tspan></text>
+<text class='f25' x='118.547451' y='22.714746'><tspan fill='#808080'>68611</tspan></text>
 </a>
 <text class='f25' x='139.714079' y='22.714746'><tspan fill='#808080'>,</tspan></text>
-<a href='../?note=16569' style='cursor: pointer;' target='_top'>
+<a href='../?note=19029' style='cursor: pointer;' target='_top'>
 <path d='M147.445306 24.70703C147.773431 24.50391 148.082025 24.30859 148.4414 24.30859C148.80468 24.30859 149.11328 24.50391 149.4414 24.70703C149.76562 24.91016 150.07421 25.10547 150.43749 25.10547C150.79687 25.10547 151.10546 24.91016 151.43359 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M151.433587 24.70703C151.757806 24.50391 152.066399 24.30859 152.429681 24.30859C152.78906 24.30859 153.10156 24.50391 153.42577 24.70703C153.74999 24.91016 154.05859 25.10547 154.42187 25.10547C154.78124 25.10547 155.09374 24.91016 155.41796 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M155.417961 24.70703C155.74218 24.50391 156.050774 24.30859 156.414055 24.30859C156.77343 24.30859 157.08593 24.50391 157.41015 24.70703C157.73437 24.91016 158.04687 25.10547 158.40624 25.10547C158.76562 25.10547 159.07812 24.91016 159.40234 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M159.402351 24.70703C159.72657 24.50391 160.03907 24.30859 160.398445 24.30859S161.07032 24.50391 161.39454 24.70703C161.71876 24.91016 162.03126 25.10547 162.39063 25.10547C162.75001 25.10547 163.06251 24.91016 163.38673 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M163.386725 24.70703C163.710944 24.50391 164.023444 24.30859 164.382819 24.30859C164.74219 24.30859 165.05469 24.50391 165.37891 24.70703C165.70313 24.91016 166.01563 25.10547 166.37501 25.10547C166.73829 25.10547 167.04688 24.91016 167.3711 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f25' x='148.182323' y='22.714746'><tspan fill='#808080'>16569</tspan></text>
+<text class='f25' x='148.182323' y='22.714746'><tspan fill='#808080'>19029</tspan></text>
 </a>
-<text class='f25' x='169.346959' y='22.714746'><tspan fill='#808080'>,</tspan></text>
-<a href='../?note=23339' style='cursor: pointer;' target='_top'>
+<text class='f25' x='169.34895' y='22.714746'><tspan fill='#808080'>,</tspan></text>
+<a href='../?note=16569' style='cursor: pointer;' target='_top'>
 <path d='M179.328122 24.70703C179.652341 24.50391 179.964841 24.30859 180.324216 24.30859C180.68359 24.30859 180.99609 24.50391 181.32031 24.70703C181.64453 24.91016 181.95703 25.10547 182.3164 25.10547C182.67578 25.10547 182.98828 24.91016 183.3125 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M183.312496 24.70703C183.636715 24.50391 183.949215 24.30859 184.30859 24.30859C184.67187 24.30859 184.98047 24.50391 185.30468 24.70703C185.6289 24.91016 185.9414 25.10547 186.30078 25.10547C186.66406 25.10547 186.97265 24.91016 187.29687 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M187.296871 24.70703C187.62109 24.50391 187.93359 24.30859 188.292965 24.30859C188.65625 24.30859 188.96484 24.50391 189.28906 24.70703C189.61718 24.91016 189.92578 25.10547 190.28515 25.10547C190.64843 25.10547 190.95703 24.91016 191.28125 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M191.281245 24.70703C191.60937 24.50391 191.917964 24.30859 192.277339 24.30859C192.64062 24.30859 192.94921 24.50391 193.27734 24.70703C193.60156 24.91016 193.91015 25.10547 194.27343 25.10547C194.63281 25.10547 194.9414 24.91016 195.26953 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M195.269526 24.70703C195.593745 24.50391 195.902338 24.30859 196.26562 24.30859C196.62499 24.30859 196.93749 24.50391 197.26171 24.70703C197.58593 24.91016 197.89453 25.10547 198.25781 25.10547C198.61718 25.10547 198.92968 24.91016 199.2539 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f25' x='177.815203' y='22.714746'><tspan fill='#808080'>23339</tspan></text>
+<text class='f25' x='177.817194' y='22.714746'><tspan fill='#808080'>16569</tspan></text>
 </a>
-<text class='f25' x='198.983822' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
-<text class='f28' x='0' y='58.569017'>Let</text>
-<text class='f22' x='18.13974' y='58.569017'>L</text>
-<text class='f28' x='28.530599' y='58.569017'>b<tspan x='34.342088'>e</tspan><tspan x='42.380699'>a</tspan><tspan x='50.972732'>con</tspan><tspan x='65.639943'>tin</tspan><tspan x='77.539794'>uous</tspan><tspan x='101.131073'>ﬁrst-order</tspan><tspan x='148.05173'>language</tspan><tspan x='189.852483'>and</tspan><tspan x='209.514013'>let</tspan></text>
-<text class='f22' x='224.194482' y='58.569017'>T</text>
-<text class='f28' x='235.010837' y='58.569017'>b<tspan x='240.822327'>e</tspan><tspan x='248.860938'>a</tspan><tspan x='257.45297'>complete</tspan></text>
-<text class='f22' x='299.807163' y='58.569017'>L</text>
-<text class='f28' x='306.58731' y='58.569017'>-theory<tspan x='337.056714'>.</tspan><tspan x='345.121444'>F</tspan><tspan x='350.794821'>or</tspan><tspan x='363.288895'>a</tspan><tspan x='371.880927'>tuple</tspan></text>
-<rect x='397.630878' y='52.328928' height='.487658' width='5.693919'/>
-<text class='f22' x='397.630878' y='58.569017'>x</text>
-<text class='f28' x='406.935509' y='58.569017'>of<tspan x='418.571622'>v</tspan><tspan x='423.276418'>ariables,</tspan><tspan x='463.018824'>a</tspan><tspan x='0' y='72.915182'>t</tspan><tspan x='3.59773'>yp</tspan><tspan x='14.667497'>e</tspan></text>
-<text class='f22' x='22.562938' y='72.915182'>p</text>
-<text class='f20' x='30.587179' y='72.915182'>∈</text>
-<text class='f22' x='40.240754' y='72.915182'>S</text>
-<rect x='46.349799' y='69.971281' height='.487658' width='5.015919'/>
-<text class='f21' x='46.349799' y='74.924538'>x</text>
-<text class='f24' x='51.365719' y='72.915182'>(</text>
-<text class='f22' x='55.240197' y='72.915182'>T</text>
-<text class='f24' x='62.44584' y='72.915182'>)</text>
-<text class='f28' x='66.320318' y='72.915182'>,<tspan x='72.591907'>and</tspan></text>
-<text class='f22' x='92.11025' y='72.915182'>M</text>
-<text class='f20' x='105.87337' y='72.915182'>|</text>
-<text class='f24' x='106.980379' y='72.915182'>=</text>
-<text class='f22' x='117.741109' y='72.915182'>T</text>
-<text class='f28' x='124.946752' y='72.915182'>,<tspan x='131.21834'>let</tspan></text>
-<text class='f22' x='145.75564' y='72.915182'>p</text>
-<text class='f24' x='150.768104' y='72.915182'>(</text>
-<text class='f22' x='154.642583' y='72.915182'>M</text>
-<text class='f24' x='165.393925' y='72.915182'>)<tspan x='172.280181' y='72.569235'>:</tspan><tspan x='174.383408' y='72.915182'>=</tspan></text>
-<text class='f20' x='185.144138' y='72.915182'>{</text>
-<rect x='190.125477' y='66.675094' height='.487658' width='5.266141'/>
-<text class='f22' x='190.125477' y='72.915182'>a</text>
-<text class='f20' x='198.403395' y='72.915182'>∈</text>
-<text class='f22' x='208.056954' y='72.915182'>M</text>
-<text class='f24' x='221.820074' y='72.915182'>:</text>
-<text class='f22' x='227.599231' y='72.915182'>p</text>
-<text class='f24' x='235.623473' y='72.915182'>=<tspan x='246.384203'>tp</tspan></text>
-<text class='f21' x='255.793422' y='69.10443'>M</text>
-<text class='f24' x='264.636664' y='72.915182'>(</text>
-<rect x='268.511142' y='66.675094' height='.487658' width='5.266141'/>
-<text class='f22' x='268.511142' y='72.915182'>a</text>
-<text class='f24' x='273.777283' y='72.915182'>)</text>
-<text class='f20' x='277.651761' y='72.915182'>}</text>
-<text class='f28' x='286.100642' y='72.915182'>b<tspan x='291.912131'>e</tspan><tspan x='299.807572'>the</tspan><tspan x='317.112232'>set</tspan><tspan x='332.811932'>of</tspan><tspan x='344.304875'>realizations</tspan><tspan x='397.11534'>of</tspan></text>
-<text class='f22' x='408.608298' y='72.915182'>p</text>
-<text class='f28' x='417.088305' y='72.915182'>in</text>
-<text class='f22' x='428.857967' y='72.915182'>M</text>
-<text class='f28' x='439.60931' y='72.915182'>.<tspan x='447.244544'>Note</tspan><tspan x='0' y='87.261347'>that</tspan></text>
-<text class='f22' x='21.585893' y='87.261347'>p</text>
-<text class='f24' x='26.598357' y='87.261347'>(</text>
-<text class='f22' x='30.472835' y='87.261347'>M</text>
-<text class='f24' x='41.224178' y='87.261347'>)</text>
-<text class='f28' x='48.419531' y='87.261347'>could<tspan x='74.986488'>b</tspan><tspan x='80.797977'>e</tspan><tspan x='88.546751'>empt</tspan><tspan x='110.408985'>y</tspan><tspan x='114.837033'>,</tspan><tspan x='120.925288'>in</tspan><tspan x='132.548284'>whic</tspan><tspan x='152.196578'>h</tspan><tspan x='161.052194'>case</tspan><tspan x='182.139952'>w</tspan><tspan x='189.058226'>e</tspan><tspan x='196.807001'>sa</tspan><tspan x='205.441337'>y</tspan><tspan x='214.02049'>that</tspan></text>
-<text class='f22' x='235.606382' y='87.261347'>p</text>
-<text class='f28' x='243.939722' y='87.261347'>is</text>
-<text class='f16' x='253.957742' y='87.261347'>omitte<tspan x='280.945569'>d</tspan></text>
-<text class='f28' x='290.122076' y='87.261347'>in</text>
-<text class='f22' x='301.745072' y='87.261347'>M</text>
-<text class='f28' x='312.496414' y='87.261347'>.</text>
-<text class='f15' x='0' y='109.718697'>Theorem</text>
-<text class='f28' x='48.650878' y='109.718697'>([<tspan fill='#00008a' x='55.292736' y='109.718697'>Har23</tspan><tspan x='81.610715' y='109.718697'>])</tspan></text>
-<text class='f15' x='88.252574' y='109.718697'>.</text>
-<text class='f16' x='96.416463' y='109.718697'>The<tspan x='116.78436'>fol</tspan><tspan x='128.241191'>lowing</tspan><tspan x='159.302136'>ar</tspan><tspan x='168.085724'>e</tspan><tspan x='176.232956'>e</tspan><tspan x='180.306566'>quivalent</tspan><tspan x='222.569942'>for</tspan><tspan x='238.482358'>a</tspan><tspan x='247.13866'>typ</tspan><tspan x='259.868535'>e</tspan></text>
-<text class='f22' x='268.015767' y='109.718697'>p</text>
-<text class='f20' x='275.795564' y='109.718697'>∈</text>
-<text class='f22' x='285.204679' y='109.718697'>S</text>
-<rect x='291.313724' y='106.774796' height='.487658' width='5.015919'/>
-<text class='f21' x='291.313724' y='111.728053'>x</text>
-<text class='f24' x='296.329644' y='109.718697'>(</text>
-<text class='f22' x='300.204122' y='109.718697'>T</text>
-<text class='f24' x='307.409765' y='109.718697'>)</text>
-<text class='f16' x='311.284243' y='109.718697'>.<tspan x='11.778235' y='132.176047'>1.</tspan></text>
-<text class='f22' x='24.906631' y='132.176047'>p</text>
-<text class='f16' x='33.483503' y='132.176047'>is<tspan x='44.176843'>princip</tspan><tspan x='74.346555'>al,</tspan><tspan x='88.60401'>i.e.</tspan><tspan x='106.935245'>the</tspan></text>
-<text class='f22' x='123.484207' y='132.176047'>T</text>
-<text class='f16' x='130.68985' y='132.176047'>-functor</text>
-<text class='f14' x='169.00692' y='132.176047'>X</text>
-<text class='f24' x='178.939631' y='132.176047'>:</text>
-<text class='f13' x='184.474344' y='132.176047'>Mo<tspan x='201.397329'>d</tspan></text>
-<text class='f24' x='207.762441' y='132.176047'>(</text>
-<text class='f22' x='211.636919' y='132.176047'>T</text>
-<text class='f24' x='218.842562' y='132.176047'>)</text>
-<text class='f20' x='225.484372' y='132.176047'>→</text>
-<text class='f13' x='238.214374' y='132.176047'>Met</text>
-<text class='f16' x='262.361569' y='132.176047'>given<tspan x='288.330648'>by</tspan></text>
-<text class='f14' x='301.315239' y='132.176047'>X</text>
-<text class='f24' x='308.480618' y='132.176047'>(</text>
-<text class='f22' x='312.355097' y='132.176047'>M</text>
-<text class='f24' x='323.106439' y='132.176047'>)<tspan x='329.74825' y='131.8301'>:</tspan><tspan x='331.851478' y='132.176047'>=</tspan></text>
-<text class='f22' x='342.367748' y='132.176047'>p</text>
-<text class='f24' x='347.380212' y='132.176047'>(</text>
-<text class='f22' x='351.254691' y='132.176047'>M</text>
-<text class='f24' x='362.006033' y='132.176047'>)</text>
-<text class='f16' x='369.444919' y='132.176047'>is</text>
-<a href='../?note=67168' style='cursor: pointer;' target='_top'>
-<path d='M379.578129 134.16797C379.902348 133.96485 380.210942 133.76954 380.574223 133.76954C380.9336 133.76954 381.2461 133.96485 381.57032 134.16797C381.89454 134.3711 382.20704 134.56641 382.56641 134.56641C382.92579 134.56641 383.23829 134.3711 383.5625 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M383.562488 134.16797C383.886707 133.96485 384.199207 133.76954 384.558582 133.76954C384.91796 133.76954 385.23046 133.96485 385.55468 134.16797C385.87889 134.3711 386.19139 134.56641 386.55077 134.56641C386.91014 134.56641 387.22264 134.3711 387.54686 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M387.546878 134.16797C387.871097 133.96485 388.183597 133.76954 388.542972 133.76954C388.90235 133.76954 389.21485 133.96485 389.53907 134.16797C389.86328 134.3711 390.17578 134.56641 390.53516 134.56641C390.89453 134.56641 391.20703 134.3711 391.53125 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M391.531237 134.16797C391.855456 133.96485 392.167956 133.76954 392.527331 133.76954C392.89061 133.76954 393.19921 133.96485 393.52342 134.16797C393.84764 134.3711 394.16014 134.56641 394.51952 134.56641C394.8828 134.56641 395.19139 134.3711 395.51561 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M395.515627 134.16797C395.839845 133.96485 396.152345 133.76954 396.51172 133.76954C396.875 133.76954 397.1836 133.96485 397.50781 134.16797C397.83594 134.3711 398.14453 134.56641 398.50391 134.56641C398.86719 134.56641 399.17578 134.3711 399.50391 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M399.503892 134.16797C399.828111 133.96485 400.136705 133.76954 400.499986 133.76954C400.85936 133.76954 401.16795 133.96485 401.49608 134.16797C401.8203 134.3711 402.12889 134.56641 402.49217 134.56641C402.85155 134.56641 403.16405 134.3711 403.48827 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M403.488282 134.16797C403.8125 133.96485 404.121094 133.76954 404.484375 133.76954C404.84375 133.76954 405.15625 133.96485 405.48047 134.16797C405.80469 134.3711 406.11328 134.56641 406.47656 134.56641C406.83594 134.56641 407.14844 134.3711 407.47266 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M407.472671 134.16797C407.79689 133.96485 408.10939 133.76954 408.468765 133.76954S409.14064 133.96485 409.46486 134.16797C409.78908 134.3711 410.10158 134.56641 410.46095 134.56641C410.82033 134.56641 411.13283 134.3711 411.45705 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M411.457031 134.16797C411.781249 133.96485 412.093749 133.76954 412.453124 133.76954C412.8125 133.76954 413.125 133.96485 413.44922 134.16797C413.77344 134.3711 414.08594 134.56641 414.44531 134.56641C414.80469 134.56641 415.11719 134.3711 415.44141 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M415.441413 134.16797C415.769538 133.96485 416.078132 133.76954 416.437507 133.76954C416.80079 133.76954 417.10938 133.96485 417.43751 134.16797C417.76173 134.3711 418.07032 134.56641 418.4336 134.56641C418.79298 134.56641 419.10157 134.3711 419.42969 134.16797' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f16' x='380.138259' y='132.176047'>deﬁnable</text>
-</a>
-<text class='f16' x='417.818401' y='132.176047'>.<tspan x='11.778235' y='151.080208'>2.</tspan><tspan x='24.906631'>Every</tspan></text>
-<text class='f22' x='53.433106' y='151.080208'>ε</text>
-<text class='f16' x='58.078866' y='151.080208'>-b<tspan x='65.716857'>al</tspan><tspan x='74.118481'>l</tspan><tspan x='80.228835'>ar</tspan><tspan x='89.012423'>ound</tspan></text>
-<text class='f22' x='113.70823' y='151.080208'>p</text>
-<text class='f16' x='122.285102' y='151.080208'>c<tspan x='126.358713'>ontains</tspan><tspan x='161.747662'>a</tspan></text>
-<a href='../?note=76615' style='cursor: pointer;' target='_top'>
-<path d='M172.355465 153.07422C172.679684 152.86719 172.988277 152.67578 173.351559 152.67578C173.71093 152.67578 174.02343 152.86719 174.34765 153.07422C174.67187 153.27734 174.98046 153.47265 175.34375 153.47265C175.70312 153.47265 176.01562 153.27734 176.33984 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M176.339839 153.07422C176.664058 152.86719 176.976558 152.67578 177.335933 152.67578C177.69531 152.67578 178.00781 152.86719 178.33203 153.07422C178.65625 153.27734 178.96875 153.47265 179.32812 153.47265C179.6875 153.47265 180 153.27734 180.32421 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M180.324214 153.07422C180.648432 152.86719 180.960932 152.67578 181.320307 152.67578C181.67968 152.67578 181.99218 152.86719 182.3164 153.07422C182.64062 153.27734 182.95312 153.47265 183.31249 153.47265C183.67187 153.47265 183.98437 153.27734 184.30859 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M184.308588 153.07422C184.632807 152.86719 184.945307 152.67578 185.304682 152.67578C185.66406 152.67578 185.97656 152.86719 186.30078 153.07422C186.62499 153.27734 186.93749 153.47265 187.29687 153.47265C187.66015 153.47265 187.96874 153.27734 188.29296 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M188.292962 153.07422C188.617181 152.86719 188.929681 152.67578 189.289056 152.67578C189.65234 152.67578 189.96093 152.86719 190.28515 153.07422C190.61327 153.27734 190.92187 153.47265 191.28124 153.47265C191.64452 153.47265 191.95312 153.27734 192.27734 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M192.277337 153.07422C192.605462 152.86719 192.914056 152.67578 193.273431 152.67578C193.63671 152.67578 193.94531 152.86719 194.27343 153.07422C194.59765 153.27734 194.90624 153.47265 195.26952 153.47265C195.6289 153.47265 195.93749 153.27734 196.26562 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M196.265617 153.07422C196.589836 152.86719 196.89843 152.67578 197.261711 152.67578C197.62109 152.67578 197.93359 152.86719 198.2578 153.07422C198.58202 153.27734 198.89062 153.47265 199.2539 153.47265C199.61327 153.47265 199.92577 153.27734 200.24999 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M200.250007 153.07422C200.574226 152.86719 200.88282 152.67578 201.246101 152.67578C201.60548 152.67578 201.91798 152.86719 202.24219 153.07422C202.56641 153.27734 202.87891 153.47265 203.23829 153.47265C203.59766 153.47265 203.91016 153.27734 204.23438 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M204.234381 153.07422C204.5586 152.86719 204.8711 152.67578 205.230475 152.67578S205.90235 152.86719 206.22657 153.07422C206.55079 153.27734 206.86329 153.47265 207.22266 153.47265C207.58204 153.47265 207.89454 153.27734 208.21876 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M208.218756 153.07422C208.542975 152.86719 208.855475 152.67578 209.21485 152.67578C209.57422 152.67578 209.88672 152.86719 210.21094 153.07422C210.53516 153.27734 210.84766 153.47265 211.20704 153.47265C211.57032 153.47265 211.87891 153.27734 212.20313 153.07422' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f16' x='170.403963' y='151.080208'>lo<tspan x='177.53259'>gic-op</tspan><tspan x='202.992401'>en</tspan></text>
-</a>
-<text class='f16' x='216.740547' y='151.080208'>neighb<tspan x='243.727899'>orho</tspan><tspan x='262.695274'>o</tspan><tspan x='267.277954'>d</tspan><tspan x='275.934256'>of</tspan></text>
-<text class='f22' x='287.645764' y='151.080208'>p</text>
-<text class='f16' x='292.658229' y='151.080208'>.<tspan x='11.778235' y='169.98437'>3.</tspan><tspan x='24.906631'>The</tspan><tspan x='45.274528'>metric</tspan><tspan x='76.717978'>and</tspan><tspan x='96.067166'>lo</tspan><tspan x='103.195793'>gic</tspan><tspan x='118.981056'>top</tspan><tspan x='131.965466'>olo</tspan><tspan x='144.185987'>gies</tspan><tspan x='164.044976'>agr</tspan><tspan x='177.411388'>e</tspan><tspan x='181.484999'>e</tspan><tspan x='189.63223'>at</tspan></text>
-<text class='f22' x='201.598369' y='169.98437'>p</text>
-<text class='f16' x='206.610833' y='169.98437'>.<tspan x='11.778235' y='188.888531'>4.</tspan><tspan x='24.906631'>Every</tspan></text>
-<text class='f22' x='53.433106' y='188.888531'>ε</text>
-<text class='f16' x='58.078866' y='188.888531'>-b<tspan x='65.716857'>al</tspan><tspan x='74.118481'>l</tspan><tspan x='80.228835'>ar</tspan><tspan x='89.012423'>ound</tspan></text>
-<text class='f22' x='113.70823' y='188.888531'>p</text>
-<text class='f16' x='122.285102' y='188.888531'>has<tspan x='140.107024'>nonempty</tspan><tspan x='185.934667'>interior</tspan><tspan x='222.596851'>in</tspan><tspan x='234.817457'>the</tspan><tspan x='251.36642'>lo</tspan><tspan x='258.495047'>gic</tspan><tspan x='274.28031'>top</tspan><tspan x='287.26472'>olo</tspan><tspan x='299.485241'>gy.</tspan><tspan x='0' y='211.345881'>Pr</tspan><tspan x='10.449846'>o</tspan><tspan x='15.032526'>of.</tspan></text>
-<text class='f28' x='31.2161' y='211.345881'>Since<tspan x='57.29143'>the</tspan><tspan x='74.511234'>metric</tspan><tspan x='105.595466'>top</tspan><tspan x='120.262754'>ology</tspan><tspan x='146.615057'>alw</tspan><tspan x='161.282031'>a</tspan><tspan x='165.986603'>ys</tspan><tspan x='178.557316'>reﬁnes</tspan><tspan x='209.697088'>the</tspan><tspan x='226.916876'>logic</tspan><tspan x='250.224846'>top</tspan><tspan x='264.892133'>ology</tspan><tspan x='291.244437'>on</tspan></text>
-<text class='f22' x='305.143168' y='211.345881'>S</text>
-<rect x='311.252213' y='208.40198' height='.487658' width='5.015919'/>
-<text class='f21' x='311.252213' y='213.355237'>x</text>
-<text class='f24' x='316.268132' y='211.345881'>(</text>
-<text class='f22' x='320.142611' y='211.345881'>T</text>
-<text class='f24' x='327.348254' y='211.345881'>)</text>
-<text class='f28' x='331.222732' y='211.345881'>,<tspan x='337.388242'>it</tspan><tspan x='347.412771'>is</tspan><tspan x='357.492601'>clear</tspan><tspan x='381.381811'>that</tspan><tspan x='403.029514'>(2)</tspan><tspan x='419.142461'>and</tspan><tspan x='438.575948'>(3)</tspan><tspan x='454.688895'>are</tspan><tspan x='0' y='225.692046'>equiv</tspan><tspan x='22.693093'>alen</tspan><tspan x='40.127685'>t.</tspan><tspan x='51.197382'>Also,</tspan><tspan x='76.436082'>(3)</tspan><tspan x='92.487234'>trivially</tspan><tspan x='130.152023'>implies</tspan><tspan x='163.969307'>(4).</tspan><tspan x='183.894802'>Th</tspan><tspan x='196.347817'>us</tspan><tspan x='209.133199'>w</tspan><tspan x='216.051473'>e</tspan><tspan x='223.800247'>sho</tspan><tspan x='237.969325'>w</tspan><tspan x='248.485222'>that</tspan><tspan x='270.071115'>(1)</tspan></text>
-<text class='f20' x='286.122266' y='225.692046'>⇔</text>
-<text class='f28' x='299.40581' y='225.692046'>(2)<tspan x='315.456961'>and</tspan><tspan x='334.828638'>(4)</tspan></text>
-<text class='f20' x='350.87979' y='225.692046'>⇒</text>
-<text class='f28' x='364.163333' y='225.692046'>(2).</text>
-<text class='f12' x='12.176384' y='248.149381'>•</text>
-<text class='f28' x='24.906631' y='248.149381'>(1)</text>
-<text class='f20' x='40.584746' y='248.149381'>⇔</text>
-<text class='f28' x='53.495253' y='248.149381'>(2).<tspan x='73.296412'>Recall</tspan><tspan x='102.949621'>that</tspan></text>
-<text class='f14' x='124.162477' y='248.149381'>X</text>
-<text class='f28' x='134.275694' y='248.149381'>is<tspan x='143.920678'>deﬁnable</tspan></text>
-<a href='../?note=19029' style='cursor: pointer;' target='_top'>
-<path d='M184.308588 250.14062C184.632807 249.9375 184.945307 249.74219 185.304682 249.74219C185.66406 249.74219 185.97656 249.9375 186.30078 250.14062C186.62499 250.34375 186.93749 250.53906 187.29687 250.53906C187.66015 250.53906 187.96874 250.34375 188.29296 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M188.292962 250.14062C188.617181 249.9375 188.929681 249.74219 189.289056 249.74219C189.65234 249.74219 189.96093 249.9375 190.28515 250.14062C190.61327 250.34375 190.92187 250.53906 191.28124 250.53906C191.64452 250.53906 191.95312 250.34375 192.27734 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f28' x='185.611994' y='248.149381'>iﬀ</text>
-</a>
-<text class='f28' x='197.138411' y='248.149381'>there<tspan x='222.253308'>is</tspan><tspan x='231.898291'>a</tspan></text>
-<a href='../?note=16569' style='cursor: pointer;' target='_top'>
-<path d='M240.101556 250.14062C240.425775 249.9375 240.734369 249.74219 241.09765 249.74219C241.45703 249.74219 241.76953 249.9375 242.09374 250.14062C242.41796 250.34375 242.72656 250.53906 243.08984 250.53906C243.44921 250.53906 243.76171 250.34375 244.08593 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M244.085931 250.14062C244.41015 249.9375 244.718743 249.74219 245.082025 249.74219C245.4414 249.74219 245.7539 249.9375 246.07812 250.14062C246.40234 250.34375 246.71484 250.53906 247.07421 250.53906C247.43359 250.53906 247.74609 250.34375 248.07031 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M248.070305 250.14062C248.394524 249.9375 248.707024 249.74219 249.066399 249.74219C249.42577 249.74219 249.73827 249.9375 250.06249 250.14062C250.38671 250.34375 250.69921 250.53906 251.05859 250.53906C251.41796 250.53906 251.73046 250.34375 252.05468 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M252.054695 250.14062C252.378914 249.9375 252.691414 249.74219 253.050789 249.74219C253.41016 249.74219 253.72266 249.9375 254.04688 250.14062C254.3711 250.34375 254.6836 250.53906 255.04298 250.53906C255.40626 250.53906 255.71485 250.34375 256.03907 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M256.039054 250.14062C256.363273 249.9375 256.675773 249.74219 257.035148 249.74219C257.39843 249.74219 257.70702 249.9375 258.03124 250.14062C258.35546 250.34375 258.66796 250.53906 259.02734 250.53906C259.39062 250.53906 259.69921 250.34375 260.02343 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M260.023444 250.14062C260.351569 249.9375 260.660162 249.74219 261.019537 249.74219C261.38282 249.74219 261.69141 249.9375 262.01563 250.14062C262.34376 250.34375 262.65235 250.53906 263.01563 250.53906C263.37501 250.53906 263.6836 250.34375 264.01172 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M264.011709 250.14062C264.335928 249.9375 264.644521 249.74219 265.007803 249.74219C265.36718 249.74219 265.67968 249.9375 266.0039 250.14062C266.32812 250.34375 266.63671 250.53906 266.99999 250.53906C267.35937 250.53906 267.67187 250.34375 267.99608 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M267.996099 250.14062C268.320317 249.9375 268.628911 249.74219 268.992192 249.74219C269.35157 249.74219 269.66407 249.9375 269.98829 250.14062C270.3125 250.34375 270.625 250.53906 270.98438 250.53906C271.34375 250.53906 271.65625 250.34375 271.98047 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M271.980458 250.14062C272.304677 249.9375 272.617177 249.74219 272.976552 249.74219C273.33593 249.74219 273.64843 249.9375 273.97265 250.14062C274.29686 250.34375 274.60936 250.53906 274.96874 250.53906C275.32811 250.53906 275.64061 250.34375 275.96483 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M275.964847 250.14062C276.289066 249.9375 276.601566 249.74219 276.960941 249.74219C277.32032 249.74219 277.63282 249.9375 277.95703 250.14062C278.28125 250.34375 278.59375 250.53906 278.95313 250.53906C279.31641 250.53906 279.625 250.34375 279.94922 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M279.949207 250.14062C280.273425 249.9375 280.585925 249.74219 280.9453 249.74219C281.30858 249.74219 281.61718 249.9375 281.94139 250.14062C282.26561 250.34375 282.57811 250.53906 282.93749 250.53906C283.30077 250.53906 283.60936 250.34375 283.93358 250.14062' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f22' x='239.82745' y='248.149381'>T</text>
-<text class='f28' x='247.033093' y='248.149381'>-form<tspan x='270.306528'>ula</tspan></text>
-</a>
-<text class='f22' x='286.537784' y='248.149381'>ϕ</text>
-<text class='f24' x='293.055016' y='248.149381'>(</text>
-<rect x='296.929495' y='241.909292' height='.487658' width='5.693919'/>
-<text class='f22' x='296.929495' y='248.149381'>x</text>
-<text class='f24' x='302.623413' y='248.149381'>)</text>
-<text class='f20' x='309.265224' y='248.149381'>∈<tspan x='318.674339'>F</tspan></text>
-<rect x='325.834967' y='245.205479' height='.487658' width='5.015919'/>
-<text class='f21' x='325.834967' y='250.158737'>x</text>
-<text class='f24' x='330.850887' y='248.149381'>(</text>
-<text class='f22' x='334.725365' y='248.149381'>T</text>
-<text class='f24' x='341.931008' y='248.149381'>)</text>
-<text class='f28' x='348.753325' y='248.149381'>suc<tspan x='362.368982'>h</tspan><tspan x='370.851576'>that</tspan><tspan x='392.064432'>for</tspan><tspan x='406.939712'>ev</tspan><tspan x='416.349141'>ery</tspan></text>
-<text class='f22' x='432.885197' y='248.149381'>M</text>
-<text class='f20' x='446.403872' y='248.149381'>|</text>
-<text class='f24' x='447.510881' y='248.149381'>=</text>
-<text class='f22' x='458.027151' y='248.149381'>T</text>
-<text class='f28' x='465.232794' y='248.149381'>,<tspan x='24.906631' y='262.495546'>w</tspan><tspan x='31.824905'>e</tspan><tspan x='39.573679'>ha</tspan><tspan x='49.812991'>v</tspan><tspan x='54.794521'>e</tspan></text>
-<text class='f22' x='62.543295' y='262.495546'>p</text>
-<text class='f24' x='67.555759' y='262.495546'>(</text>
-<text class='f22' x='71.430238' y='262.495546'>M</text>
-<text class='f24' x='82.18158' y='262.495546'>)</text>
-<text class='f20' x='88.823391' y='262.495546'>⊆</text>
-<text class='f24' x='99.339471' y='262.495546'>k<tspan x='104.321'>er</tspan></text>
-<text class='f22' x='114.312436' y='262.495546'>ϕ</text>
-<text class='f21' x='120.829668' y='258.880182'>M</text>
-<text class='f28' x='132.993785' y='262.495546'>and</text>
-<text class='f24' x='121.960784' y='285.196641'>(</text>
-<text class='f20' x='125.835262' y='285.196641'>∀</text>
-<text class='f22' x='131.370079' y='285.196641'>ε<tspan x='138.783171'>></tspan></text>
-<text class='f24' x='149.299251' y='285.196641'>0)(</text>
-<text class='f20' x='162.029528' y='285.196641'>∃</text>
-<text class='f22' x='167.564345' y='285.196641'>δ<tspan x='175.136569'>></tspan></text>
-<text class='f24' x='185.652649' y='285.196641'>0)(</text>
-<text class='f20' x='198.382926' y='285.196641'>∀</text>
-<rect x='203.917743' y='276.327511' height='.487658' width='4.275623'/>
-<text class='f22' x='203.917743' y='285.196641'>b</text>
-<text class='f20' x='210.960698' y='285.196641'>∈</text>
-<text class='f22' x='220.369813' y='285.196641'>M</text>
-<text class='f24' x='231.121155' y='285.196641'>)</text>
-<text class='f18' x='234.995634' y='277.171423'></text>
-<text class='f22' x='239.561869' y='285.196641'>ϕ</text>
-<text class='f21' x='246.079101' y='281.083145'>M</text>
-<text class='f24' x='254.922343' y='285.196641'>(</text>
-<rect x='258.796821' y='276.327511' height='.487658' width='4.275623'/>
-<text class='f22' x='258.796821' y='285.196641'>b</text>
-<text class='f24' x='263.072444' y='285.196641'>)</text>
-<text class='f22' x='269.714255' y='285.196641'>&lt;<tspan x='280.230335'>δ</tspan></text>
-<text class='f20' x='287.802559' y='285.196641'>⇒</text>
-<text class='f22' x='300.53256' y='285.196641'>d</text>
-<text class='f24' x='305.717993' y='285.196641'>(</text>
-<text class='f22' x='309.592471' y='285.196641'>p</text>
-<text class='f24' x='314.604936' y='285.196641'>(</text>
-<text class='f22' x='318.479414' y='285.196641'>M</text>
-<text class='f24' x='329.230757' y='285.196641'>)</text>
-<text class='f22' x='333.105235' y='285.196641'>,</text>
-<rect x='337.533043' y='276.327511' height='.487658' width='4.275623'/>
-<text class='f22' x='337.533043' y='285.196641'>b</text>
-<text class='f24' x='341.808666' y='285.196641'>)</text>
-<text class='f20' x='348.450477' y='285.196641'>≤</text>
-<text class='f22' x='358.966557' y='285.196641'>ε</text>
-<text class='f18' x='363.612316' y='277.171423'></text>
-<text class='f22' x='368.178552' y='285.196641'>.</text>
-<text class='f28' x='455.269728' y='285.196641'>(</text>
-<text class='f20' x='459.144207' y='285.196641'>∗</text>
-<text class='f28' x='464.125546' y='285.196641'>)<tspan x='24.906631' y='307.897736'>Let</tspan></text>
-<text class='f22' x='43.346803' y='307.897736'>M</text>
-<text class='f20' x='57.849247' y='307.897736'>|</text>
-<text class='f24' x='58.956256' y='307.897736'>=</text>
-<text class='f22' x='70.456294' y='307.897736'>T</text>
-<text class='f28' x='81.573097' y='307.897736'>b<tspan x='87.384586'>e</tspan></text>
-<text class='f22' x='95.72363' y='307.897736'>ω</text>
-<text class='f28' x='102.282361' y='307.897736'>-saturated<tspan x='150.555167'>and</tspan><tspan x='170.517114'>strongly</tspan></text>
-<text class='f22' x='209.657582' y='307.897736'>ω</text>
-<text class='f28' x='216.216313' y='307.897736'>-homogeneous,<tspan x='283.980225'>so</tspan><tspan x='296.802455'>that</tspan></text>
-<text class='f22' x='318.978618' y='307.897736'>p</text>
-<text class='f24' x='323.991082' y='307.897736'>(</text>
-<text class='f22' x='327.865561' y='307.897736'>M</text>
-<text class='f24' x='338.616903' y='307.897736'>)</text>
-<text class='f20' x='346.242482' y='307.897736'>⊆</text>
-<text class='f24' x='357.74233' y='307.897736'>k<tspan x='362.72386'>er</tspan></text>
-<text class='f22' x='372.715296' y='307.897736'>ϕ</text>
-<text class='f21' x='379.232528' y='304.282372'>M</text>
-<text class='f28' x='391.986914' y='307.897736'>iﬀ</text>
-<text class='f22' x='404.476644' y='307.897736'>ϕ</text>
-<text class='f20' x='414.744992' y='307.897736'>∈</text>
-<text class='f24' x='425.137874' y='307.897736'>k<tspan x='430.119404'>er</tspan></text>
-<text class='f22' x='440.11084' y='307.897736'>p</text>
-<text class='f28' x='445.123304' y='307.897736'>,<tspan x='451.949393'>and</tspan><tspan x='24.906631' y='322.243902'>(</tspan></text>
-<text class='f20' x='28.781109' y='322.243902'><tspan fill='#00008a'>∗</tspan></text>
-<text class='f28' x='33.762444' y='322.243902'>)<tspan x='41.099326'>holds</tspan><tspan x='67.309677'>iﬀ</tspan></text>
-<text class='f24' x='79.350649' y='322.243902'>(</text>
-<text class='f20' x='83.225128' y='322.243902'>∀</text>
-<text class='f22' x='88.759945' y='322.243902'>ε<tspan x='96.408908'>></tspan></text>
-<text class='f24' x='107.160858' y='322.243902'>0)(</text>
-<text class='f20' x='119.891135' y='322.243902'>∃</text>
-<text class='f22' x='125.425952' y='322.243902'>δ<tspan x='133.234047'>></tspan></text>
-<text class='f24' x='143.985998' y='322.243902'>0)(</text>
-<text class='f20' x='156.716275' y='322.243902'>∀</text>
-<text class='f22' x='162.251092' y='322.243902'>q</text>
-<text class='f20' x='170.059197' y='322.243902'>∈</text>
-<text class='f22' x='179.704182' y='322.243902'>S</text>
-<rect x='185.813227' y='319.3' height='.487658' width='5.015919'/>
-<text class='f21' x='185.813227' y='324.253258'>x</text>
-<text class='f24' x='190.829147' y='322.243902'>(</text>
-<text class='f22' x='194.703625' y='322.243902'>T</text>
-<text class='f24' x='201.909268' y='322.243902'>))</text>
-<text class='f18' x='209.658224' y='314.218683'></text>
-<text class='f22' x='214.22446' y='322.243902'>q</text>
-<text class='f24' x='219.029361' y='322.243902'>(</text>
-<text class='f22' x='222.90384' y='322.243902'>ϕ</text>
-<text class='f24' x='229.421072' y='322.243902'>)</text>
-<text class='f22' x='236.298753' y='322.243902'>&lt;<tspan x='247.050704'>δ</tspan></text>
-<text class='f20' x='254.858799' y='322.243902'>⇒</text>
-<text class='f22' x='267.824671' y='322.243902'>d</text>
-<text class='f24' x='273.010104' y='322.243902'>(</text>
-<text class='f22' x='276.884582' y='322.243902'>p,<tspan x='286.324855'>q</tspan></text>
-<text class='f24' x='291.129756' y='322.243902'>)</text>
-<text class='f20' x='298.007438' y='322.243902'>≤</text>
-<text class='f22' x='308.759389' y='322.243902'>ε</text>
-<text class='f18' x='313.405148' y='314.218683'></text>
-<text class='f28' x='317.971384' y='322.243902'>,<tspan x='324.236557'>i.e.</tspan><tspan x='341.819005'>ev</tspan><tspan x='351.228433'>ery</tspan></text>
-<text class='f22' x='368.279054' y='322.243902'>ε</text>
-<text class='f28' x='372.924814' y='322.243902'>-ball</text>
-<text class='f22' x='395.7589' y='322.243902'>B</text>
-<text class='f21' x='403.315659' y='323.738282'>ε</text>
-<text class='f24' x='407.577813' y='322.243902'>(</text>
-<text class='f22' x='411.452291' y='322.243902'>p</text>
-<text class='f24' x='416.464756' y='322.243902'>)</text>
-<text class='f28' x='423.801638' y='322.243902'>con<tspan x='438.468849'>tains</tspan><tspan x='463.018938'>a</tspan><tspan x='24.906631' y='336.590067'>logic-op</tspan><tspan x='58.945616'>en</tspan><tspan x='72.229131'>set</tspan></text>
-<text class='f24' x='87.782149' y='336.590067'>[</text>
-<text class='f22' x='90.59933' y='336.590067'>ϕ<tspan x='99.883894'>&lt;</tspan><tspan x='110.399974'>δ</tspan></text>
-<text class='f24' x='115.204866' y='336.590067'>]<tspan x='120.739579' y='336.24412'>:</tspan><tspan x='122.842806' y='336.590067'>=</tspan></text>
-<text class='f20' x='133.359076' y='336.590067'>{</text>
-<text class='f22' x='138.340412' y='336.590067'>q</text>
-<text class='f20' x='145.912645' y='336.590067'>∈</text>
-<text class='f22' x='155.32176' y='336.590067'>S</text>
-<rect x='161.430805' y='333.646166' height='.487658' width='5.015919'/>
-<text class='f21' x='161.430805' y='338.599423'>x</text>
-<text class='f24' x='166.446725' y='336.590067'>(</text>
-<text class='f22' x='170.321203' y='336.590067'>T</text>
-<text class='f24' x='177.526846' y='336.590067'>)<tspan x='184.168657'>:</tspan></text>
-<text class='f22' x='189.703369' y='336.590067'>q</text>
-<text class='f24' x='194.508271' y='336.590067'>(</text>
-<text class='f22' x='198.382749' y='336.590067'>ϕ</text>
-<text class='f24' x='204.899981' y='336.590067'>)</text>
-<text class='f22' x='211.541792' y='336.590067'>&lt;<tspan x='222.057872'>δ</tspan></text>
-<text class='f20' x='226.862764' y='336.590067'>}</text>
-<text class='f28' x='235.164911' y='336.590067'>for<tspan x='250.413228'>some</tspan></text>
-<text class='f22' x='275.374952' y='336.590067'>δ<tspan x='282.947176'>></tspan></text>
-<text class='f24' x='293.463256' y='336.590067'>0</text>
-<text class='f28' x='298.444576' y='336.590067'>.</text>
-<text class='f12' x='12.176384' y='355.494228'>•</text>
-<text class='f28' x='24.906631' y='355.494228'>(2)</text>
-<text class='f20' x='41.236553' y='355.494228'>⇒</text>
-<text class='f28' x='54.798882' y='355.494228'>(1).<tspan x='75.560703'>Fix</tspan><tspan x='93.689628'>for</tspan><tspan x='109.216715'>eac</tspan><tspan x='122.777085'>h</tspan></text>
-<text class='f22' x='131.911471' y='355.494228'>n</text>
-<text class='f20' x='141.123356' y='355.494228'>≥</text>
-<text class='f24' x='152.104048' y='355.494228'>1</text>
-<text class='f28' x='160.685029' y='355.494228'>some</text>
-<text class='f22' x='185.925523' y='355.494228'>L</text>
-<text class='f28' x='192.70567' y='355.494228'>-form<tspan x='215.979105'>ula</tspan></text>
-<text class='f22' x='232.862206' y='355.494228'>ϕ</text>
-<text class='f21' x='239.379438' y='356.988609'>n</text>
-<text class='f24' x='244.802431' y='355.494228'>(</text>
-<rect x='248.676909' y='349.25414' height='.487658' width='5.693919'/>
-<text class='f22' x='248.676909' y='355.494228'>x</text>
-<text class='f24' x='254.370828' y='355.494228'>)</text>
-<text class='f28' x='261.844951' y='355.494228'>and</text>
-<text class='f22' x='281.495399' y='355.494228'>δ</text>
-<text class='f21' x='285.923241' y='356.988609'>n</text>
-<text class='f22' x='294.578193' y='355.494228'>></text>
-<text class='f24' x='305.558885' y='355.494228'>0</text>
-<text class='f28' x='314.139866' y='355.494228'>suc<tspan x='327.755523'>h</tspan><tspan x='336.889909'>that</tspan></text>
-<text class='f24' x='358.754587' y='355.494228'>[</text>
-<text class='f22' x='361.571768' y='355.494228'>ϕ</text>
-<text class='f21' x='368.089' y='356.988609'>n</text>
-<text class='f22' x='376.743937' y='355.494228'>&lt;<tspan x='387.724644'>δ</tspan></text>
-<text class='f21' x='392.152486' y='356.988609'>n</text>
-<text class='f24' x='397.575479' y='355.494228'>]</text>
-<text class='f20' x='403.574804' y='355.494228'>⊆</text>
-<text class='f22' x='414.555511' y='355.494228'>B</text>
-<text class='f23' x='422.112269' y='357.293055'>1</text>
-<text class='f21' x='426.08337' y='357.293055'>/n</text>
-<text class='f24' x='435.588285' y='355.494228'>(</text>
-<text class='f22' x='439.462763' y='355.494228'>p</text>
-<text class='f24' x='444.475228' y='355.494228'>)</text>
-<text class='f28' x='451.949351' y='355.494228'>and</text>
-<text class='f22' x='24.906631' y='369.840393'>p</text>
-<text class='f24' x='29.919095' y='369.840393'>(</text>
-<text class='f22' x='33.793574' y='369.840393'>ϕ</text>
-<text class='f21' x='40.310806' y='371.334774'>n</text>
-<text class='f24' x='45.733798' y='369.840393'>)<tspan x='52.375609'>=</tspan><tspan x='62.891879'>0</tspan></text>
-<text class='f11' x='67.873199' y='366.22503'><tspan fill='#00008a'>1</tspan></text>
-<text class='f28' x='72.342432' y='369.840393'>,<tspan x='78.430687'>so</tspan><tspan x='90.662647'>for</tspan><tspan x='105.910964'>ev</tspan><tspan x='115.320392'>ery</tspan></text>
-<rect x='132.229485' y='363.600305' height='.487658' width='4.311393'/>
-<text class='f22' x='132.229485' y='369.840393'>c</text>
-<text class='f20' x='139.30821' y='369.840393'>∈</text>
-<text class='f22' x='148.717325' y='369.840393'>M</text>
-<text class='f20' x='162.236' y='369.840393'>|</text>
-<text class='f24' x='163.343009' y='369.840393'>=</text>
-<text class='f22' x='173.859279' y='369.840393'>T</text>
-<text class='f28' x='181.064922' y='369.840393'>,<tspan x='187.153177'>w</tspan><tspan x='194.071451'>e</tspan><tspan x='201.820225'>ha</tspan><tspan x='212.059538'>v</tspan><tspan x='217.041067'>e</tspan></text>
-<text class='f22' x='224.789841' y='369.840393'>d</text>
-<text class='f24' x='229.975274' y='369.840393'>(</text>
-<text class='f22' x='233.849752' y='369.840393'>p,</text>
-<text class='f24' x='243.290024' y='369.840393'>tp</text>
-<text class='f21' x='252.699244' y='366.029641'>M</text>
-<text class='f24' x='261.542485' y='369.840393'>(</text>
-<rect x='265.416964' y='363.600305' height='.487658' width='4.311393'/>
-<text class='f22' x='265.416964' y='369.840393'>c</text>
-<text class='f24' x='269.728356' y='369.840393'>))</text>
-<text class='f22' x='280.244645' y='369.840393'>&lt;</text>
-<text class='f24' x='290.760725' y='369.840393'>1</text>
-<text class='f22' x='295.742045' y='369.840393'>/n</text>
-<text class='f28' x='310.024185' y='369.840393'>whenev<tspan x='342.126016'>er</tspan></text>
-<text class='f22' x='353.776832' y='369.840393'>ϕ</text>
-<text class='f21' x='360.294064' y='366.22503'>M<tspan x='360.294064' y='372.303325'>n</tspan></text>
-<text class='f24' x='369.137305' y='369.840393'>(</text>
-<rect x='373.011784' y='363.600305' height='.487658' width='4.311393'/>
-<text class='f22' x='373.011784' y='369.840393'>c</text>
-<text class='f24' x='377.323176' y='369.840393'>)</text>
-<text class='f22' x='383.964987' y='369.840393'>&lt;<tspan x='394.481067'>δ</tspan></text>
-<text class='f21' x='398.908909' y='371.334774'>n</text>
-<text class='f28' x='404.331902' y='369.840393'>.<tspan x='411.52712'>Let</tspan></text>
-<text class='f22' x='194.581173' y='392.541489'>ϕ</text>
-<text class='f24' x='201.098405' y='392.541489'>(</text>
-<rect x='204.972883' y='386.3014' height='.487658' width='5.693919'/>
-<text class='f22' x='204.972883' y='392.541489'>x</text>
-<text class='f24' x='210.666802' y='392.541489'>)<tspan x='217.308613' y='392.195542'>:</tspan><tspan x='219.41184' y='392.541489'>=</tspan></text>
-<text class='f18' x='230.943209' y='383.07692'></text>
-<text class='f21' x='229.92811' y='403.998586'>n&lt;ω</text>
-<text class='f24' x='248.009201' y='392.541489'>2</text>
-<text class='f19' x='252.990521' y='388.427993'>−</text>
-<text class='f21' x='259.217201' y='388.427993'>n</text>
-<text class='f20' x='264.640179' y='392.541489'>|</text>
-<text class='f22' x='267.407588' y='392.541489'>ϕ</text>
-<text class='f21' x='273.92482' y='394.03587'>n</text>
-<text class='f24' x='279.347812' y='392.541489'>(</text>
-<rect x='283.222291' y='386.3014' height='.487658' width='5.693919'/>
-<text class='f22' x='283.222291' y='392.541489'>x</text>
-<text class='f24' x='288.916209' y='392.541489'>)</text>
-<text class='f20' x='292.790688' y='392.541489'>|</text>
-<text class='f22' x='295.558096' y='392.541489'>,</text>
-<text class='f28' x='24.906631' y='423.450011'>so<tspan x='37.233663'>for</tspan><tspan x='52.577052'>eac</tspan><tspan x='66.137422'>h</tspan></text>
-<rect x='75.08811' y='417.209923' height='.487658' width='4.311393'/>
-<text class='f22' x='75.08811' y='423.450011'>c</text>
-<text class='f20' x='82.325283' y='423.450011'>∈</text>
-<text class='f22' x='91.892831' y='423.450011'>M</text>
-<text class='f20' x='105.569954' y='423.450011'>|</text>
-<text class='f24' x='106.676963' y='423.450011'>=</text>
-<text class='f22' x='117.351681' y='423.450011'>T</text>
-<text class='f28' x='127.973271' y='423.450011'>and</text>
-<text class='f22' x='147.44002' y='423.450011'>ε<tspan x='155.01156'>></tspan></text>
-<text class='f24' x='165.686088' y='423.450011'>0</text>
-<text class='f28' x='170.667408' y='423.450011'>,<tspan x='176.874496'>there</tspan><tspan x='202.457501'>is</tspan></text>
-<text class='f22' x='212.570593' y='423.450011'>δ<tspan x='220.301266'>></tspan></text>
-<text class='f24' x='230.975794' y='423.450011'>0</text>
-<text class='f28' x='239.373061' y='423.450011'>suc<tspan x='252.988718'>h</tspan><tspan x='261.939406'>that</tspan><tspan x='283.62037'>if</tspan></text>
-<text class='f22' x='292.847763' y='423.450011'>ϕ</text>
-<text class='f21' x='299.364995' y='419.834647'>M</text>
-<text class='f24' x='308.208237' y='423.450011'>(</text>
-<rect x='312.082715' y='417.209923' height='.487658' width='4.311393'/>
-<text class='f22' x='312.082715' y='423.450011'>c</text>
-<text class='f24' x='316.394108' y='423.450011'>)</text>
-<text class='f22' x='323.194366' y='423.450011'>&lt;<tspan x='333.868895'>δ</tspan></text>
-<text class='f28' x='338.673787' y='423.450011'>,<tspan x='344.880889'>then</tspan></text>
-<text class='f22' x='367.668695' y='423.450011'>d</text>
-<text class='f24' x='372.854128' y='423.450011'>(</text>
-<text class='f22' x='376.728606' y='423.450011'>p,</text>
-<text class='f24' x='386.168879' y='423.450011'>tp</text>
-<text class='f21' x='395.578098' y='419.639259'>M</text>
-<text class='f24' x='404.42134' y='423.450011'>(</text>
-<rect x='408.295818' y='417.209923' height='.487658' width='4.311393'/>
-<text class='f22' x='408.295818' y='423.450011'>c</text>
-<text class='f24' x='412.607211' y='423.450011'>))</text>
-<text class='f22' x='423.281933' y='423.450011'>&lt;<tspan x='433.956461'>ε</tspan></text>
-<text class='f28' x='438.60222' y='423.450011'>.<tspan x='446.082655'>Th</tspan><tspan x='458.53567'>us</tspan><tspan x='24.906631' y='437.796176'>there</tspan><tspan x='50.880854'>is</tspan><tspan x='61.385179'>an</tspan><tspan x='75.708405'>increasing</tspan><tspan x='122.770071'>con</tspan><tspan x='137.437283'>tin</tspan><tspan x='149.337134'>uous</tspan><tspan x='173.124866'>map</tspan></text>
-<text class='f22' x='195.749956' y='437.796176'>α</text>
-<text class='f24' x='205.73777' y='437.796176'>:<tspan x='212.082966'>[</tspan><tspan x='214.900147'>0</tspan></text>
-<text class='f22' x='219.881467' y='437.796176'>,</text>
-<text class='f24' x='224.309275' y='437.796176'>1]</text>
-<text class='f20' x='235.635775' y='437.796176'>→</text>
-<text class='f24' x='249.176259' y='437.796176'>[<tspan x='251.99344'>0</tspan></text>
-<text class='f22' x='256.97476' y='437.796176'>,</text>
-<text class='f24' x='261.402568' y='437.796176'>1]</text>
-<text class='f28' x='272.958433' y='437.796176'>with</text>
-<text class='f22' x='296.137235' y='437.796176'>α</text>
-<text class='f24' x='302.547233' y='437.796176'>(0)<tspan x='318.85531'>=</tspan><tspan x='330.182063'>0</tspan></text>
-<text class='f28' x='338.970548' y='437.796176'>and</text>
-<text class='f22' x='358.82853' y='437.796176'>d</text>
-<text class='f24' x='364.013963' y='437.796176'>(</text>
-<text class='f22' x='367.888441' y='437.796176'>p,</text>
-<text class='f24' x='377.328714' y='437.796176'>tp</text>
-<text class='f21' x='386.737933' y='433.985424'>M</text>
-<text class='f24' x='395.581174' y='437.796176'>(</text>
-<rect x='399.455653' y='431.556088' height='.487658' width='4.311393'/>
-<text class='f22' x='399.455653' y='437.796176'>c</text>
-<text class='f24' x='403.767045' y='437.796176'>))</text>
-<text class='f20' x='415.093802' y='437.796176'>≤</text>
-<text class='f22' x='426.420365' y='437.796176'>α</text>
-<text class='f24' x='432.830364' y='437.796176'>(</text>
-<text class='f22' x='436.704842' y='437.796176'>ϕ</text>
-<text class='f21' x='443.222074' y='434.180812'>M</text>
-<text class='f24' x='452.065316' y='437.796176'>(</text>
-<rect x='455.939794' y='431.556088' height='.487658' width='4.311393'/>
-<text class='f22' x='455.939794' y='437.796176'>c</text>
-<text class='f24' x='460.251187' y='437.796176'>))</text>
-<text class='f28' x='24.906631' y='452.142342'>for<tspan x='39.92081'>eac</tspan><tspan x='53.48118'>h</tspan></text>
-<rect x='62.102658' y='445.902253' height='.487658' width='4.311393'/>
-<text class='f22' x='62.102658' y='452.142342'>c</text>
-<text class='f20' x='69.181383' y='452.142342'>∈</text>
-<text class='f22' x='78.590498' y='452.142342'>M</text>
-<text class='f20' x='92.109173' y='452.142342'>|</text>
-<text class='f24' x='93.216182' y='452.142342'>=</text>
-<text class='f22' x='103.732452' y='452.142342'>T</text>
-<text class='f28' x='110.938095' y='452.142342'>.<tspan x='118.055267'>Consider</tspan><tspan x='159.414914'>the</tspan></text>
-<text class='f22' x='176.33877' y='452.142342'>T</text>
-<text class='f28' x='183.544413' y='452.142342'>-form<tspan x='206.817847'>ula</tspan></text>
-<text class='f22' x='223.188025' y='452.142342'>ψ</text>
-<text class='f24' x='230.035049' y='452.142342'>(</text>
-<rect x='233.909527' y='445.902253' height='.487658' width='5.693919'/>
-<text class='f22' x='233.909527' y='452.142342'>x</text>
-<text class='f24' x='239.603446' y='452.142342'>)<tspan x='246.245257' y='451.796395'>:</tspan><tspan x='248.348484' y='452.142342'>=</tspan><tspan x='258.864754'>inf</tspan></text>
-<rect x='271.0002' y='449.19844' height='.487658' width='4.788789'/>
-<text class='f21' x='271.0002' y='454.151698'>y</text>
-<text class='f22' x='277.449389' y='452.142342'>α</text>
-<text class='f24' x='283.859388' y='452.142342'>(</text>
-<text class='f22' x='287.733866' y='452.142342'>ϕ</text>
-<text class='f24' x='294.251098' y='452.142342'>(</text>
-<rect x='298.125577' y='445.902253' height='.487658' width='5.241939'/>
-<text class='f22' x='298.125577' y='452.142342'>y</text>
-<text class='f24' x='303.367516' y='452.142342'>))<tspan x='312.862078'>+</tspan></text>
-<text class='f22' x='322.356621' y='452.142342'>d</text>
-<text class='f24' x='327.542053' y='452.142342'>(</text>
-<rect x='331.416532' y='445.902253' height='.487658' width='5.693919'/>
-<text class='f22' x='331.416532' y='452.142342'>x<tspan x='337.110451'>,</tspan></text>
-<rect x='341.538258' y='445.902253' height='.487658' width='5.241939'/>
-<text class='f22' x='341.538258' y='452.142342'>y</text>
-<text class='f24' x='346.780198' y='452.142342'>)</text>
-<text class='f28' x='350.654676' y='452.142342'>,<tspan x='356.55563'>whic</tspan><tspan x='376.203924'>h</tspan><tspan x='384.825402'>w</tspan><tspan x='391.743676'>e</tspan><tspan x='399.258313'>claim</tspan><tspan x='425.590893'>deﬁnes</tspan></text>
-<text class='f14' x='458.067417' y='452.142342'>X</text>
-<text class='f28' x='465.232796' y='452.142342'>.<tspan x='39.306397' y='470.567616'>Indeed,</tspan><tspan x='74.258277'>since</tspan></text>
-<text class='f22' x='98.424474' y='470.567616'>p</text>
-<text class='f24' x='103.436939' y='470.567616'>(</text>
-<text class='f22' x='107.311417' y='470.567616'>M</text>
-<text class='f24' x='118.06276' y='470.567616'>)<tspan x='124.70457'>=</tspan></text>
-<text class='f22' x='135.22084' y='470.567616'>p</text>
-<text class='f24' x='140.233305' y='470.567616'>(</text>
-<text class='f22' x='144.107783' y='470.567616'>N</text>
-<text class='f24' x='153.198674' y='470.567616'>)</text>
-<text class='f20' x='158.802294' y='470.567616'>∩</text>
-<text class='f22' x='167.173233' y='470.567616'>M</text>
-<text class='f28' x='181.003089' y='470.567616'>for<tspan x='196.009029'>eac</tspan><tspan x='209.569398'>h</tspan></text>
-<text class='f22' x='218.182652' y='470.567616'>M</text>
-<text class='f20' x='231.701328' y='470.567616'></text>
-<text class='f22' x='242.217408' y='470.567616'>N</text>
-<text class='f20' x='254.07563' y='470.567616'>|</text>
-<text class='f24' x='255.182639' y='470.567616'>=</text>
-<text class='f22' x='265.698909' y='470.567616'>T</text>
-<text class='f28' x='272.904552' y='470.567616'>,</text>
+<text class='f25' x='198.98183' y='22.714746'><tspan fill='#808080'>,</tspan></text>
 <a href='../?note=23339' style='cursor: pointer;' target='_top'>
-<path d='M279.949207 472.56251C280.273425 472.35548 280.585925 472.16016 280.9453 472.16016C281.30858 472.16016 281.61718 472.35548 281.94139 472.56251C282.26561 472.76563 282.57811 472.96094 282.93749 472.96094C283.30077 472.96094 283.60936 472.76563 283.93358 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f28' x='278.798908' y='470.567616'>it</text>
-<path d='M283.933596 472.56251C284.261721 472.35548 284.570315 472.16016 284.92969 472.16016C285.29297 472.16016 285.60156 472.35548 285.92578 472.56251C286.25391 472.76563 286.5625 472.96094 286.92578 472.96094C287.28516 472.96094 287.59375 472.76563 287.92188 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M287.921862 472.56251C288.24608 472.35548 288.554674 472.16016 288.917955 472.16016C289.27733 472.16016 289.58592 472.35548 289.91405 472.56251C290.23827 472.76563 290.54686 472.96094 290.91014 472.96094C291.26952 472.96094 291.58202 472.76563 291.90624 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M291.906244 472.56251C292.230463 472.35548 292.542963 472.16016 292.902338 472.16016C293.26171 472.16016 293.57421 472.35548 293.89843 472.56251C294.22265 472.76563 294.53515 472.96094 294.89453 472.96094C295.2539 472.96094 295.5664 472.76563 295.89062 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M295.890634 472.56251C296.214853 472.35548 296.527353 472.16016 296.886728 472.16016C297.2461 472.16016 297.5586 472.35548 297.88282 472.56251C298.20704 472.76563 298.51954 472.96094 298.87892 472.96094C299.2422 472.96094 299.55079 472.76563 299.87501 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M299.874993 472.56251C300.199212 472.35548 300.511712 472.16016 300.871087 472.16016C301.23437 472.16016 301.54296 472.35548 301.86718 472.56251C302.19531 472.76563 302.5039 472.96094 302.86327 472.96094C303.22656 472.96094 303.53515 472.76563 303.85937 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M303.859383 472.56251C304.187508 472.35548 304.496101 472.16016 304.855476 472.16016C305.21876 472.16016 305.52735 472.35548 305.85548 472.56251C306.1797 472.76563 306.48829 472.96094 306.85157 472.96094C307.21095 472.96094 307.51954 472.76563 307.84766 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M307.847648 472.56251C308.171867 472.35548 308.48046 472.16016 308.843742 472.16016C309.20312 472.16016 309.51562 472.35548 309.83984 472.56251C310.16405 472.76563 310.47265 472.96094 310.83593 472.96094C311.1953 472.96094 311.5078 472.76563 311.83202 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M311.832038 472.56251C312.156256 472.35548 312.46485 472.16016 312.828131 472.16016C313.18751 472.16016 313.50001 472.35548 313.82423 472.56251C314.14844 472.76563 314.46094 472.96094 314.82032 472.96094C315.17969 472.96094 315.49219 472.76563 315.81641 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<path d='M315.816397 472.56251C316.140615 472.35548 316.453115 472.16016 316.81249 472.16016C317.17187 472.16016 317.48437 472.35548 317.80858 472.56251C318.1328 472.76563 318.4453 472.96094 318.80468 472.96094C319.16405 472.96094 319.47655 472.76563 319.80077 472.56251' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f28' x='288.519278' y='470.567616'>suﬃces</text>
+<path d='M207.222649 24.70703C207.546868 24.50391 207.859368 24.30859 208.218743 24.30859C208.57812 24.30859 208.89062 24.50391 209.21484 24.70703C209.53906 24.91016 209.85156 25.10547 210.21093 25.10547C210.57421 25.10547 210.88281 24.91016 211.20702 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M211.207039 24.70703C211.531257 24.50391 211.843757 24.30859 212.203132 24.30859C212.56641 24.30859 212.87501 24.50391 213.19923 24.70703C213.52344 24.91016 213.83594 25.10547 214.19532 25.10547C214.5586 25.10547 214.86719 24.91016 215.19141 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M215.191413 24.70703C215.519538 24.50391 215.828132 24.30859 216.187507 24.30859C216.55079 24.30859 216.85938 24.50391 217.18751 24.70703C217.51173 24.91016 217.82032 25.10547 218.1836 25.10547C218.54298 25.10547 218.85157 24.91016 219.17969 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M219.179694 24.70703C219.503912 24.50391 219.812506 24.30859 220.175787 24.30859C220.53516 24.30859 220.84766 24.50391 221.17188 24.70703C221.4961 24.91016 221.80469 25.10547 222.16797 25.10547C222.52735 25.10547 222.83985 24.91016 223.16407 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M223.164068 24.70703C223.488287 24.50391 223.796881 24.30859 224.160162 24.30859C224.51954 24.30859 224.83204 24.50391 225.15626 24.70703C225.48047 24.91016 225.79297 25.10547 226.15235 25.10547C226.51172 25.10547 226.82422 24.91016 227.14844 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f25' x='207.450074' y='22.714746'><tspan fill='#808080'>23339</tspan></text>
 </a>
-<text class='f28' x='322.149694' y='470.567616'>to<tspan x='334.084006'>sho</tspan><tspan x='348.253083'>w</tspan><tspan x='358.526604'>that</tspan></text>
-<text class='f22' x='379.870134' y='470.567616'>ψ</text>
-<text class='f21' x='386.717158' y='466.952252'>M</text>
-<text class='f24' x='395.560399' y='470.567616'>(</text>
-<rect x='399.434878' y='464.327528' height='.487658' width='5.266141'/>
-<text class='f22' x='399.434878' y='470.567616'>a</text>
-<text class='f24' x='404.701018' y='470.567616'>)<tspan x='411.342829'>=</tspan></text>
-<text class='f22' x='421.859099' y='470.567616'>d</text>
-<text class='f24' x='427.044531' y='470.567616'>(</text>
-<rect x='430.91901' y='464.327528' height='.487658' width='5.266141'/>
-<text class='f22' x='430.91901' y='470.567616'>a<tspan x='436.18515'>,</tspan><tspan x='440.612958'>p</tspan></text>
-<text class='f24' x='445.625423' y='470.567616'>(</text>
-<text class='f22' x='449.499901' y='470.567616'>M</text>
-<text class='f24' x='460.251244' y='470.567616'>))</text>
-<text class='f28' x='24.906631' y='484.913782'>for<tspan x='40.154948'>eac</tspan><tspan x='53.715318'>h</tspan></text>
-<rect x='62.570933' y='478.673693' height='.487658' width='5.266141'/>
-<text class='f22' x='62.570933' y='484.913782'>a</text>
-<text class='f20' x='70.604407' y='484.913782'>∈</text>
-<text class='f22' x='80.013521' y='484.913782'>M</text>
-<text class='f28' x='90.764864' y='484.913782'>,<tspan x='96.853119'>where</tspan></text>
-<text class='f22' x='125.661597' y='484.913782'>M</text>
-<text class='f20' x='139.180272' y='484.913782'>|</text>
-<text class='f24' x='140.287281' y='484.913782'>=</text>
-<text class='f22' x='150.803551' y='484.913782'>T</text>
-<text class='f28' x='161.330069' y='484.913782'>is</text>
-<text class='f22' x='171.348089' y='484.913782'>ω</text>
-<text class='f28' x='177.90682' y='484.913782'>-saturated.<tspan x='229.463699'>Indeed,</tspan><tspan x='264.609477'>in</tspan><tspan x='276.232473'>this</tspan><tspan x='295.659713'>case</tspan></text>
-<text class='f22' x='316.747471' y='484.913782'>d</text>
-<text class='f24' x='321.932904' y='484.913782'>(</text>
-<text class='f22' x='325.807382' y='484.913782'>p,</text>
-<text class='f24' x='335.247655' y='484.913782'>tp</text>
-<text class='f21' x='344.656874' y='481.103029'>M</text>
-<text class='f24' x='353.500115' y='484.913782'>(</text>
-<rect x='357.374594' y='476.044651' height='.487658' width='4.275623'/>
-<text class='f22' x='357.374594' y='484.913782'>b</text>
-<text class='f24' x='361.650217' y='484.913782'>))<tspan x='372.166506'>=</tspan></text>
-<text class='f22' x='382.682776' y='484.913782'>d</text>
-<text class='f24' x='387.868208' y='484.913782'>(</text>
-<text class='f22' x='391.742686' y='484.913782'>p</text>
-<text class='f24' x='396.755151' y='484.913782'>(</text>
-<text class='f22' x='400.629629' y='484.913782'>M</text>
-<text class='f24' x='411.380972' y='484.913782'>)</text>
-<text class='f22' x='415.25545' y='484.913782'>,</text>
-<rect x='419.683258' y='476.044651' height='.487658' width='4.275623'/>
-<text class='f22' x='419.683258' y='484.913782'>b</text>
-<text class='f24' x='423.958881' y='484.913782'>)</text>
-<text class='f28' x='427.83336' y='484.913782'>,<tspan x='433.921614'>and</tspan></text>
-<text class='f22' x='84.435625' y='506.797903'>ψ</text>
-<text class='f21' x='91.282648' y='502.684407'>M</text>
-<text class='f24' x='100.12589' y='506.797903'>(</text>
-<rect x='104.000368' y='500.557814' height='.487658' width='5.266141'/>
-<text class='f22' x='104.000368' y='506.797903'>a</text>
-<text class='f24' x='109.266509' y='506.797903'>)<tspan x='115.908319'>=</tspan><tspan x='128.965567'>inf</tspan></text>
-<rect x='126.424589' y='508.94599' height='.487658' width='3.503524'/>
-<text class='f21' x='126.424589' y='515.739561'>b</text>
-<text class='f19' x='129.928114' y='515.739561'>∈</text>
-<text class='f21' x='135.296896' y='515.739561'>M</text>
-<text class='f22' x='145.302391' y='506.797903'>α</text>
-<text class='f24' x='151.71239' y='506.797903'>(</text>
-<text class='f22' x='155.586868' y='506.797903'>ϕ</text>
-<text class='f21' x='162.1041' y='502.684407'>M</text>
-<text class='f24' x='170.947342' y='506.797903'>(</text>
-<rect x='174.82182' y='497.928772' height='.487658' width='4.275623'/>
-<text class='f22' x='174.82182' y='506.797903'>b</text>
-<text class='f24' x='179.097443' y='506.797903'>))<tspan x='189.060265'>+</tspan></text>
-<text class='f22' x='199.023069' y='506.797903'>d</text>
-<text class='f24' x='204.208501' y='506.797903'>(</text>
-<rect x='208.08298' y='500.557814' height='.487658' width='5.266141'/>
-<text class='f22' x='208.08298' y='506.797903'>a<tspan x='213.34912'>,</tspan></text>
-<rect x='217.776928' y='497.928772' height='.487658' width='4.275623'/>
-<text class='f22' x='217.776928' y='506.797903'>b</text>
-<text class='f24' x='222.052551' y='506.797903'>)</text>
-<text class='f20' x='228.694362' y='506.797903'>≤</text>
-<text class='f24' x='246.918202' y='506.797903'>inf</text>
-<rect x='239.210442' y='508.94599' height='.487658' width='3.503524'/>
-<text class='f21' x='239.210442' y='515.739561'>b</text>
-<text class='f19' x='242.713966' y='515.739561'>∈</text>
-<text class='f21' x='248.082748' y='515.739561'>p</text>
-<text class='f23' x='252.189705' y='515.739561'>(</text>
-<text class='f21' x='255.303028' y='515.739561'>M</text>
-<text class='f23' x='263.64814' y='515.739561'>)</text>
-<text class='f22' x='268.421807' y='506.797903'>α</text>
-<text class='f24' x='274.831806' y='506.797903'>(</text>
-<text class='f22' x='278.706284' y='506.797903'>ϕ</text>
-<text class='f21' x='285.223516' y='502.684407'>M</text>
-<text class='f24' x='294.066758' y='506.797903'>(</text>
-<rect x='297.941236' y='497.928772' height='.487658' width='4.275623'/>
-<text class='f22' x='297.941236' y='506.797903'>b</text>
-<text class='f24' x='302.216859' y='506.797903'>))<tspan x='312.179681'>+</tspan></text>
-<text class='f22' x='322.142485' y='506.797903'>d</text>
-<text class='f24' x='327.327917' y='506.797903'>(</text>
-<rect x='331.202396' y='500.557814' height='.487658' width='5.266141'/>
-<text class='f22' x='331.202396' y='506.797903'>a<tspan x='336.468536'>,</tspan></text>
-<rect x='340.896344' y='497.928772' height='.487658' width='4.275623'/>
-<text class='f22' x='340.896344' y='506.797903'>b</text>
-<text class='f24' x='345.171967' y='506.797903'>)<tspan x='351.813778'>=</tspan></text>
-<text class='f22' x='362.330048' y='506.797903'>d</text>
-<text class='f24' x='367.51548' y='506.797903'>(</text>
-<rect x='371.389959' y='500.557814' height='.487658' width='5.266141'/>
-<text class='f22' x='371.389959' y='506.797903'>a<tspan x='376.656099'>,</tspan><tspan x='381.083907'>p</tspan></text>
-<text class='f24' x='386.096372' y='506.797903'>(</text>
-<text class='f22' x='389.97085' y='506.797903'>M</text>
-<text class='f24' x='400.722193' y='506.797903'>))</text>
-<text class='f22' x='86.41552' y='532.50661'>ψ</text>
-<text class='f21' x='93.262543' y='528.393114'>M</text>
-<text class='f24' x='102.105785' y='532.50661'>(</text>
-<rect x='105.980263' y='526.266521' height='.487658' width='5.266141'/>
-<text class='f22' x='105.980263' y='532.50661'>a</text>
-<text class='f24' x='111.246404' y='532.50661'>)<tspan x='117.888215'>=</tspan><tspan x='130.945463'>inf</tspan></text>
-<rect x='128.404485' y='534.654698' height='.487658' width='3.503524'/>
-<text class='f21' x='128.404485' y='541.448268'>b</text>
-<text class='f19' x='131.908009' y='541.448268'>∈</text>
-<text class='f21' x='137.276791' y='541.448268'>M</text>
-<text class='f22' x='147.282286' y='532.50661'>α</text>
-<text class='f24' x='153.692285' y='532.50661'>(</text>
-<text class='f22' x='157.566763' y='532.50661'>ϕ</text>
-<text class='f21' x='164.083995' y='528.393114'>M</text>
-<text class='f24' x='172.927237' y='532.50661'>(</text>
-<rect x='176.801715' y='523.637479' height='.487658' width='4.275623'/>
-<text class='f22' x='176.801715' y='532.50661'>b</text>
-<text class='f24' x='181.077338' y='532.50661'>))<tspan x='191.040161'>+</tspan></text>
-<text class='f22' x='201.002964' y='532.50661'>d</text>
-<text class='f24' x='206.188397' y='532.50661'>(</text>
-<rect x='210.062875' y='526.266521' height='.487658' width='5.266141'/>
-<text class='f22' x='210.062875' y='532.50661'>a<tspan x='215.329016'>,</tspan></text>
-<rect x='219.756824' y='523.637479' height='.487658' width='4.275623'/>
-<text class='f22' x='219.756824' y='532.50661'>b</text>
-<text class='f24' x='224.032446' y='532.50661'>)</text>
-<text class='f20' x='230.674257' y='532.50661'>≥</text>
-<text class='f24' x='243.731315' y='532.50661'>inf</text>
-<rect x='241.190337' y='534.654698' height='.487658' width='3.503524'/>
-<text class='f21' x='241.190337' y='541.448268'>b</text>
-<text class='f19' x='244.693862' y='541.448268'>∈</text>
-<text class='f21' x='250.062644' y='541.448268'>M</text>
-<text class='f22' x='260.068139' y='532.50661'>d</text>
-<text class='f24' x='265.253571' y='532.50661'>(</text>
-<text class='f22' x='269.128049' y='532.50661'>p</text>
-<text class='f24' x='274.140514' y='532.50661'>(</text>
-<text class='f22' x='278.014992' y='532.50661'>M</text>
-<text class='f24' x='288.766335' y='532.50661'>)</text>
-<text class='f22' x='292.640813' y='532.50661'>,</text>
-<rect x='297.068621' y='523.637479' height='.487658' width='4.275623'/>
-<text class='f22' x='297.068621' y='532.50661'>b</text>
-<text class='f24' x='301.344244' y='532.50661'>)<tspan x='307.432588'>+</tspan></text>
-<text class='f22' x='317.395392' y='532.50661'>d</text>
-<text class='f24' x='322.580824' y='532.50661'>(</text>
-<rect x='326.455303' y='526.266521' height='.487658' width='5.266141'/>
-<text class='f22' x='326.455303' y='532.50661'>a<tspan x='331.721443'>,</tspan></text>
-<rect x='336.149251' y='523.637479' height='.487658' width='4.275623'/>
-<text class='f22' x='336.149251' y='532.50661'>b</text>
-<text class='f24' x='340.424874' y='532.50661'>)</text>
-<text class='f20' x='347.066685' y='532.50661'>≥</text>
-<text class='f22' x='357.582765' y='532.50661'>d</text>
-<text class='f24' x='362.768197' y='532.50661'>(</text>
-<rect x='366.642676' y='526.266521' height='.487658' width='5.266141'/>
-<text class='f22' x='366.642676' y='532.50661'>a<tspan x='371.908816'>,</tspan><tspan x='376.336624'>p</tspan></text>
-<text class='f24' x='381.349089' y='532.50661'>(</text>
-<text class='f22' x='385.223567' y='532.50661'>M</text>
-<text class='f24' x='395.97491' y='532.50661'>))</text>
-<text class='f22' x='403.723867' y='532.50661'>.</text>
-<text class='f12' x='12.176384' y='560.428058'>•</text>
-<text class='f28' x='24.906631' y='560.428058'>(4)</text>
-<text class='f20' x='40.623905' y='560.428058'>⇒</text>
-<text class='f28' x='53.573572' y='560.428058'>(2).<tspan x='73.387775'>Let</tspan></text>
-<text class='f22' x='90.903816' y='560.428058'>ε<tspan x='98.316908'>></tspan></text>
-<text class='f24' x='108.832988' y='560.428058'>0</text>
-<text class='f28' x='116.801306' y='560.428058'>and<tspan x='135.839106'>let</tspan></text>
-<text class='f24' x='149.895862' y='560.428058'>[</text>
-<text class='f22' x='152.713043' y='560.428058'>ψ<tspan x='162.327399'>&lt;</tspan><tspan x='172.843479'>δ</tspan></text>
-<text class='f24' x='177.648371' y='560.428058'>]</text>
-<text class='f28' x='183.402749' y='560.428058'>b<tspan x='189.214238'>e</tspan><tspan x='196.629136'>a</tspan><tspan x='204.597454'>nonempt</tspan><tspan x='242.51049'>y</tspan><tspan x='250.755766'>logic-op</tspan><tspan x='284.794752'>en</tspan><tspan x='297.74439'>set</tspan><tspan x='312.963531'>con</tspan><tspan x='327.630743'>tained</tspan><tspan x='357.738315'>in</tspan></text>
-<text class='f22' x='369.027434' y='560.428058'>B</text>
-<text class='f21' x='376.584193' y='562.226885'>ε/</text>
-<text class='f23' x='384.430151' y='562.226885'>4</text>
-<text class='f24' x='388.89937' y='560.428058'>(</text>
-<text class='f22' x='392.773848' y='560.428058'>p</text>
-<text class='f24' x='397.786313' y='560.428058'>)</text>
-<text class='f28' x='401.660791' y='560.428058'>.<tspan x='408.744717'>Let</tspan></text>
-<text class='f22' x='426.260743' y='560.428058'>δ</text>
-<text class='f19' x='431.065635' y='556.812694'></text>
-<text class='f20' x='436.628043' y='560.428058'>∈</text>
-<text class='f24' x='446.037158' y='560.428058'>(0</text>
-<text class='f22' x='454.892956' y='560.428058'>,<tspan x='459.320764'>δ</tspan></text>
-<text class='f24' x='464.125656' y='560.428058'>)</text>
-<text class='f28' x='24.906631' y='574.774223'>and</text>
-<text class='f22' x='44.278308' y='574.774223'>ε</text>
-<text class='f19' x='48.924067' y='571.158859'></text>
-<text class='f20' x='54.486475' y='574.774223'>∈</text>
-<text class='f24' x='63.89559' y='574.774223'>(</text>
-<text class='f22' x='67.770068' y='574.774223'>ε/</text>
-<text class='f24' x='77.397167' y='574.774223'>4</text>
-<text class='f22' x='82.378487' y='574.774223'>,<tspan x='86.806295'>ε/</tspan></text>
-<text class='f24' x='96.433394' y='574.774223'>2)</text>
-<text class='f28' x='105.289192' y='574.774223'>,<tspan x='111.377447'>and</tspan><tspan x='130.749124'>consider</tspan><tspan x='169.575786'>the</tspan><tspan x='186.733779'>form</tspan><tspan x='206.686337'>ula</tspan></text>
-<text class='f22' x='158.527318' y='597.475318'>ϕ</text>
-<text class='f24' x='165.04455' y='597.475318'>(</text>
-<rect x='168.919029' y='591.23523' height='.487658' width='5.693919'/>
-<text class='f22' x='168.919029' y='597.475318'>x</text>
-<text class='f24' x='174.612947' y='597.475318'>)<tspan x='181.254758' y='597.129371'>:</tspan><tspan x='183.357986' y='597.475318'>=</tspan><tspan x='193.874256'>inf</tspan></text>
-<rect x='197.79665' y='599.623406' height='.487658' width='4.290657'/>
-<text class='f21' x='197.79665' y='604.576664'>y</text>
-<text class='f24' x='207.670101' y='597.475318'>max</text>
-<text class='f20' x='228.031353' y='597.475318'>{</text>
-<text class='f22' x='233.012688' y='597.475318'>ψ</text>
-<text class='f24' x='239.859712' y='597.475318'>(</text>
-<rect x='243.73419' y='591.23523' height='.487658' width='5.241939'/>
-<text class='f22' x='243.73419' y='597.475318'>y</text>
-<text class='f24' x='248.97613' y='597.475318'>)</text>
-<text class='f28' x='257.555164' y='593.185907'>.</text>
-<text class='f20' x='255.064474' y='597.475318'>−</text>
-<text class='f22' x='265.027083' y='597.475318'>δ</text>
-<text class='f19' x='269.831975' y='593.361822'></text>
-<text class='f22' x='272.627051' y='597.475318'>,<tspan x='277.054859'>d</tspan></text>
-<text class='f24' x='282.240292' y='597.475318'>(</text>
-<rect x='286.11477' y='591.23523' height='.487658' width='5.693919'/>
-<text class='f22' x='286.11477' y='597.475318'>x<tspan x='291.808689'>,</tspan></text>
-<rect x='296.236497' y='591.23523' height='.487658' width='5.241939'/>
-<text class='f22' x='296.236497' y='597.475318'>y</text>
-<text class='f24' x='301.478436' y='597.475318'>)</text>
-<text class='f28' x='310.057471' y='593.185907'>.</text>
-<text class='f20' x='307.56678' y='597.475318'>−</text>
-<text class='f22' x='317.52939' y='597.475318'>ε</text>
-<text class='f19' x='322.17515' y='593.361822'></text>
-<text class='f20' x='324.970225' y='597.475318'>}</text>
-<text class='f22' x='331.611935' y='597.475318'>.</text>
+<text class='f25' x='228.618693' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
+<text class='f28' x='0' y='59.935322'>Let</text>
+<text class='f22' x='18.13974' y='59.935322'>L</text>
+<text class='f28' x='28.530599' y='59.935322'>b<tspan x='34.342088'>e</tspan><tspan x='42.380699'>a</tspan><tspan x='50.972732'>con</tspan><tspan x='65.639943'>tin</tspan><tspan x='77.539794'>uous</tspan><tspan x='101.131073'>ﬁrst-order</tspan><tspan x='148.05173'>language</tspan><tspan x='189.852483'>and</tspan><tspan x='209.514013'>let</tspan></text>
+<text class='f22' x='224.194482' y='59.935322'>T</text>
+<text class='f28' x='235.010837' y='59.935322'>b<tspan x='240.822327'>e</tspan><tspan x='248.860938'>a</tspan><tspan x='257.45297'>complete</tspan></text>
+<text class='f22' x='299.807163' y='59.935322'>L</text>
+<text class='f28' x='306.58731' y='59.935322'>-theory<tspan x='337.056714'>.</tspan><tspan x='345.121444'>F</tspan><tspan x='350.794821'>or</tspan><tspan x='363.288895'>a</tspan><tspan x='371.880927'>tuple</tspan></text>
+<rect x='397.630878' y='53.695234' height='.487658' width='5.693919'/>
+<text class='f22' x='397.630878' y='59.935322'>x</text>
+<text class='f28' x='406.935509' y='59.935322'>of<tspan x='418.571622'>v</tspan><tspan x='423.276418'>ariables,</tspan><tspan x='463.018824'>a</tspan><tspan x='0' y='74.281488'>t</tspan><tspan x='3.59773'>yp</tspan><tspan x='14.667497'>e</tspan></text>
+<text class='f22' x='22.416271' y='74.281488'>p</text>
+<text class='f20' x='30.196068' y='74.281488'>∈</text>
+<text class='f22' x='39.605183' y='74.281488'>S</text>
+<rect x='45.714228' y='71.337587' height='.487658' width='5.015919'/>
+<text class='f21' x='45.714228' y='76.290844'>x</text>
+<text class='f24' x='50.730147' y='74.281488'>(</text>
+<text class='f22' x='54.604626' y='74.281488'>T</text>
+<text class='f24' x='61.810269' y='74.281488'>)</text>
+<text class='f28' x='65.684747' y='74.281488'>,<tspan x='71.773002'>and</tspan></text>
+<text class='f22' x='91.144679' y='74.281488'>M</text>
+<text class='f20' x='104.663354' y='74.281488'>|</text>
+<text class='f24' x='105.770363' y='74.281488'>=</text>
+<text class='f22' x='116.286633' y='74.281488'>T</text>
+<text class='f28' x='123.492276' y='74.281488'>,<tspan x='129.580531'>let</tspan></text>
+<text class='f22' x='143.971163' y='74.281488'>p</text>
+<text class='f24' x='148.983628' y='74.281488'>(</text>
+<text class='f22' x='152.858106' y='74.281488'>M</text>
+<text class='f24' x='163.609449' y='74.281488'>)<tspan x='170.25126' y='73.935541'>:</tspan><tspan x='172.354487' y='74.281488'>=</tspan></text>
+<text class='f20' x='182.870757' y='74.281488'>{</text>
+<rect x='187.852096' y='68.041399' height='.487658' width='5.266141'/>
+<text class='f22' x='187.852096' y='74.281488'>a</text>
+<text class='f20' x='195.885569' y='74.281488'>∈</text>
+<text class='f22' x='205.294684' y='74.281488'>M</text>
+<text class='f24' x='218.813359' y='74.281488'>:</text>
+<text class='f22' x='224.348072' y='74.281488'>p</text>
+<text class='f24' x='232.127869' y='74.281488'>=<tspan x='242.644139'>tp</tspan></text>
+<text class='f21' x='252.053358' y='70.470735'>M</text>
+<text class='f24' x='260.8966' y='74.281488'>(</text>
+<rect x='264.771078' y='68.041399' height='.487658' width='5.266141'/>
+<text class='f22' x='264.771078' y='74.281488'>a</text>
+<text class='f24' x='270.037219' y='74.281488'>)</text>
+<text class='f20' x='273.911697' y='74.281488'>}</text>
+<text class='f28' x='282.213911' y='74.281488'>b<tspan x='288.0254'>e</tspan><tspan x='295.774174'>the</tspan><tspan x='312.932168'>set</tspan><tspan x='328.485185'>of</tspan><tspan x='339.831461'>realizations</tspan><tspan x='392.49526'>of</tspan></text>
+<text class='f22' x='403.841536' y='74.281488'>p</text>
+<text class='f28' x='412.174876' y='74.281488'>in</text>
+<text class='f22' x='423.797872' y='74.281488'>M</text>
+<text class='f28' x='434.549214' y='74.281488'>.</text>
+<text class='f15' x='0' y='97.763559'>Theorem</text>
+<text class='f28' x='48.650878' y='97.763559'>([<tspan fill='#00008a' x='55.292736' y='97.763559'>Har23</tspan><tspan x='81.610715' y='97.763559'>])</tspan></text>
+<text class='f15' x='88.252574' y='97.763559'>.</text>
+<text class='f16' x='96.416463' y='97.763559'>The<tspan x='116.78436'>fol</tspan><tspan x='128.241191'>lowing</tspan><tspan x='159.302136'>ar</tspan><tspan x='168.085724'>e</tspan><tspan x='176.232956'>e</tspan><tspan x='180.306566'>quivalent</tspan><tspan x='222.569942'>for</tspan><tspan x='238.482358'>a</tspan><tspan x='247.13866'>typ</tspan><tspan x='259.868535'>e</tspan></text>
+<text class='f22' x='268.015767' y='97.763559'>p</text>
+<text class='f20' x='275.795564' y='97.763559'>∈</text>
+<text class='f22' x='285.204679' y='97.763559'>S</text>
+<rect x='291.313724' y='94.819658' height='.487658' width='5.015919'/>
+<text class='f21' x='291.313724' y='99.772916'>x</text>
+<text class='f24' x='296.329644' y='97.763559'>(</text>
+<text class='f22' x='300.204122' y='97.763559'>T</text>
+<text class='f24' x='307.409765' y='97.763559'>)</text>
+<text class='f16' x='311.284243' y='97.763559'>.<tspan x='11.778235' y='121.245631'>1.</tspan></text>
+<text class='f22' x='24.906631' y='121.245631'>p</text>
+<text class='f16' x='33.483503' y='121.245631'>is<tspan x='44.176843'>princip</tspan><tspan x='74.346555'>al,</tspan><tspan x='88.60401'>i.e.</tspan><tspan x='106.935245'>the</tspan></text>
+<text class='f22' x='123.484207' y='121.245631'>T</text>
+<text class='f16' x='130.68985' y='121.245631'>-functor</text>
+<text class='f14' x='169.00692' y='121.245631'>X</text>
+<text class='f24' x='178.939631' y='121.245631'>:</text>
+<text class='f13' x='184.474344' y='121.245631'>Mo<tspan x='201.397329'>d</tspan></text>
+<text class='f24' x='207.762441' y='121.245631'>(</text>
+<text class='f22' x='211.636919' y='121.245631'>T</text>
+<text class='f24' x='218.842562' y='121.245631'>)</text>
+<text class='f20' x='225.484372' y='121.245631'>→</text>
+<text class='f13' x='238.214374' y='121.245631'>Met</text>
+<text class='f16' x='262.361569' y='121.245631'>given<tspan x='288.330648'>by</tspan></text>
+<text class='f14' x='301.315239' y='121.245631'>X</text>
+<text class='f24' x='308.480618' y='121.245631'>(</text>
+<text class='f22' x='312.355097' y='121.245631'>M</text>
+<text class='f24' x='323.106439' y='121.245631'>)<tspan x='329.74825' y='120.899684'>:</tspan><tspan x='331.851478' y='121.245631'>=</tspan></text>
+<text class='f22' x='342.367748' y='121.245631'>p</text>
+<text class='f24' x='347.380212' y='121.245631'>(</text>
+<text class='f22' x='351.254691' y='121.245631'>M</text>
+<text class='f24' x='362.006033' y='121.245631'>)</text>
+<text class='f16' x='369.444919' y='121.245631'>is</text>
+<a href='../?note=67168' style='cursor: pointer;' target='_top'>
+<path d='M379.578129 123.23828C379.902348 123.03515 380.210942 122.83984 380.574223 122.83984C380.9336 122.83984 381.2461 123.03515 381.57032 123.23828C381.89454 123.4414 382.20704 123.63672 382.56641 123.63672C382.92579 123.63672 383.23829 123.4414 383.5625 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M383.562488 123.23828C383.886707 123.03515 384.199207 122.83984 384.558582 122.83984C384.91796 122.83984 385.23046 123.03515 385.55468 123.23828C385.87889 123.4414 386.19139 123.63672 386.55077 123.63672C386.91014 123.63672 387.22264 123.4414 387.54686 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M387.546878 123.23828C387.871097 123.03515 388.183597 122.83984 388.542972 122.83984C388.90235 122.83984 389.21485 123.03515 389.53907 123.23828C389.86328 123.4414 390.17578 123.63672 390.53516 123.63672C390.89453 123.63672 391.20703 123.4414 391.53125 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M391.531237 123.23828C391.855456 123.03515 392.167956 122.83984 392.527331 122.83984C392.89061 122.83984 393.19921 123.03515 393.52342 123.23828C393.84764 123.4414 394.16014 123.63672 394.51952 123.63672C394.8828 123.63672 395.19139 123.4414 395.51561 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M395.515627 123.23828C395.839845 123.03515 396.152345 122.83984 396.51172 122.83984C396.875 122.83984 397.1836 123.03515 397.50781 123.23828C397.83594 123.4414 398.14453 123.63672 398.50391 123.63672C398.86719 123.63672 399.17578 123.4414 399.50391 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M399.503892 123.23828C399.828111 123.03515 400.136705 122.83984 400.499986 122.83984C400.85936 122.83984 401.16795 123.03515 401.49608 123.23828C401.8203 123.4414 402.12889 123.63672 402.49217 123.63672C402.85155 123.63672 403.16405 123.4414 403.48827 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M403.488282 123.23828C403.8125 123.03515 404.121094 122.83984 404.484375 122.83984C404.84375 122.83984 405.15625 123.03515 405.48047 123.23828C405.80469 123.4414 406.11328 123.63672 406.47656 123.63672C406.83594 123.63672 407.14844 123.4414 407.47266 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M407.472671 123.23828C407.79689 123.03515 408.10939 122.83984 408.468765 122.83984S409.14064 123.03515 409.46486 123.23828C409.78908 123.4414 410.10158 123.63672 410.46095 123.63672C410.82033 123.63672 411.13283 123.4414 411.45705 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M411.457031 123.23828C411.781249 123.03515 412.093749 122.83984 412.453124 122.83984C412.8125 122.83984 413.125 123.03515 413.44922 123.23828C413.77344 123.4414 414.08594 123.63672 414.44531 123.63672C414.80469 123.63672 415.11719 123.4414 415.44141 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M415.441413 123.23828C415.769538 123.03515 416.078132 122.83984 416.437507 122.83984C416.80079 122.83984 417.10938 123.03515 417.43751 123.23828C417.76173 123.4414 418.07032 123.63672 418.4336 123.63672C418.79298 123.63672 419.10157 123.4414 419.42969 123.23828' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f16' x='380.138259' y='121.245631'>deﬁnable</text>
+</a>
+<text class='f16' x='417.818401' y='121.245631'>.<tspan x='11.778235' y='141.516098'>2.</tspan><tspan x='24.906631'>Every</tspan></text>
+<text class='f22' x='53.433106' y='141.516098'>ε</text>
+<text class='f16' x='58.078866' y='141.516098'>-b<tspan x='65.716857'>al</tspan><tspan x='74.118481'>l</tspan><tspan x='80.228835'>ar</tspan><tspan x='89.012423'>ound</tspan></text>
+<text class='f22' x='113.70823' y='141.516098'>p</text>
+<text class='f16' x='122.285102' y='141.516098'>c<tspan x='126.358713'>ontains</tspan><tspan x='161.747662'>a</tspan></text>
+<a href='../?note=76615' style='cursor: pointer;' target='_top'>
+<path d='M172.355465 143.50781C172.679684 143.30468 172.988277 143.10937 173.351559 143.10937C173.71093 143.10937 174.02343 143.30468 174.34765 143.50781C174.67187 143.71093 174.98046 143.90624 175.34375 143.90624C175.70312 143.90624 176.01562 143.71093 176.33984 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M176.339839 143.50781C176.664058 143.30468 176.976558 143.10937 177.335933 143.10937C177.69531 143.10937 178.00781 143.30468 178.33203 143.50781C178.65625 143.71093 178.96875 143.90624 179.32812 143.90624C179.6875 143.90624 180 143.71093 180.32421 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M180.324214 143.50781C180.648432 143.30468 180.960932 143.10937 181.320307 143.10937C181.67968 143.10937 181.99218 143.30468 182.3164 143.50781C182.64062 143.71093 182.95312 143.90624 183.31249 143.90624C183.67187 143.90624 183.98437 143.71093 184.30859 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M184.308588 143.50781C184.632807 143.30468 184.945307 143.10937 185.304682 143.10937C185.66406 143.10937 185.97656 143.30468 186.30078 143.50781C186.62499 143.71093 186.93749 143.90624 187.29687 143.90624C187.66015 143.90624 187.96874 143.71093 188.29296 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M188.292962 143.50781C188.617181 143.30468 188.929681 143.10937 189.289056 143.10937C189.65234 143.10937 189.96093 143.30468 190.28515 143.50781C190.61327 143.71093 190.92187 143.90624 191.28124 143.90624C191.64452 143.90624 191.95312 143.71093 192.27734 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M192.277337 143.50781C192.605462 143.30468 192.914056 143.10937 193.273431 143.10937C193.63671 143.10937 193.94531 143.30468 194.27343 143.50781C194.59765 143.71093 194.90624 143.90624 195.26952 143.90624C195.6289 143.90624 195.93749 143.71093 196.26562 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M196.265617 143.50781C196.589836 143.30468 196.89843 143.10937 197.261711 143.10937C197.62109 143.10937 197.93359 143.30468 198.2578 143.50781C198.58202 143.71093 198.89062 143.90624 199.2539 143.90624C199.61327 143.90624 199.92577 143.71093 200.24999 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M200.250007 143.50781C200.574226 143.30468 200.88282 143.10937 201.246101 143.10937C201.60548 143.10937 201.91798 143.30468 202.24219 143.50781C202.56641 143.71093 202.87891 143.90624 203.23829 143.90624C203.59766 143.90624 203.91016 143.71093 204.23438 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M204.234381 143.50781C204.5586 143.30468 204.8711 143.10937 205.230475 143.10937S205.90235 143.30468 206.22657 143.50781C206.55079 143.71093 206.86329 143.90624 207.22266 143.90624C207.58204 143.90624 207.89454 143.71093 208.21876 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M208.218756 143.50781C208.542975 143.30468 208.855475 143.10937 209.21485 143.10937C209.57422 143.10937 209.88672 143.30468 210.21094 143.50781C210.53516 143.71093 210.84766 143.90624 211.20704 143.90624C211.57032 143.90624 211.87891 143.71093 212.20313 143.50781' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f16' x='170.403963' y='141.516098'>lo<tspan x='177.53259'>gic-op</tspan><tspan x='202.992401'>en</tspan></text>
+</a>
+<text class='f16' x='216.740547' y='141.516098'>neighb<tspan x='243.727899'>orho</tspan><tspan x='262.695274'>o</tspan><tspan x='267.277954'>d</tspan><tspan x='275.934256'>of</tspan></text>
+<text class='f22' x='287.645764' y='141.516098'>p</text>
+<text class='f16' x='292.658229' y='141.516098'>.<tspan x='11.778235' y='161.78655'>3.</tspan><tspan x='24.906631'>The</tspan><tspan x='45.274528'>metric</tspan><tspan x='76.717978'>and</tspan><tspan x='96.067166'>lo</tspan><tspan x='103.195793'>gic</tspan><tspan x='118.981056'>top</tspan><tspan x='131.965466'>olo</tspan><tspan x='144.185987'>gies</tspan><tspan x='164.044976'>agr</tspan><tspan x='177.411388'>e</tspan><tspan x='181.484999'>e</tspan><tspan x='189.63223'>at</tspan></text>
+<text class='f22' x='201.598369' y='161.78655'>p</text>
+<text class='f16' x='206.610833' y='161.78655'>.<tspan x='11.778235' y='182.057017'>4.</tspan><tspan x='24.906631'>Every</tspan></text>
+<text class='f22' x='53.433106' y='182.057017'>ε</text>
+<text class='f16' x='58.078866' y='182.057017'>-b<tspan x='65.716857'>al</tspan><tspan x='74.118481'>l</tspan><tspan x='80.228835'>ar</tspan><tspan x='89.012423'>ound</tspan></text>
+<text class='f22' x='113.70823' y='182.057017'>p</text>
+<text class='f16' x='122.285102' y='182.057017'>has<tspan x='140.107024'>nonempty</tspan><tspan x='185.934667'>interior</tspan><tspan x='222.596851'>in</tspan><tspan x='234.817457'>the</tspan><tspan x='251.36642'>lo</tspan><tspan x='258.495047'>gic</tspan><tspan x='274.28031'>top</tspan><tspan x='287.26472'>olo</tspan><tspan x='299.485241'>gy.</tspan><tspan x='0' y='205.539089'>Pr</tspan><tspan x='10.449846'>o</tspan><tspan x='15.032526'>of.</tspan></text>
+<text class='f28' x='31.2161' y='205.539089'>Since<tspan x='57.29143'>the</tspan></text>
+<a href='../?note=68611' style='cursor: pointer;' target='_top'>
+<path d='M75.714841 207.53125C76.03906 207.32812 76.35156 207.13281 76.710935 207.13281C77.07422 207.13281 77.38281 207.32812 77.70703 207.53125C78.03515 207.73437 78.34375 207.92969 78.70312 207.92969C79.0664 207.92969 79.375 207.73437 79.70312 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M79.699216 207.53125C80.027341 207.32812 80.335934 207.13281 80.699216 207.13281C81.05859 207.13281 81.36718 207.32812 81.69531 207.53125C82.01953 207.73437 82.32812 207.92969 82.6914 207.92969C83.05078 207.92969 83.36328 207.73437 83.6875 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M83.687497 207.53125C84.011716 207.32812 84.320309 207.13281 84.683591 207.13281C85.04297 207.13281 85.35547 207.32812 85.67968 207.53125C86.0039 207.73437 86.3125 207.92969 86.67578 207.92969C87.03515 207.92969 87.34765 207.73437 87.67187 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M87.671871 207.53125C87.99609 207.32812 88.30859 207.13281 88.667965 207.13281S89.33984 207.32812 89.66406 207.53125C89.98828 207.73437 90.30078 207.92969 90.66015 207.92969C91.01953 207.92969 91.33203 207.73437 91.65625 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M91.656247 207.53125C91.980465 207.32812 92.292965 207.13281 92.65234 207.13281C93.01172 207.13281 93.32422 207.32812 93.64843 207.53125C93.97265 207.73437 94.28515 207.92969 94.64453 207.92969C95.0039 207.92969 95.3164 207.73437 95.64062 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M95.640629 207.53125C95.964847 207.32812 96.277347 207.13281 96.636722 207.13281C97 207.13281 97.3086 207.32812 97.63282 207.53125C97.95703 207.73437 98.26953 207.92969 98.62891 207.92969C98.99219 207.92969 99.30078 207.73437 99.625 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M99.624996 207.53125C99.953121 207.32812 100.261715 207.13281 100.62109 207.13281C100.98437 207.13281 101.29296 207.32812 101.61718 207.53125C101.94531 207.73437 102.2539 207.92969 102.61718 207.92969C102.97656 207.92969 103.28515 207.73437 103.61328 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='74.511234' y='205.539089'>metric</text>
+<path d='M103.609375 207.53125C103.9375 207.32812 104.246094 207.13281 104.605469 207.13281C104.96875 207.13281 105.27734 207.32812 105.60547 207.53125C105.92969 207.73437 106.23828 207.92969 106.60156 207.92969C106.96094 207.92969 107.26953 207.73437 107.59766 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M107.597656 207.53125C107.921875 207.32812 108.234375 207.13281 108.59375 207.13281C108.95312 207.13281 109.26562 207.32812 109.58984 207.53125C109.91406 207.73437 110.22656 207.92969 110.58594 207.92969C110.94531 207.92969 111.25781 207.73437 111.58203 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M111.582031 207.53125C111.906249 207.32812 112.218749 207.13281 112.578124 207.13281C112.9375 207.13281 113.25 207.32812 113.57422 207.53125C113.89844 207.73437 114.21094 207.92969 114.57031 207.92969C114.92969 207.92969 115.24219 207.73437 115.56641 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M115.566405 207.53125C115.890624 207.32812 116.203124 207.13281 116.562499 207.13281C116.92578 207.13281 117.23437 207.32812 117.55859 207.53125C117.88281 207.73437 118.19531 207.92969 118.55469 207.92969C118.91797 207.92969 119.22656 207.73437 119.55078 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M119.550779 207.53125C119.874998 207.32812 120.187498 207.13281 120.546873 207.13281C120.91015 207.13281 121.21875 207.32812 121.54297 207.53125C121.87109 207.73437 122.17969 207.92969 122.53906 207.92969C122.90234 207.92969 123.21094 207.73437 123.53515 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M123.535154 207.53125C123.863279 207.32812 124.171872 207.13281 124.535154 207.13281C124.89453 207.13281 125.20312 207.32812 125.53125 207.53125C125.85547 207.73437 126.16406 207.92969 126.52734 207.92969C126.88672 207.92969 127.19922 207.73437 127.52343 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M127.523434 207.53125C127.847653 207.32812 128.156247 207.13281 128.519528 207.13281C128.8789 207.13281 129.1914 207.32812 129.51562 207.53125C129.83984 207.73437 130.14843 207.92969 130.51172 207.92969C130.87109 207.92969 131.18359 207.73437 131.50781 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M131.507809 207.53125C131.832027 207.32812 132.144527 207.13281 132.503902 207.13281C132.86328 207.13281 133.17578 207.32812 133.5 207.53125C133.82421 207.73437 134.13671 207.92969 134.49609 207.92969C134.85546 207.92969 135.16796 207.73437 135.49218 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M135.492183 207.53125C135.816402 207.32812 136.128902 207.13281 136.488277 207.13281C136.84765 207.13281 137.16015 207.32812 137.48437 207.53125C137.80859 207.73437 138.12109 207.92969 138.48046 207.92969C138.83984 207.92969 139.15234 207.73437 139.47656 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M139.476557 207.53125C139.800776 207.32812 140.113276 207.13281 140.472651 207.13281C140.83203 207.13281 141.14453 207.32812 141.46874 207.53125C141.79296 207.73437 142.10546 207.92969 142.46484 207.92969C142.82812 207.92969 143.13671 207.73437 143.46093 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='105.595459' y='205.539089'>top<tspan x='120.262746'>ology</tspan></text>
+<path d='M143.460932 207.53125C143.785151 207.32812 144.097651 207.13281 144.457026 207.13281C144.82031 207.13281 145.1289 207.32812 145.45312 207.53125C145.78124 207.73437 146.08984 207.92969 146.44921 207.92969C146.81249 207.92969 147.12109 207.73437 147.44531 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M147.445306 207.53125C147.773431 207.32812 148.082025 207.13281 148.4414 207.13281C148.80468 207.13281 149.11328 207.32812 149.4414 207.53125C149.76562 207.73437 150.07421 207.92969 150.43749 207.92969C150.79687 207.92969 151.10546 207.73437 151.43359 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M151.433587 207.53125C151.757806 207.32812 152.066399 207.13281 152.429681 207.13281C152.78906 207.13281 153.10156 207.32812 153.42577 207.53125C153.74999 207.73437 154.05859 207.92969 154.42187 207.92969C154.78124 207.92969 155.09374 207.73437 155.41796 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M155.417961 207.53125C155.74218 207.32812 156.050774 207.13281 156.414055 207.13281C156.77343 207.13281 157.08593 207.32812 157.41015 207.53125C157.73437 207.73437 158.04687 207.92969 158.40624 207.92969C158.76562 207.92969 159.07812 207.73437 159.40234 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M159.402351 207.53125C159.72657 207.32812 160.03907 207.13281 160.398445 207.13281S161.07032 207.32812 161.39454 207.53125C161.71876 207.73437 162.03126 207.92969 162.39063 207.92969C162.75001 207.92969 163.06251 207.73437 163.38673 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M163.386725 207.53125C163.710944 207.32812 164.023444 207.13281 164.382819 207.13281C164.74219 207.13281 165.05469 207.32812 165.37891 207.53125C165.70313 207.73437 166.01563 207.92969 166.37501 207.92969C166.73829 207.92969 167.04688 207.73437 167.3711 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M167.3711 207.53125C167.695318 207.32812 168.007818 207.13281 168.367193 207.13281C168.73047 207.13281 169.03907 207.32812 169.36329 207.53125C169.68751 207.73437 170.00001 207.92969 170.35938 207.92969C170.72266 207.92969 171.03126 207.73437 171.35547 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M171.355474 207.53125C171.683599 207.32812 171.992193 207.13281 172.351568 207.13281C172.71485 207.13281 173.02344 207.32812 173.34766 207.53125C173.67579 207.73437 173.98438 207.92969 174.34766 207.92969C174.70704 207.92969 175.01563 207.73437 175.34376 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='146.615036' y='205.539089'>alw<tspan x='161.28201'>a</tspan><tspan x='165.986582'>ys</tspan></text>
+<path d='M175.343755 207.53125C175.667974 207.32812 175.976567 207.13281 176.339849 207.13281C176.69922 207.13281 177.00782 207.32812 177.33594 207.53125C177.66016 207.73437 177.96875 207.92969 178.33204 207.92969C178.69141 207.92969 179.00391 207.73437 179.32813 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M179.328122 207.53125C179.652341 207.32812 179.964841 207.13281 180.324216 207.13281C180.68359 207.13281 180.99609 207.32812 181.32031 207.53125C181.64453 207.73437 181.95703 207.92969 182.3164 207.92969C182.67578 207.92969 182.98828 207.73437 183.3125 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M183.312496 207.53125C183.636715 207.32812 183.949215 207.13281 184.30859 207.13281C184.67187 207.13281 184.98047 207.32812 185.30468 207.53125C185.6289 207.73437 185.9414 207.92969 186.30078 207.92969C186.66406 207.92969 186.97265 207.73437 187.29687 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M187.296871 207.53125C187.62109 207.32812 187.93359 207.13281 188.292965 207.13281C188.65625 207.13281 188.96484 207.32812 189.28906 207.53125C189.61718 207.73437 189.92578 207.92969 190.28515 207.92969C190.64843 207.92969 190.95703 207.73437 191.28125 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M191.281245 207.53125C191.60937 207.32812 191.917964 207.13281 192.277339 207.13281C192.64062 207.13281 192.94921 207.32812 193.27734 207.53125C193.60156 207.73437 193.91015 207.92969 194.27343 207.92969C194.63281 207.92969 194.9414 207.73437 195.26953 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M195.269526 207.53125C195.593745 207.32812 195.902338 207.13281 196.26562 207.13281C196.62499 207.13281 196.93749 207.32812 197.26171 207.53125C197.58593 207.73437 197.89453 207.92969 198.25781 207.92969C198.61718 207.92969 198.92968 207.73437 199.2539 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M199.2539 207.53125C199.578119 207.32812 199.886713 207.13281 200.249994 207.13281C200.60937 207.13281 200.92187 207.32812 201.24609 207.53125C201.57031 207.73437 201.88281 207.92969 202.24218 207.92969C202.60156 207.92969 202.91406 207.73437 203.23828 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M203.238275 207.53125C203.562493 207.32812 203.874993 207.13281 204.234368 207.13281C204.59374 207.13281 204.90624 207.32812 205.23046 207.53125C205.55468 207.73437 205.86718 207.92969 206.22656 207.92969C206.58593 207.92969 206.89843 207.73437 207.22265 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='178.557265' y='205.539089'>reﬁnes</text>
+<path d='M207.222649 207.53125C207.546868 207.32812 207.859368 207.13281 208.218743 207.13281C208.57812 207.13281 208.89062 207.32812 209.21484 207.53125C209.53906 207.73437 209.85156 207.92969 210.21093 207.92969C210.57421 207.92969 210.88281 207.73437 211.20702 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M211.207039 207.53125C211.531257 207.32812 211.843757 207.13281 212.203132 207.13281C212.56641 207.13281 212.87501 207.32812 213.19923 207.53125C213.52344 207.73437 213.83594 207.92969 214.19532 207.92969C214.5586 207.92969 214.86719 207.73437 215.19141 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M215.191413 207.53125C215.519538 207.32812 215.828132 207.13281 216.187507 207.13281C216.55079 207.13281 216.85938 207.32812 217.18751 207.53125C217.51173 207.73437 217.82032 207.92969 218.1836 207.92969C218.54298 207.92969 218.85157 207.73437 219.17969 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M219.179694 207.53125C219.503912 207.32812 219.812506 207.13281 220.175787 207.13281C220.53516 207.13281 220.84766 207.32812 221.17188 207.53125C221.4961 207.73437 221.80469 207.92969 222.16797 207.92969C222.52735 207.92969 222.83985 207.73437 223.16407 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='209.697021' y='205.539089'>the</text>
+<path d='M223.164068 207.53125C223.488287 207.32812 223.796881 207.13281 224.160162 207.13281C224.51954 207.13281 224.83204 207.32812 225.15626 207.53125C225.48047 207.73437 225.79297 207.92969 226.15235 207.92969C226.51172 207.92969 226.82422 207.73437 227.14844 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M227.148443 207.53125C227.472661 207.32812 227.785161 207.13281 228.144536 207.13281C228.50391 207.13281 228.81641 207.32812 229.14063 207.53125C229.46485 207.73437 229.77735 207.92969 230.13672 207.92969C230.4961 207.92969 230.8086 207.73437 231.13282 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M231.132817 207.53125C231.457036 207.32812 231.769536 207.13281 232.128911 207.13281C232.48829 207.13281 232.80079 207.32812 233.125 207.53125C233.44922 207.73437 233.76172 207.92969 234.1211 207.92969C234.48438 207.92969 234.79297 207.73437 235.11719 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M235.117191 207.53125C235.44141 207.32812 235.75391 207.13281 236.113285 207.13281C236.47657 207.13281 236.78516 207.32812 237.10938 207.53125C237.4336 207.73437 237.7461 207.92969 238.10547 207.92969C238.46875 207.92969 238.77735 207.73437 239.10157 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M239.101566 207.53125C239.429691 207.32812 239.738284 207.13281 240.097659 207.13281C240.46094 207.13281 240.76953 207.32812 241.09375 207.53125C241.42188 207.73437 241.73047 207.92969 242.09375 207.92969C242.45313 207.92969 242.76172 207.73437 243.08985 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M243.089846 207.53125C243.414065 207.32812 243.722659 207.13281 244.08594 207.13281C244.44532 207.13281 244.75391 207.32812 245.08203 207.53125C245.40625 207.73437 245.71485 207.92969 246.07813 207.92969C246.4375 207.92969 246.75 207.73437 247.07422 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='226.91681' y='205.539089'>logic</text>
+<path d='M247.074221 207.53125C247.398439 207.32812 247.707033 207.13281 248.070314 207.13281C248.42969 207.13281 248.74219 207.32812 249.06641 207.53125C249.39063 207.73437 249.70313 207.92969 250.0625 207.92969C250.42188 207.92969 250.73438 207.73437 251.0586 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M251.058588 207.53125C251.382807 207.32812 251.695307 207.13281 252.054682 207.13281C252.41406 207.13281 252.72656 207.32812 253.05078 207.53125C253.37499 207.73437 253.68749 207.92969 254.04687 207.92969C254.41015 207.92969 254.71874 207.73437 255.04296 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M255.042962 207.53125C255.367181 207.32812 255.679681 207.13281 256.039056 207.13281C256.40234 207.13281 256.71093 207.32812 257.03515 207.53125C257.36327 207.73437 257.67187 207.92969 258.03124 207.92969C258.39452 207.92969 258.70312 207.73437 259.02734 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M259.027352 207.53125C259.355477 207.32812 259.664071 207.13281 260.023446 207.13281C260.38673 207.13281 260.69532 207.32812 261.02345 207.53125C261.34766 207.73437 261.65626 207.92969 262.01954 207.92969C262.37891 207.92969 262.68751 207.73437 263.01563 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M263.015617 207.53125C263.339836 207.32812 263.64843 207.13281 264.011711 207.13281C264.37109 207.13281 264.68359 207.32812 265.0078 207.53125C265.33202 207.73437 265.64062 207.92969 266.0039 207.92969C266.36327 207.92969 266.67577 207.73437 266.99999 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M267.000007 207.53125C267.324226 207.32812 267.63282 207.13281 267.996101 207.13281C268.35548 207.13281 268.66798 207.32812 268.99219 207.53125C269.31641 207.73437 269.62891 207.92969 269.98829 207.92969C270.34766 207.92969 270.66016 207.73437 270.98438 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M270.984366 207.53125C271.308585 207.32812 271.621085 207.13281 271.98046 207.13281C272.33983 207.13281 272.65233 207.32812 272.97655 207.53125C273.30077 207.73437 273.61327 207.92969 273.97265 207.92969C274.33202 207.92969 274.64452 207.73437 274.96874 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M274.968756 207.53125C275.292975 207.32812 275.605475 207.13281 275.96485 207.13281C276.32422 207.13281 276.63672 207.32812 276.96094 207.53125C277.28516 207.73437 277.59766 207.92969 277.95704 207.92969C278.32032 207.92969 278.62891 207.73437 278.95313 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M278.953115 207.53125C279.277334 207.32812 279.589834 207.13281 279.949209 207.13281C280.31249 207.13281 280.62108 207.32812 280.9453 207.53125C281.26952 207.73437 281.58202 207.92969 281.9414 207.92969C282.30468 207.92969 282.61327 207.73437 282.93749 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M282.937505 207.53125C283.26563 207.32812 283.574223 207.13281 283.933598 207.13281C284.29688 207.13281 284.60547 207.32812 284.92969 207.53125C285.25782 207.73437 285.56641 207.92969 285.92969 207.92969C286.28907 207.92969 286.59766 207.73437 286.92579 207.53125' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='250.224775' y='205.539089'>top<tspan x='264.892063'>ology</tspan></text>
+</a>
+<text class='f28' x='291.244353' y='205.539089'>on</text>
+<text class='f22' x='305.143084' y='205.539089'>S</text>
+<rect x='311.252129' y='202.595187' height='.487658' width='5.015919'/>
+<text class='f21' x='311.252129' y='207.548445'>x</text>
+<text class='f24' x='316.268049' y='205.539089'>(</text>
+<text class='f22' x='320.142527' y='205.539089'>T</text>
+<text class='f24' x='327.34817' y='205.539089'>)</text>
+<text class='f28' x='331.222648' y='205.539089'>,<tspan x='337.388159'>it</tspan><tspan x='347.412687'>is</tspan><tspan x='357.492518'>clear</tspan><tspan x='381.381727'>that</tspan><tspan x='403.02943'>(2)</tspan><tspan x='419.142377'>and</tspan><tspan x='438.575864'>(3)</tspan><tspan x='454.688811'>are</tspan><tspan x='0' y='219.885254'>equiv</tspan><tspan x='22.693093'>alen</tspan><tspan x='40.127685'>t.</tspan><tspan x='51.197382'>Also,</tspan><tspan x='76.436082'>(3)</tspan><tspan x='92.487234'>trivially</tspan><tspan x='130.152023'>implies</tspan><tspan x='163.969307'>(4).</tspan><tspan x='183.894802'>Th</tspan><tspan x='196.347817'>us</tspan><tspan x='209.133199'>w</tspan><tspan x='216.051473'>e</tspan><tspan x='223.800247'>sho</tspan><tspan x='237.969325'>w</tspan><tspan x='248.485222'>that</tspan><tspan x='270.071115'>(1)</tspan></text>
+<text class='f20' x='286.122266' y='219.885254'>⇔</text>
+<text class='f28' x='299.40581' y='219.885254'>(2)<tspan x='315.456961'>and</tspan><tspan x='334.828638'>(4)</tspan></text>
+<text class='f20' x='350.87979' y='219.885254'>⇒</text>
+<text class='f28' x='364.163333' y='219.885254'>(2).</text>
+<text class='f12' x='12.176384' y='243.367326'>•</text>
+<text class='f28' x='24.906631' y='243.367326'>(1)</text>
+<text class='f20' x='40.584746' y='243.367326'>⇔</text>
+<text class='f28' x='53.495253' y='243.367326'>(2).<tspan x='73.296412'>Recall</tspan><tspan x='102.949621'>that</tspan></text>
+<text class='f14' x='124.162477' y='243.367326'>X</text>
+<text class='f28' x='134.275694' y='243.367326'>is<tspan x='143.920678'>deﬁnable</tspan></text>
+<a href='../?note=19029' style='cursor: pointer;' target='_top'>
+<path d='M184.308588 245.35937C184.632807 245.15625 184.945307 244.96093 185.304682 244.96093C185.66406 244.96093 185.97656 245.15625 186.30078 245.35937C186.62499 245.5625 186.93749 245.75781 187.29687 245.75781C187.66015 245.75781 187.96874 245.5625 188.29296 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M188.292962 245.35937C188.617181 245.15625 188.929681 244.96093 189.289056 244.96093C189.65234 244.96093 189.96093 245.15625 190.28515 245.35937C190.61327 245.5625 190.92187 245.75781 191.28124 245.75781C191.64452 245.75781 191.95312 245.5625 192.27734 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='185.611994' y='243.367326'>iﬀ</text>
+</a>
+<text class='f28' x='197.138411' y='243.367326'>there<tspan x='222.253308'>is</tspan><tspan x='231.898291'>a</tspan></text>
+<a href='../?note=16569' style='cursor: pointer;' target='_top'>
+<path d='M240.101556 245.35937C240.425775 245.15625 240.734369 244.96093 241.09765 244.96093C241.45703 244.96093 241.76953 245.15625 242.09374 245.35937C242.41796 245.5625 242.72656 245.75781 243.08984 245.75781C243.44921 245.75781 243.76171 245.5625 244.08593 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M244.085931 245.35937C244.41015 245.15625 244.718743 244.96093 245.082025 244.96093C245.4414 244.96093 245.7539 245.15625 246.07812 245.35937C246.40234 245.5625 246.71484 245.75781 247.07421 245.75781C247.43359 245.75781 247.74609 245.5625 248.07031 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M248.070305 245.35937C248.394524 245.15625 248.707024 244.96093 249.066399 244.96093C249.42577 244.96093 249.73827 245.15625 250.06249 245.35937C250.38671 245.5625 250.69921 245.75781 251.05859 245.75781C251.41796 245.75781 251.73046 245.5625 252.05468 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M252.054695 245.35937C252.378914 245.15625 252.691414 244.96093 253.050789 244.96093C253.41016 244.96093 253.72266 245.15625 254.04688 245.35937C254.3711 245.5625 254.6836 245.75781 255.04298 245.75781C255.40626 245.75781 255.71485 245.5625 256.03907 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M256.039054 245.35937C256.363273 245.15625 256.675773 244.96093 257.035148 244.96093C257.39843 244.96093 257.70702 245.15625 258.03124 245.35937C258.35546 245.5625 258.66796 245.75781 259.02734 245.75781C259.39062 245.75781 259.69921 245.5625 260.02343 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M260.023444 245.35937C260.351569 245.15625 260.660162 244.96093 261.019537 244.96093C261.38282 244.96093 261.69141 245.15625 262.01563 245.35937C262.34376 245.5625 262.65235 245.75781 263.01563 245.75781C263.37501 245.75781 263.6836 245.5625 264.01172 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M264.011709 245.35937C264.335928 245.15625 264.644521 244.96093 265.007803 244.96093C265.36718 244.96093 265.67968 245.15625 266.0039 245.35937C266.32812 245.5625 266.63671 245.75781 266.99999 245.75781C267.35937 245.75781 267.67187 245.5625 267.99608 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M267.996099 245.35937C268.320317 245.15625 268.628911 244.96093 268.992192 244.96093C269.35157 244.96093 269.66407 245.15625 269.98829 245.35937C270.3125 245.5625 270.625 245.75781 270.98438 245.75781C271.34375 245.75781 271.65625 245.5625 271.98047 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M271.980458 245.35937C272.304677 245.15625 272.617177 244.96093 272.976552 244.96093C273.33593 244.96093 273.64843 245.15625 273.97265 245.35937C274.29686 245.5625 274.60936 245.75781 274.96874 245.75781C275.32811 245.75781 275.64061 245.5625 275.96483 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M275.964847 245.35937C276.289066 245.15625 276.601566 244.96093 276.960941 244.96093C277.32032 244.96093 277.63282 245.15625 277.95703 245.35937C278.28125 245.5625 278.59375 245.75781 278.95313 245.75781C279.31641 245.75781 279.625 245.5625 279.94922 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M279.949207 245.35937C280.273425 245.15625 280.585925 244.96093 280.9453 244.96093C281.30858 244.96093 281.61718 245.15625 281.94139 245.35937C282.26561 245.5625 282.57811 245.75781 282.93749 245.75781C283.30077 245.75781 283.60936 245.5625 283.93358 245.35937' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f22' x='239.82745' y='243.367326'>T</text>
+<text class='f28' x='247.033093' y='243.367326'>-form<tspan x='270.306528'>ula</tspan></text>
+</a>
+<text class='f22' x='286.537784' y='243.367326'>ϕ</text>
+<text class='f24' x='293.055016' y='243.367326'>(</text>
+<rect x='296.929495' y='237.127237' height='.487658' width='5.693919'/>
+<text class='f22' x='296.929495' y='243.367326'>x</text>
+<text class='f24' x='302.623413' y='243.367326'>)</text>
+<text class='f20' x='309.265224' y='243.367326'>∈<tspan x='318.674339'>F</tspan></text>
+<rect x='325.834967' y='240.423424' height='.487658' width='5.015919'/>
+<text class='f21' x='325.834967' y='245.376682'>x</text>
+<text class='f24' x='330.850887' y='243.367326'>(</text>
+<text class='f22' x='334.725365' y='243.367326'>T</text>
+<text class='f24' x='341.931008' y='243.367326'>)</text>
+<text class='f28' x='348.753325' y='243.367326'>suc<tspan x='362.368982'>h</tspan><tspan x='370.851576'>that</tspan><tspan x='392.064432'>for</tspan><tspan x='406.939712'>ev</tspan><tspan x='416.349141'>ery</tspan></text>
+<text class='f22' x='432.885197' y='243.367326'>M</text>
+<text class='f20' x='446.403872' y='243.367326'>|</text>
+<text class='f24' x='447.510881' y='243.367326'>=</text>
+<text class='f22' x='458.027151' y='243.367326'>T</text>
+<text class='f28' x='465.232794' y='243.367326'>,<tspan x='24.906631' y='257.713491'>w</tspan><tspan x='31.824905'>e</tspan><tspan x='39.573679'>ha</tspan><tspan x='49.812991'>v</tspan><tspan x='54.794521'>e</tspan></text>
+<text class='f22' x='62.543295' y='257.713491'>p</text>
+<text class='f24' x='67.555759' y='257.713491'>(</text>
+<text class='f22' x='71.430238' y='257.713491'>M</text>
+<text class='f24' x='82.18158' y='257.713491'>)</text>
+<text class='f20' x='88.823391' y='257.713491'>⊆</text>
+<text class='f24' x='99.339471' y='257.713491'>k<tspan x='104.321'>er</tspan></text>
+<text class='f22' x='114.312436' y='257.713491'>ϕ</text>
+<text class='f21' x='120.829668' y='254.098127'>M</text>
+<text class='f28' x='132.993785' y='257.713491'>and</text>
+<text class='f24' x='121.960784' y='280.414586'>(</text>
+<text class='f20' x='125.835262' y='280.414586'>∀</text>
+<text class='f22' x='131.370079' y='280.414586'>ε<tspan x='138.783171'>></tspan></text>
+<text class='f24' x='149.299251' y='280.414586'>0)(</text>
+<text class='f20' x='162.029528' y='280.414586'>∃</text>
+<text class='f22' x='167.564345' y='280.414586'>δ<tspan x='175.136569'>></tspan></text>
+<text class='f24' x='185.652649' y='280.414586'>0)(</text>
+<text class='f20' x='198.382926' y='280.414586'>∀</text>
+<rect x='203.917743' y='271.545456' height='.487658' width='4.275623'/>
+<text class='f22' x='203.917743' y='280.414586'>b</text>
+<text class='f20' x='210.960698' y='280.414586'>∈</text>
+<text class='f22' x='220.369813' y='280.414586'>M</text>
+<text class='f24' x='231.121155' y='280.414586'>)</text>
+<text class='f18' x='234.995634' y='272.389368'></text>
+<text class='f22' x='239.561869' y='280.414586'>ϕ</text>
+<text class='f21' x='246.079101' y='276.30109'>M</text>
+<text class='f24' x='254.922343' y='280.414586'>(</text>
+<rect x='258.796821' y='271.545456' height='.487658' width='4.275623'/>
+<text class='f22' x='258.796821' y='280.414586'>b</text>
+<text class='f24' x='263.072444' y='280.414586'>)</text>
+<text class='f22' x='269.714255' y='280.414586'>&lt;<tspan x='280.230335'>δ</tspan></text>
+<text class='f20' x='287.802559' y='280.414586'>⇒</text>
+<text class='f22' x='300.53256' y='280.414586'>d</text>
+<text class='f24' x='305.717993' y='280.414586'>(</text>
+<text class='f22' x='309.592471' y='280.414586'>p</text>
+<text class='f24' x='314.604936' y='280.414586'>(</text>
+<text class='f22' x='318.479414' y='280.414586'>M</text>
+<text class='f24' x='329.230757' y='280.414586'>)</text>
+<text class='f22' x='333.105235' y='280.414586'>,</text>
+<rect x='337.533043' y='271.545456' height='.487658' width='4.275623'/>
+<text class='f22' x='337.533043' y='280.414586'>b</text>
+<text class='f24' x='341.808666' y='280.414586'>)</text>
+<text class='f20' x='348.450477' y='280.414586'>≤</text>
+<text class='f22' x='358.966557' y='280.414586'>ε</text>
+<text class='f18' x='363.612316' y='272.389368'></text>
+<text class='f22' x='368.178552' y='280.414586'>.</text>
+<text class='f28' x='455.269728' y='280.414586'>(</text>
+<text class='f20' x='459.144207' y='280.414586'>∗</text>
+<text class='f28' x='464.125546' y='280.414586'>)<tspan x='24.906631' y='303.115681'>Let</tspan></text>
+<text class='f22' x='43.346803' y='303.115681'>M</text>
+<text class='f20' x='57.849247' y='303.115681'>|</text>
+<text class='f24' x='58.956256' y='303.115681'>=</text>
+<text class='f22' x='70.456294' y='303.115681'>T</text>
+<text class='f28' x='81.573097' y='303.115681'>b<tspan x='87.384586'>e</tspan></text>
+<text class='f22' x='95.72363' y='303.115681'>ω</text>
+<text class='f28' x='102.282361' y='303.115681'>-saturated<tspan x='150.555167'>and</tspan><tspan x='170.517114'>strongly</tspan></text>
+<text class='f22' x='209.657582' y='303.115681'>ω</text>
+<text class='f28' x='216.216313' y='303.115681'>-homogeneous,<tspan x='283.980225'>so</tspan><tspan x='296.802455'>that</tspan></text>
+<text class='f22' x='318.978618' y='303.115681'>p</text>
+<text class='f24' x='323.991082' y='303.115681'>(</text>
+<text class='f22' x='327.865561' y='303.115681'>M</text>
+<text class='f24' x='338.616903' y='303.115681'>)</text>
+<text class='f20' x='346.242482' y='303.115681'>⊆</text>
+<text class='f24' x='357.74233' y='303.115681'>k<tspan x='362.72386'>er</tspan></text>
+<text class='f22' x='372.715296' y='303.115681'>ϕ</text>
+<text class='f21' x='379.232528' y='299.500317'>M</text>
+<text class='f28' x='391.986914' y='303.115681'>iﬀ</text>
+<text class='f22' x='404.476644' y='303.115681'>ϕ</text>
+<text class='f20' x='414.744992' y='303.115681'>∈</text>
+<text class='f24' x='425.137874' y='303.115681'>k<tspan x='430.119404'>er</tspan></text>
+<text class='f22' x='440.11084' y='303.115681'>p</text>
+<text class='f28' x='445.123304' y='303.115681'>,<tspan x='451.949393'>and</tspan><tspan x='24.906631' y='317.461847'>(</tspan></text>
+<text class='f20' x='28.781109' y='317.461847'><tspan fill='#00008a'>∗</tspan></text>
+<text class='f28' x='33.762444' y='317.461847'>)<tspan x='41.099326'>holds</tspan><tspan x='67.309677'>iﬀ</tspan></text>
+<text class='f24' x='79.350649' y='317.461847'>(</text>
+<text class='f20' x='83.225128' y='317.461847'>∀</text>
+<text class='f22' x='88.759945' y='317.461847'>ε<tspan x='96.408908'>></tspan></text>
+<text class='f24' x='107.160858' y='317.461847'>0)(</text>
+<text class='f20' x='119.891135' y='317.461847'>∃</text>
+<text class='f22' x='125.425952' y='317.461847'>δ<tspan x='133.234047'>></tspan></text>
+<text class='f24' x='143.985998' y='317.461847'>0)(</text>
+<text class='f20' x='156.716275' y='317.461847'>∀</text>
+<text class='f22' x='162.251092' y='317.461847'>q</text>
+<text class='f20' x='170.059197' y='317.461847'>∈</text>
+<text class='f22' x='179.704182' y='317.461847'>S</text>
+<rect x='185.813227' y='314.517945' height='.487658' width='5.015919'/>
+<text class='f21' x='185.813227' y='319.471203'>x</text>
+<text class='f24' x='190.829147' y='317.461847'>(</text>
+<text class='f22' x='194.703625' y='317.461847'>T</text>
+<text class='f24' x='201.909268' y='317.461847'>))</text>
+<text class='f18' x='209.658224' y='309.436628'></text>
+<text class='f22' x='214.22446' y='317.461847'>q</text>
+<text class='f24' x='219.029361' y='317.461847'>(</text>
+<text class='f22' x='222.90384' y='317.461847'>ϕ</text>
+<text class='f24' x='229.421072' y='317.461847'>)</text>
+<text class='f22' x='236.298753' y='317.461847'>&lt;<tspan x='247.050704'>δ</tspan></text>
+<text class='f20' x='254.858799' y='317.461847'>⇒</text>
+<text class='f22' x='267.824671' y='317.461847'>d</text>
+<text class='f24' x='273.010104' y='317.461847'>(</text>
+<text class='f22' x='276.884582' y='317.461847'>p,<tspan x='286.324855'>q</tspan></text>
+<text class='f24' x='291.129756' y='317.461847'>)</text>
+<text class='f20' x='298.007438' y='317.461847'>≤</text>
+<text class='f22' x='308.759389' y='317.461847'>ε</text>
+<text class='f18' x='313.405148' y='309.436628'></text>
+<text class='f28' x='317.971384' y='317.461847'>,<tspan x='324.236557'>i.e.</tspan><tspan x='341.819005'>ev</tspan><tspan x='351.228433'>ery</tspan></text>
+<text class='f22' x='368.279054' y='317.461847'>ε</text>
+<text class='f28' x='372.924814' y='317.461847'>-ball</text>
+<text class='f22' x='395.7589' y='317.461847'>B</text>
+<text class='f21' x='403.315659' y='318.956227'>ε</text>
+<text class='f24' x='407.577813' y='317.461847'>(</text>
+<text class='f22' x='411.452291' y='317.461847'>p</text>
+<text class='f24' x='416.464756' y='317.461847'>)</text>
+<text class='f28' x='423.801638' y='317.461847'>con<tspan x='438.468849'>tains</tspan><tspan x='463.018938'>a</tspan><tspan x='24.906631' y='331.808012'>logic-op</tspan><tspan x='58.945616'>en</tspan><tspan x='72.229131'>set</tspan></text>
+<text class='f24' x='87.782149' y='331.808012'>[</text>
+<text class='f22' x='90.59933' y='331.808012'>ϕ<tspan x='99.883894'>&lt;</tspan><tspan x='110.399974'>δ</tspan></text>
+<text class='f24' x='115.204866' y='331.808012'>]<tspan x='120.739579' y='331.462065'>:</tspan><tspan x='122.842806' y='331.808012'>=</tspan></text>
+<text class='f20' x='133.359076' y='331.808012'>{</text>
+<text class='f22' x='138.340412' y='331.808012'>q</text>
+<text class='f20' x='145.912645' y='331.808012'>∈</text>
+<text class='f22' x='155.32176' y='331.808012'>S</text>
+<rect x='161.430805' y='328.864111' height='.487658' width='5.015919'/>
+<text class='f21' x='161.430805' y='333.817368'>x</text>
+<text class='f24' x='166.446725' y='331.808012'>(</text>
+<text class='f22' x='170.321203' y='331.808012'>T</text>
+<text class='f24' x='177.526846' y='331.808012'>)<tspan x='184.168657'>:</tspan></text>
+<text class='f22' x='189.703369' y='331.808012'>q</text>
+<text class='f24' x='194.508271' y='331.808012'>(</text>
+<text class='f22' x='198.382749' y='331.808012'>ϕ</text>
+<text class='f24' x='204.899981' y='331.808012'>)</text>
+<text class='f22' x='211.541792' y='331.808012'>&lt;<tspan x='222.057872'>δ</tspan></text>
+<text class='f20' x='226.862764' y='331.808012'>}</text>
+<text class='f28' x='235.164911' y='331.808012'>for<tspan x='250.413228'>some</tspan></text>
+<text class='f22' x='275.374952' y='331.808012'>δ<tspan x='282.947176'>></tspan></text>
+<text class='f24' x='293.463256' y='331.808012'>0</text>
+<text class='f28' x='298.444576' y='331.808012'>.</text>
+<text class='f12' x='12.176384' y='352.078479'>•</text>
+<text class='f28' x='24.906631' y='352.078479'>(2)</text>
+<text class='f20' x='41.236553' y='352.078479'>⇒</text>
+<text class='f28' x='54.798882' y='352.078479'>(1).<tspan x='75.560703'>Fix</tspan><tspan x='93.689628'>for</tspan><tspan x='109.216715'>eac</tspan><tspan x='122.777085'>h</tspan></text>
+<text class='f22' x='131.911471' y='352.078479'>n</text>
+<text class='f20' x='141.123356' y='352.078479'>≥</text>
+<text class='f24' x='152.104048' y='352.078479'>1</text>
+<text class='f28' x='160.685029' y='352.078479'>some</text>
+<text class='f22' x='185.925523' y='352.078479'>L</text>
+<text class='f28' x='192.70567' y='352.078479'>-form<tspan x='215.979105'>ula</tspan></text>
+<text class='f22' x='232.862206' y='352.078479'>ϕ</text>
+<text class='f21' x='239.379438' y='353.57286'>n</text>
+<text class='f24' x='244.802431' y='352.078479'>(</text>
+<rect x='248.676909' y='345.83839' height='.487658' width='5.693919'/>
+<text class='f22' x='248.676909' y='352.078479'>x</text>
+<text class='f24' x='254.370828' y='352.078479'>)</text>
+<text class='f28' x='261.844951' y='352.078479'>and</text>
+<text class='f22' x='281.495399' y='352.078479'>δ</text>
+<text class='f21' x='285.923241' y='353.57286'>n</text>
+<text class='f22' x='294.578193' y='352.078479'>></text>
+<text class='f24' x='305.558885' y='352.078479'>0</text>
+<text class='f28' x='314.139866' y='352.078479'>suc<tspan x='327.755523'>h</tspan><tspan x='336.889909'>that</tspan></text>
+<text class='f24' x='358.754587' y='352.078479'>[</text>
+<text class='f22' x='361.571768' y='352.078479'>ϕ</text>
+<text class='f21' x='368.089' y='353.57286'>n</text>
+<text class='f22' x='376.743937' y='352.078479'>&lt;<tspan x='387.724644'>δ</tspan></text>
+<text class='f21' x='392.152486' y='353.57286'>n</text>
+<text class='f24' x='397.575479' y='352.078479'>]</text>
+<text class='f20' x='403.574804' y='352.078479'>⊆</text>
+<text class='f22' x='414.555511' y='352.078479'>B</text>
+<text class='f23' x='422.112269' y='353.877306'>1</text>
+<text class='f21' x='426.08337' y='353.877306'>/n</text>
+<text class='f24' x='435.588285' y='352.078479'>(</text>
+<text class='f22' x='439.462763' y='352.078479'>p</text>
+<text class='f24' x='444.475228' y='352.078479'>)</text>
+<text class='f28' x='451.949351' y='352.078479'>and</text>
+<text class='f22' x='24.906631' y='366.424644'>p</text>
+<text class='f24' x='29.919095' y='366.424644'>(</text>
+<text class='f22' x='33.793574' y='366.424644'>ϕ</text>
+<text class='f21' x='40.310806' y='367.919025'>n</text>
+<text class='f24' x='45.733798' y='366.424644'>)<tspan x='52.375609'>=</tspan><tspan x='62.891879'>0</tspan></text>
+<text class='f11' x='67.873199' y='362.80928'><tspan fill='#00008a'>1</tspan></text>
+<text class='f28' x='72.342432' y='366.424644'>,<tspan x='78.430687'>so</tspan><tspan x='90.662647'>for</tspan><tspan x='105.910964'>ev</tspan><tspan x='115.320392'>ery</tspan></text>
+<rect x='132.229485' y='360.184556' height='.487658' width='4.311393'/>
+<text class='f22' x='132.229485' y='366.424644'>c</text>
+<text class='f20' x='139.30821' y='366.424644'>∈</text>
+<text class='f22' x='148.717325' y='366.424644'>M</text>
+<text class='f20' x='162.236' y='366.424644'>|</text>
+<text class='f24' x='163.343009' y='366.424644'>=</text>
+<text class='f22' x='173.859279' y='366.424644'>T</text>
+<text class='f28' x='181.064922' y='366.424644'>,<tspan x='187.153177'>w</tspan><tspan x='194.071451'>e</tspan><tspan x='201.820225'>ha</tspan><tspan x='212.059538'>v</tspan><tspan x='217.041067'>e</tspan></text>
+<text class='f22' x='224.789841' y='366.424644'>d</text>
+<text class='f24' x='229.975274' y='366.424644'>(</text>
+<text class='f22' x='233.849752' y='366.424644'>p,</text>
+<text class='f24' x='243.290024' y='366.424644'>tp</text>
+<text class='f21' x='252.699244' y='362.613892'>M</text>
+<text class='f24' x='261.542485' y='366.424644'>(</text>
+<rect x='265.416964' y='360.184556' height='.487658' width='4.311393'/>
+<text class='f22' x='265.416964' y='366.424644'>c</text>
+<text class='f24' x='269.728356' y='366.424644'>))</text>
+<text class='f22' x='280.244645' y='366.424644'>&lt;</text>
+<text class='f24' x='290.760725' y='366.424644'>1</text>
+<text class='f22' x='295.742045' y='366.424644'>/n</text>
+<text class='f28' x='310.024185' y='366.424644'>whenev<tspan x='342.126016'>er</tspan></text>
+<text class='f22' x='353.776832' y='366.424644'>ϕ</text>
+<text class='f21' x='360.294064' y='362.80928'>M<tspan x='360.294064' y='368.887576'>n</tspan></text>
+<text class='f24' x='369.137305' y='366.424644'>(</text>
+<rect x='373.011784' y='360.184556' height='.487658' width='4.311393'/>
+<text class='f22' x='373.011784' y='366.424644'>c</text>
+<text class='f24' x='377.323176' y='366.424644'>)</text>
+<text class='f22' x='383.964987' y='366.424644'>&lt;<tspan x='394.481067'>δ</tspan></text>
+<text class='f21' x='398.908909' y='367.919025'>n</text>
+<text class='f28' x='404.331902' y='366.424644'>.<tspan x='411.52712'>Let</tspan></text>
+<text class='f22' x='194.581173' y='389.125739'>ϕ</text>
+<text class='f24' x='201.098405' y='389.125739'>(</text>
+<rect x='204.972883' y='382.885651' height='.487658' width='5.693919'/>
+<text class='f22' x='204.972883' y='389.125739'>x</text>
+<text class='f24' x='210.666802' y='389.125739'>)<tspan x='217.308613' y='388.779792'>:</tspan><tspan x='219.41184' y='389.125739'>=</tspan></text>
+<text class='f18' x='230.943209' y='379.661171'></text>
+<text class='f21' x='229.92811' y='400.582836'>n&lt;ω</text>
+<text class='f24' x='248.009201' y='389.125739'>2</text>
+<text class='f19' x='252.990521' y='385.012244'>−</text>
+<text class='f21' x='259.217201' y='385.012244'>n</text>
+<text class='f20' x='264.640179' y='389.125739'>|</text>
+<text class='f22' x='267.407588' y='389.125739'>ϕ</text>
+<text class='f21' x='273.92482' y='390.62012'>n</text>
+<text class='f24' x='279.347812' y='389.125739'>(</text>
+<rect x='283.222291' y='382.885651' height='.487658' width='5.693919'/>
+<text class='f22' x='283.222291' y='389.125739'>x</text>
+<text class='f24' x='288.916209' y='389.125739'>)</text>
+<text class='f20' x='292.790688' y='389.125739'>|</text>
+<text class='f22' x='295.558096' y='389.125739'>,</text>
+<text class='f28' x='24.906631' y='420.034262'>so<tspan x='37.233663'>for</tspan><tspan x='52.577052'>eac</tspan><tspan x='66.137422'>h</tspan></text>
+<rect x='75.08811' y='413.794173' height='.487658' width='4.311393'/>
+<text class='f22' x='75.08811' y='420.034262'>c</text>
+<text class='f20' x='82.325283' y='420.034262'>∈</text>
+<text class='f22' x='91.892831' y='420.034262'>M</text>
+<text class='f20' x='105.569954' y='420.034262'>|</text>
+<text class='f24' x='106.676963' y='420.034262'>=</text>
+<text class='f22' x='117.351681' y='420.034262'>T</text>
+<text class='f28' x='127.973271' y='420.034262'>and</text>
+<text class='f22' x='147.44002' y='420.034262'>ε<tspan x='155.01156'>></tspan></text>
+<text class='f24' x='165.686088' y='420.034262'>0</text>
+<text class='f28' x='170.667408' y='420.034262'>,<tspan x='176.874496'>there</tspan><tspan x='202.457501'>is</tspan></text>
+<text class='f22' x='212.570593' y='420.034262'>δ<tspan x='220.301266'>></tspan></text>
+<text class='f24' x='230.975794' y='420.034262'>0</text>
+<text class='f28' x='239.373061' y='420.034262'>suc<tspan x='252.988718'>h</tspan><tspan x='261.939406'>that</tspan><tspan x='283.62037'>if</tspan></text>
+<text class='f22' x='292.847763' y='420.034262'>ϕ</text>
+<text class='f21' x='299.364995' y='416.418898'>M</text>
+<text class='f24' x='308.208237' y='420.034262'>(</text>
+<rect x='312.082715' y='413.794173' height='.487658' width='4.311393'/>
+<text class='f22' x='312.082715' y='420.034262'>c</text>
+<text class='f24' x='316.394108' y='420.034262'>)</text>
+<text class='f22' x='323.194366' y='420.034262'>&lt;<tspan x='333.868895'>δ</tspan></text>
+<text class='f28' x='338.673787' y='420.034262'>,<tspan x='344.880889'>then</tspan></text>
+<text class='f22' x='367.668695' y='420.034262'>d</text>
+<text class='f24' x='372.854128' y='420.034262'>(</text>
+<text class='f22' x='376.728606' y='420.034262'>p,</text>
+<text class='f24' x='386.168879' y='420.034262'>tp</text>
+<text class='f21' x='395.578098' y='416.223509'>M</text>
+<text class='f24' x='404.42134' y='420.034262'>(</text>
+<rect x='408.295818' y='413.794173' height='.487658' width='4.311393'/>
+<text class='f22' x='408.295818' y='420.034262'>c</text>
+<text class='f24' x='412.607211' y='420.034262'>))</text>
+<text class='f22' x='423.281933' y='420.034262'>&lt;<tspan x='433.956461'>ε</tspan></text>
+<text class='f28' x='438.60222' y='420.034262'>.<tspan x='446.082655'>Th</tspan><tspan x='458.53567'>us</tspan><tspan x='24.906631' y='434.380427'>there</tspan><tspan x='50.880854'>is</tspan><tspan x='61.385179'>an</tspan><tspan x='75.708405'>increasing</tspan><tspan x='122.770071'>con</tspan><tspan x='137.437283'>tin</tspan><tspan x='149.337134'>uous</tspan><tspan x='173.124866'>map</tspan></text>
+<text class='f22' x='195.749956' y='434.380427'>α</text>
+<text class='f24' x='205.73777' y='434.380427'>:<tspan x='212.082966'>[</tspan><tspan x='214.900147'>0</tspan></text>
+<text class='f22' x='219.881467' y='434.380427'>,</text>
+<text class='f24' x='224.309275' y='434.380427'>1]</text>
+<text class='f20' x='235.635775' y='434.380427'>→</text>
+<text class='f24' x='249.176259' y='434.380427'>[<tspan x='251.99344'>0</tspan></text>
+<text class='f22' x='256.97476' y='434.380427'>,</text>
+<text class='f24' x='261.402568' y='434.380427'>1]</text>
+<text class='f28' x='272.958433' y='434.380427'>with</text>
+<text class='f22' x='296.137235' y='434.380427'>α</text>
+<text class='f24' x='302.547233' y='434.380427'>(0)<tspan x='318.85531'>=</tspan><tspan x='330.182063'>0</tspan></text>
+<text class='f28' x='338.970548' y='434.380427'>and</text>
+<text class='f22' x='358.82853' y='434.380427'>d</text>
+<text class='f24' x='364.013963' y='434.380427'>(</text>
+<text class='f22' x='367.888441' y='434.380427'>p,</text>
+<text class='f24' x='377.328714' y='434.380427'>tp</text>
+<text class='f21' x='386.737933' y='430.569675'>M</text>
+<text class='f24' x='395.581174' y='434.380427'>(</text>
+<rect x='399.455653' y='428.140339' height='.487658' width='4.311393'/>
+<text class='f22' x='399.455653' y='434.380427'>c</text>
+<text class='f24' x='403.767045' y='434.380427'>))</text>
+<text class='f20' x='415.093802' y='434.380427'>≤</text>
+<text class='f22' x='426.420365' y='434.380427'>α</text>
+<text class='f24' x='432.830364' y='434.380427'>(</text>
+<text class='f22' x='436.704842' y='434.380427'>ϕ</text>
+<text class='f21' x='443.222074' y='430.765063'>M</text>
+<text class='f24' x='452.065316' y='434.380427'>(</text>
+<rect x='455.939794' y='428.140339' height='.487658' width='4.311393'/>
+<text class='f22' x='455.939794' y='434.380427'>c</text>
+<text class='f24' x='460.251187' y='434.380427'>))</text>
+<text class='f28' x='24.906631' y='448.726592'>for<tspan x='39.92081'>eac</tspan><tspan x='53.48118'>h</tspan></text>
+<rect x='62.102658' y='442.486504' height='.487658' width='4.311393'/>
+<text class='f22' x='62.102658' y='448.726592'>c</text>
+<text class='f20' x='69.181383' y='448.726592'>∈</text>
+<text class='f22' x='78.590498' y='448.726592'>M</text>
+<text class='f20' x='92.109173' y='448.726592'>|</text>
+<text class='f24' x='93.216182' y='448.726592'>=</text>
+<text class='f22' x='103.732452' y='448.726592'>T</text>
+<text class='f28' x='110.938095' y='448.726592'>.<tspan x='118.055267'>Consider</tspan><tspan x='159.414914'>the</tspan></text>
+<text class='f22' x='176.33877' y='448.726592'>T</text>
+<text class='f28' x='183.544413' y='448.726592'>-form<tspan x='206.817847'>ula</tspan></text>
+<text class='f22' x='223.188025' y='448.726592'>ψ</text>
+<text class='f24' x='230.035049' y='448.726592'>(</text>
+<rect x='233.909527' y='442.486504' height='.487658' width='5.693919'/>
+<text class='f22' x='233.909527' y='448.726592'>x</text>
+<text class='f24' x='239.603446' y='448.726592'>)<tspan x='246.245257' y='448.380645'>:</tspan><tspan x='248.348484' y='448.726592'>=</tspan><tspan x='258.864754'>inf</tspan></text>
+<rect x='271.0002' y='445.782691' height='.487658' width='4.788789'/>
+<text class='f21' x='271.0002' y='450.735949'>y</text>
+<text class='f22' x='277.449389' y='448.726592'>α</text>
+<text class='f24' x='283.859388' y='448.726592'>(</text>
+<text class='f22' x='287.733866' y='448.726592'>ϕ</text>
+<text class='f24' x='294.251098' y='448.726592'>(</text>
+<rect x='298.125577' y='442.486504' height='.487658' width='5.241939'/>
+<text class='f22' x='298.125577' y='448.726592'>y</text>
+<text class='f24' x='303.367516' y='448.726592'>))<tspan x='312.862078'>+</tspan></text>
+<text class='f22' x='322.356621' y='448.726592'>d</text>
+<text class='f24' x='327.542053' y='448.726592'>(</text>
+<rect x='331.416532' y='442.486504' height='.487658' width='5.693919'/>
+<text class='f22' x='331.416532' y='448.726592'>x<tspan x='337.110451'>,</tspan></text>
+<rect x='341.538258' y='442.486504' height='.487658' width='5.241939'/>
+<text class='f22' x='341.538258' y='448.726592'>y</text>
+<text class='f24' x='346.780198' y='448.726592'>)</text>
+<text class='f28' x='350.654676' y='448.726592'>,<tspan x='356.55563'>whic</tspan><tspan x='376.203924'>h</tspan><tspan x='384.825402'>w</tspan><tspan x='391.743676'>e</tspan><tspan x='399.258313'>claim</tspan><tspan x='425.590893'>deﬁnes</tspan></text>
+<text class='f14' x='458.067417' y='448.726592'>X</text>
+<text class='f28' x='465.232796' y='448.726592'>.<tspan x='39.306397' y='467.835005'>Indeed,</tspan><tspan x='74.258277'>since</tspan></text>
+<text class='f22' x='98.424474' y='467.835005'>p</text>
+<text class='f24' x='103.436939' y='467.835005'>(</text>
+<text class='f22' x='107.311417' y='467.835005'>M</text>
+<text class='f24' x='118.06276' y='467.835005'>)<tspan x='124.70457'>=</tspan></text>
+<text class='f22' x='135.22084' y='467.835005'>p</text>
+<text class='f24' x='140.233305' y='467.835005'>(</text>
+<text class='f22' x='144.107783' y='467.835005'>N</text>
+<text class='f24' x='153.198674' y='467.835005'>)</text>
+<text class='f20' x='158.802294' y='467.835005'>∩</text>
+<text class='f22' x='167.173233' y='467.835005'>M</text>
+<text class='f28' x='181.003089' y='467.835005'>for<tspan x='196.009029'>eac</tspan><tspan x='209.569398'>h</tspan></text>
+<text class='f22' x='218.182652' y='467.835005'>M</text>
+<text class='f20' x='231.701328' y='467.835005'></text>
+<text class='f22' x='242.217408' y='467.835005'>N</text>
+<text class='f20' x='254.07563' y='467.835005'>|</text>
+<text class='f24' x='255.182639' y='467.835005'>=</text>
+<text class='f22' x='265.698909' y='467.835005'>T</text>
+<text class='f28' x='272.904552' y='467.835005'>,</text>
+<a href='../?note=23339' style='cursor: pointer;' target='_top'>
+<path d='M279.949207 469.82813C280.273425 469.62501 280.585925 469.4297 280.9453 469.4297C281.30858 469.4297 281.61718 469.62501 281.94139 469.82813C282.26561 470.03126 282.57811 470.22657 282.93749 470.22657C283.30077 470.22657 283.60936 470.03126 283.93358 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='278.798908' y='467.835005'>it</text>
+<path d='M283.933596 469.82813C284.261721 469.62501 284.570315 469.4297 284.92969 469.4297C285.29297 469.4297 285.60156 469.62501 285.92578 469.82813C286.25391 470.03126 286.5625 470.22657 286.92578 470.22657C287.28516 470.22657 287.59375 470.03126 287.92188 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M287.921862 469.82813C288.24608 469.62501 288.554674 469.4297 288.917955 469.4297C289.27733 469.4297 289.58592 469.62501 289.91405 469.82813C290.23827 470.03126 290.54686 470.22657 290.91014 470.22657C291.26952 470.22657 291.58202 470.03126 291.90624 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M291.906244 469.82813C292.230463 469.62501 292.542963 469.4297 292.902338 469.4297C293.26171 469.4297 293.57421 469.62501 293.89843 469.82813C294.22265 470.03126 294.53515 470.22657 294.89453 470.22657C295.2539 470.22657 295.5664 470.03126 295.89062 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M295.890634 469.82813C296.214853 469.62501 296.527353 469.4297 296.886728 469.4297C297.2461 469.4297 297.5586 469.62501 297.88282 469.82813C298.20704 470.03126 298.51954 470.22657 298.87892 470.22657C299.2422 470.22657 299.55079 470.03126 299.87501 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M299.874993 469.82813C300.199212 469.62501 300.511712 469.4297 300.871087 469.4297C301.23437 469.4297 301.54296 469.62501 301.86718 469.82813C302.19531 470.03126 302.5039 470.22657 302.86327 470.22657C303.22656 470.22657 303.53515 470.03126 303.85937 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M303.859383 469.82813C304.187508 469.62501 304.496101 469.4297 304.855476 469.4297C305.21876 469.4297 305.52735 469.62501 305.85548 469.82813C306.1797 470.03126 306.48829 470.22657 306.85157 470.22657C307.21095 470.22657 307.51954 470.03126 307.84766 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M307.847648 469.82813C308.171867 469.62501 308.48046 469.4297 308.843742 469.4297C309.20312 469.4297 309.51562 469.62501 309.83984 469.82813C310.16405 470.03126 310.47265 470.22657 310.83593 470.22657C311.1953 470.22657 311.5078 470.03126 311.83202 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M311.832038 469.82813C312.156256 469.62501 312.46485 469.4297 312.828131 469.4297C313.18751 469.4297 313.50001 469.62501 313.82423 469.82813C314.14844 470.03126 314.46094 470.22657 314.82032 470.22657C315.17969 470.22657 315.49219 470.03126 315.81641 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<path d='M315.816397 469.82813C316.140615 469.62501 316.453115 469.4297 316.81249 469.4297C317.17187 469.4297 317.48437 469.62501 317.80858 469.82813C318.1328 470.03126 318.4453 470.22657 318.80468 470.22657C319.16405 470.22657 319.47655 470.03126 319.80077 469.82813' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
+<text class='f28' x='288.519278' y='467.835005'>suﬃces</text>
+</a>
+<text class='f28' x='322.149694' y='467.835005'>to<tspan x='334.084006'>sho</tspan><tspan x='348.253083'>w</tspan><tspan x='358.526604'>that</tspan></text>
+<text class='f22' x='379.870134' y='467.835005'>ψ</text>
+<text class='f21' x='386.717158' y='464.219641'>M</text>
+<text class='f24' x='395.560399' y='467.835005'>(</text>
+<rect x='399.434878' y='461.594916' height='.487658' width='5.266141'/>
+<text class='f22' x='399.434878' y='467.835005'>a</text>
+<text class='f24' x='404.701018' y='467.835005'>)<tspan x='411.342829'>=</tspan></text>
+<text class='f22' x='421.859099' y='467.835005'>d</text>
+<text class='f24' x='427.044531' y='467.835005'>(</text>
+<rect x='430.91901' y='461.594916' height='.487658' width='5.266141'/>
+<text class='f22' x='430.91901' y='467.835005'>a<tspan x='436.18515'>,</tspan><tspan x='440.612958'>p</tspan></text>
+<text class='f24' x='445.625423' y='467.835005'>(</text>
+<text class='f22' x='449.499901' y='467.835005'>M</text>
+<text class='f24' x='460.251244' y='467.835005'>))</text>
+<text class='f28' x='24.906631' y='482.18117'>for<tspan x='40.154948'>eac</tspan><tspan x='53.715318'>h</tspan></text>
+<rect x='62.570933' y='475.941082' height='.487658' width='5.266141'/>
+<text class='f22' x='62.570933' y='482.18117'>a</text>
+<text class='f20' x='70.604407' y='482.18117'>∈</text>
+<text class='f22' x='80.013521' y='482.18117'>M</text>
+<text class='f28' x='90.764864' y='482.18117'>,<tspan x='96.853119'>where</tspan></text>
+<text class='f22' x='125.661597' y='482.18117'>M</text>
+<text class='f20' x='139.180272' y='482.18117'>|</text>
+<text class='f24' x='140.287281' y='482.18117'>=</text>
+<text class='f22' x='150.803551' y='482.18117'>T</text>
+<text class='f28' x='161.330069' y='482.18117'>is</text>
+<text class='f22' x='171.348089' y='482.18117'>ω</text>
+<text class='f28' x='177.90682' y='482.18117'>-saturated.<tspan x='229.463699'>Indeed,</tspan><tspan x='264.609477'>in</tspan><tspan x='276.232473'>this</tspan><tspan x='295.659713'>case</tspan></text>
+<text class='f22' x='316.747471' y='482.18117'>d</text>
+<text class='f24' x='321.932904' y='482.18117'>(</text>
+<text class='f22' x='325.807382' y='482.18117'>p,</text>
+<text class='f24' x='335.247655' y='482.18117'>tp</text>
+<text class='f21' x='344.656874' y='478.370418'>M</text>
+<text class='f24' x='353.500115' y='482.18117'>(</text>
+<rect x='357.374594' y='473.31204' height='.487658' width='4.275623'/>
+<text class='f22' x='357.374594' y='482.18117'>b</text>
+<text class='f24' x='361.650217' y='482.18117'>))<tspan x='372.166506'>=</tspan></text>
+<text class='f22' x='382.682776' y='482.18117'>d</text>
+<text class='f24' x='387.868208' y='482.18117'>(</text>
+<text class='f22' x='391.742686' y='482.18117'>p</text>
+<text class='f24' x='396.755151' y='482.18117'>(</text>
+<text class='f22' x='400.629629' y='482.18117'>M</text>
+<text class='f24' x='411.380972' y='482.18117'>)</text>
+<text class='f22' x='415.25545' y='482.18117'>,</text>
+<rect x='419.683258' y='473.31204' height='.487658' width='4.275623'/>
+<text class='f22' x='419.683258' y='482.18117'>b</text>
+<text class='f24' x='423.958881' y='482.18117'>)</text>
+<text class='f28' x='427.83336' y='482.18117'>,<tspan x='433.921614'>and</tspan></text>
+<text class='f22' x='84.435625' y='504.065291'>ψ</text>
+<text class='f21' x='91.282648' y='499.951795'>M</text>
+<text class='f24' x='100.12589' y='504.065291'>(</text>
+<rect x='104.000368' y='497.825203' height='.487658' width='5.266141'/>
+<text class='f22' x='104.000368' y='504.065291'>a</text>
+<text class='f24' x='109.266509' y='504.065291'>)<tspan x='115.908319'>=</tspan><tspan x='128.965567'>inf</tspan></text>
+<rect x='126.424589' y='506.213379' height='.487658' width='3.503524'/>
+<text class='f21' x='126.424589' y='513.006949'>b</text>
+<text class='f19' x='129.928114' y='513.006949'>∈</text>
+<text class='f21' x='135.296896' y='513.006949'>M</text>
+<text class='f22' x='145.302391' y='504.065291'>α</text>
+<text class='f24' x='151.71239' y='504.065291'>(</text>
+<text class='f22' x='155.586868' y='504.065291'>ϕ</text>
+<text class='f21' x='162.1041' y='499.951795'>M</text>
+<text class='f24' x='170.947342' y='504.065291'>(</text>
+<rect x='174.82182' y='495.196161' height='.487658' width='4.275623'/>
+<text class='f22' x='174.82182' y='504.065291'>b</text>
+<text class='f24' x='179.097443' y='504.065291'>))<tspan x='189.060265'>+</tspan></text>
+<text class='f22' x='199.023069' y='504.065291'>d</text>
+<text class='f24' x='204.208501' y='504.065291'>(</text>
+<rect x='208.08298' y='497.825203' height='.487658' width='5.266141'/>
+<text class='f22' x='208.08298' y='504.065291'>a<tspan x='213.34912'>,</tspan></text>
+<rect x='217.776928' y='495.196161' height='.487658' width='4.275623'/>
+<text class='f22' x='217.776928' y='504.065291'>b</text>
+<text class='f24' x='222.052551' y='504.065291'>)</text>
+<text class='f20' x='228.694362' y='504.065291'>≤</text>
+<text class='f24' x='246.918202' y='504.065291'>inf</text>
+<rect x='239.210442' y='506.213379' height='.487658' width='3.503524'/>
+<text class='f21' x='239.210442' y='513.006949'>b</text>
+<text class='f19' x='242.713966' y='513.006949'>∈</text>
+<text class='f21' x='248.082748' y='513.006949'>p</text>
+<text class='f23' x='252.189705' y='513.006949'>(</text>
+<text class='f21' x='255.303028' y='513.006949'>M</text>
+<text class='f23' x='263.64814' y='513.006949'>)</text>
+<text class='f22' x='268.421807' y='504.065291'>α</text>
+<text class='f24' x='274.831806' y='504.065291'>(</text>
+<text class='f22' x='278.706284' y='504.065291'>ϕ</text>
+<text class='f21' x='285.223516' y='499.951795'>M</text>
+<text class='f24' x='294.066758' y='504.065291'>(</text>
+<rect x='297.941236' y='495.196161' height='.487658' width='4.275623'/>
+<text class='f22' x='297.941236' y='504.065291'>b</text>
+<text class='f24' x='302.216859' y='504.065291'>))<tspan x='312.179681'>+</tspan></text>
+<text class='f22' x='322.142485' y='504.065291'>d</text>
+<text class='f24' x='327.327917' y='504.065291'>(</text>
+<rect x='331.202396' y='497.825203' height='.487658' width='5.266141'/>
+<text class='f22' x='331.202396' y='504.065291'>a<tspan x='336.468536'>,</tspan></text>
+<rect x='340.896344' y='495.196161' height='.487658' width='4.275623'/>
+<text class='f22' x='340.896344' y='504.065291'>b</text>
+<text class='f24' x='345.171967' y='504.065291'>)<tspan x='351.813778'>=</tspan></text>
+<text class='f22' x='362.330048' y='504.065291'>d</text>
+<text class='f24' x='367.51548' y='504.065291'>(</text>
+<rect x='371.389959' y='497.825203' height='.487658' width='5.266141'/>
+<text class='f22' x='371.389959' y='504.065291'>a<tspan x='376.656099'>,</tspan><tspan x='381.083907'>p</tspan></text>
+<text class='f24' x='386.096372' y='504.065291'>(</text>
+<text class='f22' x='389.97085' y='504.065291'>M</text>
+<text class='f24' x='400.722193' y='504.065291'>))</text>
+<text class='f22' x='86.41552' y='529.773998'>ψ</text>
+<text class='f21' x='93.262543' y='525.660502'>M</text>
+<text class='f24' x='102.105785' y='529.773998'>(</text>
+<rect x='105.980263' y='523.53391' height='.487658' width='5.266141'/>
+<text class='f22' x='105.980263' y='529.773998'>a</text>
+<text class='f24' x='111.246404' y='529.773998'>)<tspan x='117.888215'>=</tspan><tspan x='130.945463'>inf</tspan></text>
+<rect x='128.404485' y='531.922086' height='.487658' width='3.503524'/>
+<text class='f21' x='128.404485' y='538.715656'>b</text>
+<text class='f19' x='131.908009' y='538.715656'>∈</text>
+<text class='f21' x='137.276791' y='538.715656'>M</text>
+<text class='f22' x='147.282286' y='529.773998'>α</text>
+<text class='f24' x='153.692285' y='529.773998'>(</text>
+<text class='f22' x='157.566763' y='529.773998'>ϕ</text>
+<text class='f21' x='164.083995' y='525.660502'>M</text>
+<text class='f24' x='172.927237' y='529.773998'>(</text>
+<rect x='176.801715' y='520.904868' height='.487658' width='4.275623'/>
+<text class='f22' x='176.801715' y='529.773998'>b</text>
+<text class='f24' x='181.077338' y='529.773998'>))<tspan x='191.040161'>+</tspan></text>
+<text class='f22' x='201.002964' y='529.773998'>d</text>
+<text class='f24' x='206.188397' y='529.773998'>(</text>
+<rect x='210.062875' y='523.53391' height='.487658' width='5.266141'/>
+<text class='f22' x='210.062875' y='529.773998'>a<tspan x='215.329016'>,</tspan></text>
+<rect x='219.756824' y='520.904868' height='.487658' width='4.275623'/>
+<text class='f22' x='219.756824' y='529.773998'>b</text>
+<text class='f24' x='224.032446' y='529.773998'>)</text>
+<text class='f20' x='230.674257' y='529.773998'>≥</text>
+<text class='f24' x='243.731315' y='529.773998'>inf</text>
+<rect x='241.190337' y='531.922086' height='.487658' width='3.503524'/>
+<text class='f21' x='241.190337' y='538.715656'>b</text>
+<text class='f19' x='244.693862' y='538.715656'>∈</text>
+<text class='f21' x='250.062644' y='538.715656'>M</text>
+<text class='f22' x='260.068139' y='529.773998'>d</text>
+<text class='f24' x='265.253571' y='529.773998'>(</text>
+<text class='f22' x='269.128049' y='529.773998'>p</text>
+<text class='f24' x='274.140514' y='529.773998'>(</text>
+<text class='f22' x='278.014992' y='529.773998'>M</text>
+<text class='f24' x='288.766335' y='529.773998'>)</text>
+<text class='f22' x='292.640813' y='529.773998'>,</text>
+<rect x='297.068621' y='520.904868' height='.487658' width='4.275623'/>
+<text class='f22' x='297.068621' y='529.773998'>b</text>
+<text class='f24' x='301.344244' y='529.773998'>)<tspan x='307.432588'>+</tspan></text>
+<text class='f22' x='317.395392' y='529.773998'>d</text>
+<text class='f24' x='322.580824' y='529.773998'>(</text>
+<rect x='326.455303' y='523.53391' height='.487658' width='5.266141'/>
+<text class='f22' x='326.455303' y='529.773998'>a<tspan x='331.721443'>,</tspan></text>
+<rect x='336.149251' y='520.904868' height='.487658' width='4.275623'/>
+<text class='f22' x='336.149251' y='529.773998'>b</text>
+<text class='f24' x='340.424874' y='529.773998'>)</text>
+<text class='f20' x='347.066685' y='529.773998'>≥</text>
+<text class='f22' x='357.582765' y='529.773998'>d</text>
+<text class='f24' x='362.768197' y='529.773998'>(</text>
+<rect x='366.642676' y='523.53391' height='.487658' width='5.266141'/>
+<text class='f22' x='366.642676' y='529.773998'>a<tspan x='371.908816'>,</tspan><tspan x='376.336624'>p</tspan></text>
+<text class='f24' x='381.349089' y='529.773998'>(</text>
+<text class='f22' x='385.223567' y='529.773998'>M</text>
+<text class='f24' x='395.97491' y='529.773998'>))</text>
+<text class='f22' x='403.723867' y='529.773998'>.</text>
+<text class='f12' x='12.176384' y='559.061752'>•</text>
+<text class='f28' x='24.906631' y='559.061752'>(4)</text>
+<text class='f20' x='40.623905' y='559.061752'>⇒</text>
+<text class='f28' x='53.573572' y='559.061752'>(2).<tspan x='73.387775'>Let</tspan></text>
+<text class='f22' x='90.903816' y='559.061752'>ε<tspan x='98.316908'>></tspan></text>
+<text class='f24' x='108.832988' y='559.061752'>0</text>
+<text class='f28' x='116.801306' y='559.061752'>and<tspan x='135.839106'>let</tspan></text>
+<text class='f24' x='149.895862' y='559.061752'>[</text>
+<text class='f22' x='152.713043' y='559.061752'>ψ<tspan x='162.327399'>&lt;</tspan><tspan x='172.843479'>δ</tspan></text>
+<text class='f24' x='177.648371' y='559.061752'>]</text>
+<text class='f28' x='183.402749' y='559.061752'>b<tspan x='189.214238'>e</tspan><tspan x='196.629136'>a</tspan><tspan x='204.597454'>nonempt</tspan><tspan x='242.51049'>y</tspan><tspan x='250.755766'>logic-op</tspan><tspan x='284.794752'>en</tspan><tspan x='297.74439'>set</tspan><tspan x='312.963531'>con</tspan><tspan x='327.630743'>tained</tspan><tspan x='357.738315'>in</tspan></text>
+<text class='f22' x='369.027434' y='559.061752'>B</text>
+<text class='f21' x='376.584193' y='560.860579'>ε/</text>
+<text class='f23' x='384.430151' y='560.860579'>4</text>
+<text class='f24' x='388.89937' y='559.061752'>(</text>
+<text class='f22' x='392.773848' y='559.061752'>p</text>
+<text class='f24' x='397.786313' y='559.061752'>)</text>
+<text class='f28' x='401.660791' y='559.061752'>.<tspan x='408.744717'>Let</tspan></text>
+<text class='f22' x='426.260743' y='559.061752'>δ</text>
+<text class='f19' x='431.065635' y='555.446388'></text>
+<text class='f20' x='436.628043' y='559.061752'>∈</text>
+<text class='f24' x='446.037158' y='559.061752'>(0</text>
+<text class='f22' x='454.892956' y='559.061752'>,<tspan x='459.320764'>δ</tspan></text>
+<text class='f24' x='464.125656' y='559.061752'>)</text>
+<text class='f28' x='24.906631' y='573.407917'>and</text>
+<text class='f22' x='44.278308' y='573.407917'>ε</text>
+<text class='f19' x='48.924067' y='569.792553'></text>
+<text class='f20' x='54.486475' y='573.407917'>∈</text>
+<text class='f24' x='63.89559' y='573.407917'>(</text>
+<text class='f22' x='67.770068' y='573.407917'>ε/</text>
+<text class='f24' x='77.397167' y='573.407917'>4</text>
+<text class='f22' x='82.378487' y='573.407917'>,<tspan x='86.806295'>ε/</tspan></text>
+<text class='f24' x='96.433394' y='573.407917'>2)</text>
+<text class='f28' x='105.289192' y='573.407917'>,<tspan x='111.377447'>and</tspan><tspan x='130.749124'>consider</tspan><tspan x='169.575786'>the</tspan><tspan x='186.733779'>form</tspan><tspan x='206.686337'>ula</tspan></text>
+<text class='f22' x='158.527318' y='596.109013'>ϕ</text>
+<text class='f24' x='165.04455' y='596.109013'>(</text>
+<rect x='168.919029' y='589.868924' height='.487658' width='5.693919'/>
+<text class='f22' x='168.919029' y='596.109013'>x</text>
+<text class='f24' x='174.612947' y='596.109013'>)<tspan x='181.254758' y='595.763066'>:</tspan><tspan x='183.357986' y='596.109013'>=</tspan><tspan x='193.874256'>inf</tspan></text>
+<rect x='197.79665' y='598.2571' height='.487658' width='4.290657'/>
+<text class='f21' x='197.79665' y='603.210358'>y</text>
+<text class='f24' x='207.670101' y='596.109013'>max</text>
+<text class='f20' x='228.031353' y='596.109013'>{</text>
+<text class='f22' x='233.012688' y='596.109013'>ψ</text>
+<text class='f24' x='239.859712' y='596.109013'>(</text>
+<rect x='243.73419' y='589.868924' height='.487658' width='5.241939'/>
+<text class='f22' x='243.73419' y='596.109013'>y</text>
+<text class='f24' x='248.97613' y='596.109013'>)</text>
+<text class='f28' x='257.555164' y='591.819602'>.</text>
+<text class='f20' x='255.064474' y='596.109013'>−</text>
+<text class='f22' x='265.027083' y='596.109013'>δ</text>
+<text class='f19' x='269.831975' y='591.995517'></text>
+<text class='f22' x='272.627051' y='596.109013'>,<tspan x='277.054859'>d</tspan></text>
+<text class='f24' x='282.240292' y='596.109013'>(</text>
+<rect x='286.11477' y='589.868924' height='.487658' width='5.693919'/>
+<text class='f22' x='286.11477' y='596.109013'>x<tspan x='291.808689'>,</tspan></text>
+<rect x='296.236497' y='589.868924' height='.487658' width='5.241939'/>
+<text class='f22' x='296.236497' y='596.109013'>y</text>
+<text class='f24' x='301.478436' y='596.109013'>)</text>
+<text class='f28' x='310.057471' y='591.819602'>.</text>
+<text class='f20' x='307.56678' y='596.109013'>−</text>
+<text class='f22' x='317.52939' y='596.109013'>ε</text>
+<text class='f19' x='322.17515' y='591.995517'></text>
+<text class='f20' x='324.970225' y='596.109013'>}</text>
+<text class='f22' x='331.611935' y='596.109013'>.</text>
 <rect x='0' y='609.49441' height='.3985' width='187.19715'/>
 <text class='f4' x='11.091768' y='616.295566'>1</text>
 <text class='f26' x='15.242858' y='619.108352'>This<tspan x='34.311821'>can</tspan><tspan x='49.569896'>alw</tspan><tspan x='62.037197'>a</tspan><tspan x='66.036087'>ys</tspan><tspan x='76.401179'>b</tspan><tspan x='81.341104'>e</tspan><tspan x='87.660364'>arranged,</tspan><tspan x='125.097459'>as</tspan><tspan x='135.22744'>follo</tspan><tspan x='150.752671'>ws.</tspan><tspan x='166.236127'>If</tspan></text>

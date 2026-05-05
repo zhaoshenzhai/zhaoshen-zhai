@@ -211,64 +211,63 @@ text.f16 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f16' x='177.704245' y='98.227427'>is<tspan x='187.722265'>dense</tspan><tspan x='214.898186'>and</tspan></text>
 <text class='f11' x='234.269863' y='98.227427'>T</text>
 <text class='f16' x='244.79638' y='98.227427'>has<tspan x='262.563082'>the</tspan><tspan x='279.721075'>witness</tspan><tspan x='314.701001'>prop</tspan><tspan x='334.930593'>ert</tspan><tspan x='346.858263'>y</tspan><tspan x='351.28631'>,</tspan><tspan x='357.374565'>w</tspan><tspan x='364.292839'>e</tspan><tspan x='372.041613'>ha</tspan><tspan x='382.280926'>v</tspan><tspan x='387.262455'>e</tspan></text>
-<text class='f11' x='46.420269' y='120.928522'>ϕ</text>
-<text class='f10' x='52.937501' y='116.815026'>M</text>
-<text class='f14' x='61.780743' y='120.928522'>(</text>
-<rect x='65.655221' y='114.688433' height='.487658' width='4.311393'/>
-<text class='f11' x='65.655221' y='120.928522'>c</text>
-<text class='f8' x='69.966614' y='116.663738'>∗</text>
-<text class='f14' x='74.546668' y='120.928522'>)<tspan x='81.188478'>=</tspan><tspan x='94.654685'>inf</tspan></text>
-<text class='f10' x='91.704748' y='127.354422'>a</text>
-<text class='f8' x='96.026192' y='127.354422'>∈</text>
-<text class='f10' x='101.394974' y='127.354422'>M</text>
-<text class='f11' x='111.400466' y='120.928522'>ψ</text>
-<text class='f10' x='118.24749' y='116.815026'>M</text>
-<text class='f12' x='125.844735' y='117.81129'>0</text>
-<text class='f14' x='130.231283' y='120.928522'>(</text>
-<rect x='134.105761' y='114.688433' height='.487658' width='4.311393'/>
-<text class='f11' x='134.105761' y='120.928522'>c</text>
-<text class='f8' x='138.417154' y='116.663738'>∗</text>
-<text class='f11' x='142.997208' y='120.928522'>,<tspan x='147.425016'>e</tspan></text>
-<text class='f14' x='152.063887' y='120.928522'>)<tspan x='158.705698'>=</tspan><tspan x='175.553921'>inf</tspan></text>
-<text class='f10' x='169.221968' y='127.354422'>e</text>
-<text class='f7' x='173.001919' y='125.361909'>∗</text>
-<text class='f8' x='177.166888' y='127.354422'>∈</text>
-<text class='f10' x='182.53567' y='127.354422'>M</text>
-<text class='f12' x='190.132915' y='128.350686'>0</text>
-<text class='f11' x='195.681704' y='120.928522'>ψ</text>
-<text class='f10' x='202.528727' y='116.815026'>M</text>
-<text class='f14' x='211.371969' y='120.928522'>(</text>
-<rect x='215.246447' y='114.688433' height='.487658' width='4.311393'/>
-<text class='f11' x='215.246447' y='120.928522'>c</text>
-<text class='f8' x='219.55784' y='116.663738'>∗</text>
-<text class='f11' x='224.137894' y='120.928522'>,<tspan x='228.565702'>e</tspan></text>
-<text class='f8' x='233.204573' y='116.815026'>∗</text>
-<text class='f14' x='237.784627' y='120.928522'>)<tspan x='244.426438'>=</tspan><tspan x='256.550706'>inf</tspan></text>
-<text class='f10' x='254.942708' y='127.354422'>e</text>
-<text class='f8' x='258.722658' y='127.354422'>∈</text>
-<text class='f10' x='264.09144' y='127.354422'>C</text>
-<text class='f11' x='271.954536' y='120.928522'>ψ</text>
-<text class='f14' x='278.801559' y='120.928522'>(</text>
-<rect x='282.676037' y='114.688433' height='.487658' width='4.311393'/>
-<text class='f11' x='282.676037' y='120.928522'>c<tspan x='286.98743'>,</tspan><tspan x='291.415238'>e</tspan></text>
-<text class='f14' x='296.054109' y='120.928522'>)</text>
-<text class='f10' x='299.928588' y='116.815026'>T</text>
-<text class='f14' x='308.972037' y='120.928522'>=<tspan x='319.488307'>(</tspan><tspan x='323.362785'>inf</tspan></text>
-<text class='f10' x='335.498231' y='122.422903'>y</text>
-<text class='f11' x='341.94742' y='120.928522'>ψ</text>
-<text class='f14' x='348.794444' y='120.928522'>(</text>
-<rect x='352.668922' y='114.688433' height='.487658' width='4.311393'/>
-<text class='f11' x='352.668922' y='120.928522'>c<tspan x='356.980315'>,</tspan><tspan x='361.408122'>y</tspan></text>
-<text class='f14' x='366.650066' y='120.928522'>))</text>
-<text class='f10' x='374.399015' y='115.919504'>T</text>
-<text class='f14' x='383.442464' y='120.928522'>=</text>
-<text class='f11' x='393.958734' y='120.928522'>ϕ</text>
-<text class='f14' x='400.475966' y='120.928522'>(</text>
-<rect x='404.350444' y='114.688433' height='.487658' width='4.311393'/>
-<text class='f11' x='404.350444' y='120.928522'>c</text>
-<text class='f14' x='408.661837' y='120.928522'>)</text>
-<text class='f10' x='412.536315' y='116.815026'>T</text>
-<text class='f11' x='418.812432' y='120.928522'>,</text>
+<text class='f11' x='47.676909' y='120.928522'>ϕ</text>
+<text class='f10' x='54.194141' y='116.815026'>M</text>
+<text class='f14' x='63.037383' y='120.928522'>(</text>
+<rect x='66.911861' y='114.688433' height='.487658' width='4.311393'/>
+<text class='f11' x='66.911861' y='120.928522'>c</text>
+<text class='f8' x='71.223254' y='116.663738'>∗</text>
+<text class='f14' x='75.803308' y='120.928522'>)<tspan x='82.445119'>=</tspan><tspan x='95.911325'>inf</tspan></text>
+<text class='f10' x='92.961389' y='127.354422'>a</text>
+<text class='f8' x='97.282832' y='127.354422'>∈</text>
+<text class='f10' x='102.651615' y='127.354422'>M</text>
+<text class='f11' x='112.657107' y='120.928522'>ψ</text>
+<text class='f10' x='119.50413' y='116.815026'>M</text>
+<text class='f14' x='128.347372' y='120.928522'>(</text>
+<rect x='132.22185' y='114.688433' height='.487658' width='4.311393'/>
+<text class='f11' x='132.22185' y='120.928522'>c</text>
+<text class='f8' x='136.533243' y='116.663738'>∗</text>
+<text class='f11' x='141.113296' y='120.928522'>,<tspan x='145.541104'>a</tspan></text>
+<text class='f14' x='150.807258' y='120.928522'>)<tspan x='157.449069'>=</tspan><tspan x='174.297292'>inf</tspan></text>
+<text class='f10' x='167.965339' y='127.354422'>e</text>
+<text class='f7' x='171.74529' y='125.361909'>∗</text>
+<text class='f8' x='175.910259' y='127.354422'>∈</text>
+<text class='f10' x='181.279041' y='127.354422'>M</text>
+<text class='f12' x='188.876287' y='128.350686'>0</text>
+<text class='f11' x='194.425075' y='120.928522'>ψ</text>
+<text class='f10' x='201.272098' y='116.815026'>M</text>
+<text class='f14' x='210.11534' y='120.928522'>(</text>
+<rect x='213.989818' y='114.688433' height='.487658' width='4.311393'/>
+<text class='f11' x='213.989818' y='120.928522'>c</text>
+<text class='f8' x='218.301211' y='116.663738'>∗</text>
+<text class='f11' x='222.881265' y='120.928522'>,<tspan x='227.309073'>e</tspan></text>
+<text class='f8' x='231.947944' y='116.815026'>∗</text>
+<text class='f14' x='236.527998' y='120.928522'>)<tspan x='243.169809'>=</tspan><tspan x='255.294078'>inf</tspan></text>
+<text class='f10' x='253.686079' y='127.354422'>e</text>
+<text class='f8' x='257.46603' y='127.354422'>∈</text>
+<text class='f10' x='262.834812' y='127.354422'>C</text>
+<text class='f11' x='270.697907' y='120.928522'>ψ</text>
+<text class='f14' x='277.54493' y='120.928522'>(</text>
+<rect x='281.419409' y='114.688433' height='.487658' width='4.311393'/>
+<text class='f11' x='281.419409' y='120.928522'>c<tspan x='285.730801'>,</tspan><tspan x='290.158609'>e</tspan></text>
+<text class='f14' x='294.797481' y='120.928522'>)</text>
+<text class='f10' x='298.671959' y='116.815026'>T</text>
+<text class='f14' x='307.715408' y='120.928522'>=<tspan x='318.231678'>(</tspan><tspan x='322.106156'>inf</tspan></text>
+<text class='f10' x='334.241602' y='122.422903'>y</text>
+<text class='f11' x='340.690791' y='120.928522'>ψ</text>
+<text class='f14' x='347.537815' y='120.928522'>(</text>
+<rect x='351.412293' y='114.688433' height='.487658' width='4.311393'/>
+<text class='f11' x='351.412293' y='120.928522'>c<tspan x='355.723686'>,</tspan><tspan x='360.151494'>y</tspan></text>
+<text class='f14' x='365.393437' y='120.928522'>))</text>
+<text class='f10' x='373.142386' y='115.919504'>T</text>
+<text class='f14' x='382.185835' y='120.928522'>=</text>
+<text class='f11' x='392.702105' y='120.928522'>ϕ</text>
+<text class='f14' x='399.219337' y='120.928522'>(</text>
+<rect x='403.093815' y='114.688433' height='.487658' width='4.311393'/>
+<text class='f11' x='403.093815' y='120.928522'>c</text>
+<text class='f14' x='407.405208' y='120.928522'>)</text>
+<text class='f10' x='411.279686' y='116.815026'>T</text>
+<text class='f11' x='417.555803' y='120.928522'>,</text>
 <text class='f16' x='11.700721' y='145.561156'>as<tspan x='23.932681'>desired.</tspan></text>
 <text class='f5' x='448.550588' y='145.561156'></text>
 <text class='f16' x='0' y='162.908365'>Finally<tspan x='29.749856'>,</tspan><tspan x='35.838111'>for</tspan><tspan x='51.086428'>eac</tspan><tspan x='64.646798'>h</tspan></text>

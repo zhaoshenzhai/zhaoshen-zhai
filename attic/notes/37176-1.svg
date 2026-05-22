@@ -48,7 +48,7 @@ text.f20 {font-family:ec-mlmr10;font-size:9.96264px}
 </style>
 <g id='page1'>
 <text class='f0' x='173.856492' y='-27.297658'>ZHA<tspan x='190.232792'>OSHEN</tspan><tspan x='220.550236'>ZHAI</tspan><tspan x='242.703621'>/</tspan><tspan x='249.359114'>THE</tspan><tspan x='268.966541'>A</tspan><tspan x='274.204056'>TTIC</tspan><tspan x='464.028919'>1</tspan></text>
-<text class='f19' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/05/21</tspan><tspan fill='#808080' x='114.319304'>21:52:47</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[</tspan></text>
+<text class='f19' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/05/21</tspan><tspan fill='#808080' x='114.319304'>21:54:54</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[</tspan></text>
 <text class='f17' x='50.809465' y='11.357373'><tspan fill='#808080'>ω</tspan></text>
 <text class='f19' x='56.360943' y='11.357373'><tspan fill='#808080'>-stable</tspan></text>
 <text class='f15' x='90.233919' y='11.357373'><tspan fill='#808080'>⇒</tspan></text>
@@ -77,9 +77,9 @@ text.f20 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f11' x='17.849902' y='58.380925'>L</text>
 <text class='f20' x='27.950924' y='58.380925'>b<tspan x='33.762414'>e</tspan><tspan x='41.511188'>a</tspan><tspan x='49.813383'>coun</tspan><tspan x='70.015336'>table</tspan><tspan x='94.922029'>ﬁrst-order</tspan><tspan x='141.552848'>language</tspan><tspan x='183.063765'>and</tspan><tspan x='202.435441'>let</tspan></text>
 <text class='f11' x='216.826074' y='58.380925'>T</text>
-<text class='f20' x='227.352592' y='58.380925'>b<tspan x='233.164081'>e</tspan><tspan x='240.912855'>an</tspan></text>
-<text class='f11' x='254.749791' y='58.380925'>L</text>
-<text class='f20' x='261.529938' y='58.380925'>-theory<tspan x='291.999342'>.</tspan></text>
+<text class='f20' x='227.352592' y='58.380925'>b<tspan x='233.164081'>e</tspan><tspan x='240.912855'>a</tspan><tspan x='249.21505'>complete</tspan></text>
+<text class='f11' x='291.279406' y='58.380925'>L</text>
+<text class='f20' x='298.059553' y='58.380925'>-theory<tspan x='328.528957'>.</tspan></text>
 <text class='f3' x='0' y='80.697202'>Theorem.</text>
 <text class='f4' x='52.99576' y='80.697202'>If</text>
 <text class='f11' x='63.456466' y='80.697202'>T</text>

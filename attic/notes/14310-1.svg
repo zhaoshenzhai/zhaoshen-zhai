@@ -34,7 +34,7 @@ text.f13 {font-family:ec-mlmr10;font-size:9.96264px}
 </style>
 <g id='page1'>
 <text class='f0' x='173.856492' y='-27.297658'>ZHA<tspan x='190.232792'>OSHEN</tspan><tspan x='220.550236'>ZHAI</tspan><tspan x='242.703621'>/</tspan><tspan x='249.359114'>THE</tspan><tspan x='268.966541'>A</tspan><tspan x='274.204056'>TTIC</tspan><tspan x='464.028919'>1</tspan></text>
-<text class='f12' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/05/26</tspan><tspan fill='#808080' x='114.317312'>11:01:25</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[upwards</tspan><tspan fill='#808080' x='84.682441'>Löwenheim-Skolem]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
+<text class='f12' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/05/26</tspan><tspan fill='#808080' x='114.317312'>11:09:10</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[upwards</tspan><tspan fill='#808080' x='84.682441'>Löwenheim-Skolem]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
 <a href='../?note=92467' style='cursor: pointer;' target='_top'>
 <path d='M59.777345 24.70703C60.101564 24.50391 60.410157 24.30859 60.773439 24.30859C61.13281 24.30859 61.44531 24.50391 61.76953 24.70703C62.09375 24.91016 62.40234 25.10547 62.76563 25.10547C63.125 25.10547 63.4375 24.91016 63.76172 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M63.76172 24.70703C64.085939 24.50391 64.398439 24.30859 64.757814 24.30859C65.11719 24.30859 65.42969 24.50391 65.75391 24.70703C66.07813 24.91016 66.39063 25.10547 66.75 25.10547C67.10938 25.10547 67.42188 24.91016 67.7461 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -81,15 +81,15 @@ text.f13 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f12' x='177.82516' y='22.714746'><tspan fill='#808080'>99253</tspan></text>
 </a>
 <text class='f12' x='198.991787' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[</tspan></text>
-<a href='../?note=12395' style='cursor: pointer;' target='_top'>
+<a href='../?note=63526' style='cursor: pointer;' target='_top'>
 <path d='M71.730466 36.0664C72.054685 35.85937 72.367185 35.66797 72.72656 35.66797C73.08984 35.66797 73.39843 35.85937 73.72265 36.0664C74.04687 36.26953 74.35937 36.46484 74.71875 36.46484C75.08203 36.46484 75.39062 36.26953 75.71484 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M75.714841 36.0664C76.03906 35.85937 76.35156 35.66797 76.710935 35.66797C77.07422 35.66797 77.38281 35.85937 77.70703 36.0664C78.03515 36.26953 78.34375 36.46484 78.70312 36.46484C79.0664 36.46484 79.375 36.26953 79.70312 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M79.699216 36.0664C80.027341 35.85937 80.335934 35.66797 80.699216 35.66797C81.05859 35.66797 81.36718 35.85937 81.69531 36.0664C82.01953 36.26953 82.32812 36.46484 82.6914 36.46484C83.05078 36.46484 83.36328 36.26953 83.6875 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M83.687497 36.0664C84.011716 35.85937 84.320309 35.66797 84.683591 35.66797C85.04297 35.66797 85.35547 35.85937 85.67968 36.0664C86.0039 36.26953 86.3125 36.46484 86.67578 36.46484C87.03515 36.46484 87.34765 36.26953 87.67187 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M87.671871 36.0664C87.99609 35.85937 88.30859 35.66797 88.667965 35.66797S89.33984 35.85937 89.66406 36.0664C89.98828 36.26953 90.30078 36.46484 90.66015 36.46484C91.01953 36.46484 91.33203 36.26953 91.65625 36.0664' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
-<text class='f12' x='71.980075' y='34.07212'><tspan fill='#808080'>12395</tspan></text>
+<text class='f12' x='71.980075' y='34.07212'><tspan fill='#808080'>63526</tspan></text>
 </a>
-<text class='f12' x='93.148693' y='34.07212'><tspan fill='#808080'>]</tspan></text>
+<text class='f12' x='93.146702' y='34.07212'><tspan fill='#808080'>]</tspan></text>
 <text class='f13' x='0' y='58.380925'>Let</text>
 <text class='f9' x='17.849902' y='58.380925'>L</text>
 <text class='f13' x='27.950924' y='58.380925'>b<tspan x='33.762414'>e</tspan><tspan x='41.511188'>a</tspan><tspan x='49.813383'>(con</tspan><tspan x='68.355073'>tin</tspan><tspan x='80.254924'>uous)</tspan><tspan x='107.430844'>ﬁrst-order</tspan><tspan x='154.061664'>language.</tspan></text>

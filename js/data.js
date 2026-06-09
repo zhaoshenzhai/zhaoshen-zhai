@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
 });
 
 function initData() {
-    var research = document.getElementById('publications');
+    var research = document.getElementById('research');
     var talks = document.getElementById('seminar_talks');
     var exposition = document.getElementById('expositions');
 
@@ -162,6 +162,7 @@ function expandAbstract(arrow) {
     arrow.classList.add('data_abstract_expanded');
     arrow.classList.remove('data_abstract_collapsed');
 }
+
 function collapseAbstract(arrow) {
     var item = arrow.parentElement;
     var abs = item.getElementsByClassName('data_abstract')[0];

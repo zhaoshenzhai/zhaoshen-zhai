@@ -19,6 +19,11 @@ function initData() {
 
         var expList = values.filter(item => item.type == 'exposition');
         insertData(exposition, expList);
+
+        // Tell MathJax to re-scan the DOM and render the new math
+        if (window.MathJax && window.MathJax.typesetPromise) {
+            window.MathJax.typesetPromise();
+        }
     });
 }
 

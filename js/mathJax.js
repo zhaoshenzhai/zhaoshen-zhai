@@ -1,16 +1,17 @@
 window.MathJax = {
     tex: {
         inlineMath: [['$', '$']],
-        packages: {'[+]': ['mathtools']}
+        packages: {'[+]': ['mathtools']},
+        processEscapes: true,
+        processEnvironments: true
     },
     svg: { fontCache: 'global' },
-    loader: {load: ['[tex]/mathtools']},
-    processEscapes: true,
-    processEnvironments: true
+    loader: {load: ['[tex]/mathtools']}
 };
 
 (function() {
     var script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js';
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js';
+    script.async = true; // Best practice for dynamic scripts
     document.head.appendChild(script);
 })();

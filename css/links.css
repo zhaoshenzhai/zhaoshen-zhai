@@ -5,7 +5,7 @@ a {
 
 .source {
     border-radius: var(--border-radius);
-    transition: background-color var(--tr-fast);
+    transition: background-color var(--transition-fast);
 }
 
 .source a {

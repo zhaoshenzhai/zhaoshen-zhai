@@ -7,6 +7,7 @@
 }
 
 .section_title {
+    font-family: var(--font-title);
     font-size: var(--fs-title);
 }
 
@@ -15,7 +16,7 @@
     padding: 0px var(--spacing-xs);
     opacity: 0;
     border-radius: var(--border-radius);
-    transition: opacity var(--tr-med), background-color var(--tr-fast);
+    transition: opacity var(--transition-med), background-color var(--transition-fast);
 }
 
 .section_button:hover {

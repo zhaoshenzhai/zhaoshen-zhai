@@ -16,6 +16,7 @@
 
     /* Typography */
     --font-main: 'mlmt', sans-serif;
+    --font-title: 'mlmsc', sans-serif;
     --fs-base: 22px;
     --fs-title: 30px;
     --fs-section-btn: 25px;
@@ -30,16 +31,16 @@
     --spacing-top: 200px;
     --spacing-bot: 100px;
 
-    /* Specific UI Positioning */
+    /* Data */
     --data-indent: 60px;
-    --arrow-width: 15px;
-    --arrow-padding: 8px;
-    --arrow-offset: -20px;
-    --abstract-offset-top: -10px;
+    --data-arrow-width: 15px;
+    --data-arrow-padding: 8px;
+    --data-arrow-offset: -20px;
+    --data-abstract-top: -10px;
 
     /* Borders & Transitions */
     --border-radius: 8px;
-    --tr-fast: 0.1s ease-out;
-    --tr-med: 0.2s ease-out;
-    --tr-slow: 0.3s ease-out;
+    --transition-fast: 0.1s ease-out;
+    --transition-med: 0.2s ease-out;
+    --transition-slow: 0.3s ease-out;
 }

@@ -30,7 +30,7 @@
 
 #section_nav ol a {
     color: var(--color-nav-link);
-    transition: color var(--tr-fast);
+    transition: color var(--transition-fast);
 }
 
 #section_nav ol a:hover, #section_nav li.active > a {

@@ -3,12 +3,12 @@
 }
 
 .data_arrow, .data_arrow_disabled {
-    left: var(--arrow-offset);
-    width: var(--arrow-width);
+    left: var(--data-arrow-offset);
+    width: var(--data-arrow-width);
     border-radius: var(--border-radius);
-    padding: var(--arrow-padding);
+    padding: var(--data-arrow-padding);
     vertical-align: middle;
-    transition: background-color var(--tr-med), rotate var(--tr-slow);
+    transition: background-color var(--transition-med), rotate var(--transition-slow);
 }
 
 .data_arrow:hover {
@@ -32,8 +32,8 @@
     overflow: hidden;
     position: relative;
     max-height: 0;
-    transition: max-height var(--tr-slow), opacity var(--tr-slow);
-    top: var(--abstract-offset-top);
+    transition: max-height var(--transition-slow), opacity var(--transition-slow);
+    top: var(--data-abstract-top);
     left: var(--data-indent);
     line-height: 1.2;
     font-size: var(--fs-abstract);

@@ -12,6 +12,6 @@ window.MathJax = {
 (function() {
     var script = document.createElement('script');
     script.src = 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js';
-    script.async = true; // Best practice for dynamic scripts
+    script.async = true;
     document.head.appendChild(script);
 })();

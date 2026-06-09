@@ -1,7 +1,5 @@
 #title {
-    font-size: 30px;
-    right: 10%;
-    top: 50px;
+    font-size: var(--fs-title);
 }
 
 #title:hover {
@@ -9,19 +7,19 @@
 }
 
 #title_sep {
-    padding: 0px 10px;
+    padding: 0px var(--spacing-sm);
 }
 
 #section_nav {
     position: fixed;
     z-index: 1000;
-    padding-right: max(10%, calc(50% - (var(--contentWidth)/2 + 150px)));
+    padding-right: max(var(--page-margin-min), calc(50% - (var(--content-width) / 2 + var(--nav-offset))));
     text-align: right;
-    width: 250px;
+    width: var(--nav-width);
     right: 0px;
-    top: 100px;
+    top: var(--spacing-xl);
 
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: var(--color-nav-bg);
 }
 
 #section_nav ol {
@@ -31,10 +29,10 @@
 }
 
 #section_nav ol a {
-    color: #888;
-    transition: color 0.1s linear;
+    color: var(--color-nav-link);
+    transition: color var(--tr-fast);
 }
 
 #section_nav ol a:hover, #section_nav li.active > a {
-    color: #222;
+    color: var(--color-nav-link-active);
 }

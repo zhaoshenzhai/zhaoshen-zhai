@@ -1,3 +1,45 @@
 :root {
-    --contentWidth: 1250px;
+    /* Layout & Dimensions */
+    --content-width: 1100px;
+    --nav-width: 250px;
+    --nav-offset: 150px;
+    --page-margin-min: 5%;
+
+    /* Colors */
+    --color-title: #00008B;
+    --color-link: lightcoral;
+    --color-link-source: cadetblue;
+    --color-nav-link: #888;
+    --color-nav-link-active: #222;
+    --color-button-hover: rgb(240, 240, 240);
+    --color-nav-bg: rgba(255, 255, 255, 0.4);
+
+    /* Typography */
+    --font-main: 'mlmt', sans-serif;
+    --fs-base: 22px;
+    --fs-title: 30px;
+    --fs-section-btn: 25px;
+    --fs-abstract: 15px;
+
+    /* Spacing Scale */
+    --spacing-xs: 5px;
+    --spacing-sm: 10px;
+    --spacing-md: 20px;
+    --spacing-lg: 50px;
+    --spacing-xl: 100px;
+    --spacing-top: 200px;
+    --spacing-bot: 100px;
+
+    /* Specific UI Positioning */
+    --data-indent: 60px;
+    --arrow-width: 15px;
+    --arrow-padding: 8px;
+    --arrow-offset: -20px;
+    --abstract-offset-top: -10px;
+
+    /* Borders & Transitions */
+    --border-radius: 8px;
+    --tr-fast: 0.1s ease-out;
+    --tr-med: 0.2s ease-out;
+    --tr-slow: 0.3s ease-out;
 }

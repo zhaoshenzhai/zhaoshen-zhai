@@ -1,25 +1,24 @@
 .section_content {
-    margin-top: 50px;
+    margin-top: var(--spacing-lg);
 }
 
 .section_title, .section_button {
-    color: #00008B;
+    color: var(--color-title);
 }
 
 .section_title {
-    font-size: 30px;
+    font-size: var(--fs-title);
 }
 
 .section_button {
-    font-size: 25px;
-    padding: 0px 5px;
+    font-size: var(--fs-section-btn);
+    padding: 0px var(--spacing-xs);
     opacity: 0;
-    border-radius: 8px;
-    background-color: white;
-    transition: opacity 0.2s ease-out, background-color 0.1s linear;
+    border-radius: var(--border-radius);
+    transition: opacity var(--tr-med), background-color var(--tr-fast);
 }
 
 .section_button:hover {
-    background-color: rgb(240, 240, 240);
+    background-color: var(--color-button-hover);
     cursor: pointer;
 }

@@ -1,19 +1,18 @@
 a {
-    color: lightcoral;
+    color: var(--color-link);
     text-decoration: none;
 }
 
 .source {
-    border-radius: 8px;
-    background-color: white;
-    transition: background-color 0.1s linear;
+    border-radius: var(--border-radius);
+    transition: background-color var(--tr-fast);
 }
 
 .source a {
-    color: cadetblue;
+    color: var(--color-link-source);
 }
 
 .source:hover {
-    background-color: rgb(240, 240, 240);
+    background-color: var(--color-button-hover);
     cursor: pointer;
 }

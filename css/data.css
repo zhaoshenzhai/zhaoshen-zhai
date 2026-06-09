@@ -1,43 +1,42 @@
 .data_item {
-    margin-bottom: 10px;
+    margin-bottom: var(--spacing-sm);
 }
 
 .data_arrow, .data_arrow_disabled {
-    left: -20px;
-    width: 15px;
-    border-radius: 8px;
-    padding: 8px;
+    left: var(--arrow-offset);
+    width: var(--arrow-width);
+    border-radius: var(--border-radius);
+    padding: var(--arrow-padding);
     vertical-align: middle;
-    background-color: white;
-    transition: background-color 0.2s, rotate 0.3s;
+    transition: background-color var(--tr-med), rotate var(--tr-slow);
 }
 
 .data_arrow:hover {
-    background-color: rgb(240, 240, 240);
+    background-color: var(--color-button-hover);
     cursor: pointer;
 }
 
 .data_title {
-    margin-left: 10px;
+    margin-left: var(--spacing-sm);
     text-decoration: underline;
-    padding: 0px 10px;
+    padding: 0px var(--spacing-sm);
 }
 
 .data_info {
     display: block;
     position: relative;
-    left: 60px;
+    left: var(--data-indent);
 }
 
 .data_abstract {
     overflow: hidden;
     position: relative;
     max-height: 0;
-    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
-    top: -10px;
-    left: 60px;
+    transition: max-height var(--tr-slow), opacity var(--tr-slow);
+    top: var(--abstract-offset-top);
+    left: var(--data-indent);
     line-height: 1.2;
-    font-size: 20px;
+    font-size: var(--fs-abstract);
 }
 
 .data_abstract p {

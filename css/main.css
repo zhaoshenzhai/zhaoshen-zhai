@@ -3,19 +3,23 @@ html {
 }
 
 body {
-    font-family: 'mlmt';
+    font-family: var(--font-main);
     margin: 0px;
 }
 
 #content {
-    font-size: 25px;
-    margin-top: 200px;
-    margin-left: max(5%, calc(50% - (var(--contentWidth)/2 + 150px)));
-    width: min(80%, var(--contentWidth));
+    font-size: var(--fs-base);
+    margin-top: var(--spacing-top);
+    margin-left: max(var(--page-margin-min), calc(50% - (var(--content-width) / 2 + var(--nav-offset))));
+    width: min(90%, var(--content-width));
 }
 
 #information {
-    margin-bottom: 20px;
+    margin-bottom: var(--spacing-md);
+}
+
+#bottomSpace{
+    height:var(--spacing-bot);
 }
 
 .noSelect {

@@ -19,7 +19,18 @@
             "slides": "data/ribes_zalesskii_slides.pdf"
         },
         "info": [
-            "<span style='color: gray'>Joint in <a href='https://www.math.mcgill.ca/dcl/DDC-Seminar/' target='_blank'><i>Montréal Descriptive Dynamics and Combinatorics Seminar</i></a> and <a href='https://www.math.mcgill.ca/ggt/' target='_blank'><i>McGill Geometric Group Theory Seminar</i></a> (October 1, 2024)</span>"
+            "<span style='color: gray'><a href='https://www.math.mcgill.ca/dcl/DDC-Seminar/' target='_blank'><i>Montréal Descriptive Dynamics and Combinatorics Seminar</i></a> (September 23, 2025)</span>"
+        ],
+        "type": "talk"
+    },
+{
+        "title": "Curves intersecting at-most once",
+        "abstract": "Given a closed orientable surface $S$ with genus $g$, how many simple closed curves can we draw on $S$ so that, up to homotopy, they pairwise intersect at most once? The maximum number $N_g$ of such curves is related to the dimension of the $1$-curve complex of $S$, a sister of the now classical, and fundamental, curve complex on $S$. As such, determining $N_g$ is of interest to geometric topologists. We give a survey of the asymptotics of $N_g$ and then focus on the case when $g=3$, where conjecturally $N_3=33$ (it is known that $N_1=3$ and $N_2=12$). In particular, we show that $N_3\\geq33$ via an explicit construction of a system of curves, which is moreover maximal with respect to inclusion.",
+        "sources": {
+            "slides": "data/1_system_of_curves_slides.pdf"
+        },
+        "info": [
+            "<span style='color: gray'><a href='https://sites.google.com/binghamton.edu/bumathgradseminar' target='_blank'><i>Binghamton University Math Grad Seminar</i></a> (September 12, 2025)</span>"
         ],
         "type": "talk"
     },

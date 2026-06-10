@@ -39,7 +39,7 @@ text.f16 {font-family:ec-mlmr10;font-size:9.96264px}
 </style>
 <g id='page1'>
 <text class='f0' x='173.856492' y='-27.297658'>ZHA<tspan x='190.232792'>OSHEN</tspan><tspan x='220.550236'>ZHAI</tspan><tspan x='242.703621'>/</tspan><tspan x='249.359114'>THE</tspan><tspan x='268.966541'>A</tspan><tspan x='274.204056'>TTIC</tspan><tspan x='464.028919'>1</tspan></text>
-<text class='f14' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/05/04</tspan><tspan fill='#808080' x='114.319304'>10:19:17</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[space</tspan><tspan fill='#808080' x='76.214197'>of</tspan><tspan fill='#808080' x='88.916563'>types]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
+<text class='f14' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/06/10</tspan><tspan fill='#808080' x='114.317312'>10:11:45</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[space</tspan><tspan fill='#808080' x='76.214197'>of</tspan><tspan fill='#808080' x='88.916563'>types]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
 <a href='../?note=16569' style='cursor: pointer;' target='_top'>
 <path d='M59.777345 24.70703C60.101564 24.50391 60.410157 24.30859 60.773439 24.30859C61.13281 24.30859 61.44531 24.50391 61.76953 24.70703C62.09375 24.91016 62.40234 25.10547 62.76563 25.10547C63.125 25.10547 63.4375 24.91016 63.76172 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M63.76172 24.70703C64.085939 24.50391 64.398439 24.30859 64.757814 24.30859C65.11719 24.30859 65.42969 24.50391 65.75391 24.70703C66.07813 24.91016 66.39063 25.10547 66.75 25.10547C67.10938 25.10547 67.42188 24.91016 67.7461 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -245,9 +245,9 @@ text.f16 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f13' x='235.65472' y='138.081863'>(</text>
 <text class='f12' x='239.529199' y='138.081863'>p</text>
 <text class='f13' x='244.541663' y='138.081863'>)<tspan x='251.183474' y='137.735916'>:</tspan><tspan x='253.286701' y='138.081863'>=</tspan></text>
-<text class='f12' x='263.802971' y='138.081863'>ϕ</text>
-<text class='f13' x='270.320204' y='138.081863'>(</text>
-<text class='f12' x='274.194682' y='138.081863'>p</text>
+<text class='f12' x='263.802971' y='138.081863'>p</text>
+<text class='f13' x='268.815436' y='138.081863'>(</text>
+<text class='f12' x='272.689914' y='138.081863'>ϕ</text>
 <text class='f13' x='279.207146' y='138.081863'>)</text>
 <text class='f16' x='286.4025' y='138.081863'>con<tspan x='301.069711'>tin</tspan><tspan x='312.969562'>uous.</tspan></text>
 <text class='f6' x='0' y='160.398141'>Deﬁnition<tspan x='53.539456'>2.</tspan></text>

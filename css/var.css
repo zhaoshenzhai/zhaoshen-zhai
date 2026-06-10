@@ -6,13 +6,13 @@
     --page-margin-min: 5%;
 
     /* Colors */
-    --color-title: #00008B;
-    --color-link: lightcoral;
-    --color-link-source: cadetblue;
-    --color-nav-link: #888;
-    --color-nav-link-active: #222;
-    --color-button-hover: rgb(240, 240, 240);
-    --color-nav-bg: rgba(255, 255, 255, 0.4);
+    --color-title: #2C3E50;
+    --color-link: #2980B9;
+    --color-link-source: #16A085;
+    --color-nav-link: #95A5A6;
+    --color-nav-link-active: #2C3E50;
+    --color-button-hover: #ECF0F1;
+    --color-nav-bg: rgba(255, 255, 255, 0.85);
 
     /* Typography */
     --font-main: 'mlmt', sans-serif;

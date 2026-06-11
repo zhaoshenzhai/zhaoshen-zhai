@@ -51,7 +51,7 @@ text.f25 {font-family:ec-mlmr10;font-size:9.96264px}
 </style>
 <g id='page1'>
 <text class='f9' x='173.856492' y='-27.297658'>ZHA<tspan x='190.232792'>OSHEN</tspan><tspan x='220.550236'>ZHAI</tspan><tspan x='242.703621'>/</tspan><tspan x='249.359114'>THE</tspan><tspan x='268.966541'>A</tspan><tspan x='274.204056'>TTIC</tspan><tspan x='464.028919'>1</tspan></text>
-<text class='f23' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/05/08</tspan><tspan fill='#808080' x='114.319304'>20:59:01</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[omitting</tspan><tspan fill='#808080' x='88.916563'>types</tspan><tspan fill='#808080' x='114.321295'>theorem,</tspan><tspan fill='#808080' x='152.428394'>local</tspan><tspan fill='#808080' x='177.833126'>version]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
+<text class='f23' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/06/10</tspan><tspan fill='#808080' x='114.317312'>19:06:11</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[omitting</tspan><tspan fill='#808080' x='88.916563'>types</tspan><tspan fill='#808080' x='114.321295'>theorem,</tspan><tspan fill='#808080' x='152.428394'>local</tspan><tspan fill='#808080' x='177.833126'>version]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
 <a href='../?note=57648' style='cursor: pointer;' target='_top'>
 <path d='M59.777345 24.70703C60.101564 24.50391 60.410157 24.30859 60.773439 24.30859C61.13281 24.30859 61.44531 24.50391 61.76953 24.70703C62.09375 24.91016 62.40234 25.10547 62.76563 25.10547C63.125 25.10547 63.4375 24.91016 63.76172 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M63.76172 24.70703C64.085939 24.50391 64.398439 24.30859 64.757814 24.30859C65.11719 24.30859 65.42969 24.50391 65.75391 24.70703C66.07813 24.91016 66.39063 25.10547 66.75 25.10547C67.10938 25.10547 67.42188 24.91016 67.7461 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -73,20 +73,20 @@ text.f25 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f23' x='110.085182' y='22.714746'><tspan fill='#808080'>]</tspan><tspan fill='#808080' x='0' y='34.07212'>Referenced</tspan><tspan fill='#808080' x='46.575342'>in:</tspan><tspan fill='#808080' x='67.745953'>[]</tspan></text>
 <text class='f25' x='0' y='57.87393'>Let</text>
 <text class='f20' x='17.849902' y='57.87393'>L</text>
-<text class='f25' x='27.950924' y='57.87393'>b<tspan x='33.762414'>e</tspan><tspan x='41.511188'>a</tspan><tspan x='49.813383'>(con</tspan><tspan x='68.355073'>tin</tspan><tspan x='80.254924'>uous)</tspan><tspan x='107.430844'>coun</tspan><tspan x='127.632797'>table</tspan><tspan x='152.53949'>ﬁrst-order</tspan><tspan x='199.17031'>language</tspan><tspan x='240.681226'>and</tspan><tspan x='260.052903'>let</tspan></text>
-<text class='f20' x='274.443535' y='57.87393'>T</text>
-<text class='f25' x='284.970053' y='57.87393'>b<tspan x='290.781542'>e</tspan><tspan x='298.530316'>a</tspan><tspan x='306.832511'>consisten</tspan><tspan x='345.963752'>t</tspan></text>
-<text class='f20' x='353.159105' y='57.87393'>L</text>
-<text class='f25' x='359.939252' y='57.87393'>-theory<tspan x='390.408656'>.</tspan><tspan x='397.603874'>Let</tspan></text>
-<text class='f20' x='415.453777' y='57.87393'>p</text>
-<text class='f18' x='423.233574' y='57.87393'>∈</text>
-<text class='f20' x='432.642688' y='57.87393'>S</text>
-<rect x='438.751734' y='54.930029' height='.487658' width='5.015919'/>
-<text class='f19' x='438.751734' y='59.883287'>x</text>
-<text class='f22' x='443.767653' y='57.87393'>(</text>
-<text class='f20' x='447.642131' y='57.87393'>T</text>
-<text class='f22' x='454.847774' y='57.87393'>)</text>
-<text class='f25' x='458.722253' y='57.87393'>.</text>
+<text class='f25' x='27.950924' y='57.87393'>b<tspan x='33.762414'>e</tspan><tspan x='41.511188'>a</tspan><tspan x='49.813383'>(con</tspan><tspan x='68.355073'>tin</tspan><tspan x='80.254924'>uous)</tspan><tspan x='107.430844'>separable</tspan><tspan x='151.238826'>ﬁrst-order</tspan><tspan x='197.869645'>language</tspan><tspan x='239.380561'>and</tspan><tspan x='258.752238'>let</tspan></text>
+<text class='f20' x='273.14287' y='57.87393'>T</text>
+<text class='f25' x='283.669388' y='57.87393'>b<tspan x='289.480878'>e</tspan><tspan x='297.229652'>a</tspan><tspan x='305.531847'>consisten</tspan><tspan x='344.663087'>t</tspan></text>
+<text class='f20' x='351.858441' y='57.87393'>L</text>
+<text class='f25' x='358.638588' y='57.87393'>-theory<tspan x='389.107991'>.</tspan><tspan x='396.30321'>Let</tspan></text>
+<text class='f20' x='414.153112' y='57.87393'>p</text>
+<text class='f18' x='421.932909' y='57.87393'>∈</text>
+<text class='f20' x='431.342024' y='57.87393'>S</text>
+<rect x='437.451069' y='54.930029' height='.487658' width='5.015919'/>
+<text class='f19' x='437.451069' y='59.883287'>x</text>
+<text class='f22' x='442.466989' y='57.87393'>(</text>
+<text class='f20' x='446.341467' y='57.87393'>T</text>
+<text class='f22' x='453.54711' y='57.87393'>)</text>
+<text class='f25' x='457.421588' y='57.87393'>.</text>
 <text class='f10' x='0' y='79.784609'>Theorem</text>
 <text class='f25' x='48.650878' y='79.784609'>(Omitting<tspan x='95.696811'>t</tspan><tspan x='99.29454'>yp</tspan><tspan x='110.364307'>es</tspan><tspan x='122.042847'>theorem)</tspan></text>
 <text class='f10' x='161.367568' y='79.784609'>.</text>
@@ -172,61 +172,58 @@ text.f25 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f20' x='334.174869' y='159.079949'>L</text>
 <text class='f17' x='340.955015' y='155.464585'></text>
 <text class='f25' x='343.750091' y='159.079949'>,<tspan x='349.91583'>so</tspan><tspan x='362.209783'>the</tspan><tspan x='379.429769'>basic</tspan><tspan x='404.453742'>logic-op</tspan><tspan x='438.492728'>en</tspan><tspan x='451.838236'>sets</tspan><tspan x='0' y='173.426114'>of</tspan></text>
-<text class='f20' x='11.480705' y='173.426114'>S</text>
-<text class='f12' x='17.589751' y='174.920495'>∅</text>
-<text class='f22' x='24.314548' y='173.426114'>(</text>
-<text class='f20' x='28.189026' y='173.426114'>T</text>
-<text class='f22' x='35.394669' y='173.426114'>)</text>
-<text class='f25' x='42.724436' y='173.426114'>are<tspan x='59.491001'>of</tspan><tspan x='70.971691'>the</tspan><tspan x='88.264114'>form</tspan></text>
-<text class='f22' x='111.948724' y='173.426114'>[</text>
-<text class='f20' x='114.765905' y='173.426114'>r<tspan x='122.528755'>&lt;</tspan><tspan x='133.268863'>σ</tspan><tspan x='142.310471'>&lt;</tspan><tspan x='153.05058'>s</tspan></text>
-<text class='f22' x='157.720567' y='173.426114'>]</text>
-<text class='f25' x='163.943252' y='173.426114'>where</text>
-<text class='f20' x='192.886144' y='173.426114'>σ</text>
-<text class='f25' x='202.391679' y='173.426114'>is<tspan x='212.544129'>an</tspan></text>
-<text class='f20' x='226.515479' y='173.426114'>L</text>
-<text class='f17' x='233.295626' y='169.81075'></text>
-<text class='f25' x='236.090702' y='173.426114'>-sen<tspan x='253.027235'>tence</tspan><tspan x='279.175456'>and</tspan></text>
-<text class='f20' x='298.681548' y='173.426114'>r<tspan x='302.899554'>,</tspan><tspan x='307.327362'>s</tspan></text>
-<text class='f18' x='314.988726' y='173.426114'>∈</text>
-<text class='f13' x='324.621869' y='173.426114'>R</text>
-<text class='f25' x='331.817129' y='173.426114'>.<tspan x='339.41562'>Since</tspan></text>
-<text class='f20' x='365.563585' y='173.426114'>L</text>
-<text class='f17' x='372.343732' y='169.81075'></text>
-<text class='f25' x='378.594097' y='173.426114'>is<tspan x='388.746546'>coun</tspan><tspan x='408.948499'>table,</tspan></text>
-<text class='f18' x='436.790597' y='173.426114'>F</text>
-<text class='f12' x='443.951226' y='174.920495'>∅</text>
-<text class='f22' x='450.676023' y='173.426114'>(</text>
-<text class='f20' x='454.550502' y='173.426114'>L</text>
-<text class='f17' x='461.330648' y='169.81075'></text>
-<text class='f22' x='464.125724' y='173.426114'>)</text>
-<text class='f25' x='0' y='187.772279'>and</text>
-<text class='f18' x='19.371677' y='187.772279'>F</text>
-<text class='f19' x='26.532305' y='189.26666'>y</text>
-<text class='f22' x='31.321095' y='187.772279'>(</text>
-<text class='f20' x='35.195573' y='187.772279'>L</text>
-<text class='f17' x='41.97572' y='184.156915'></text>
-<text class='f22' x='44.770796' y='187.772279'>)</text>
-<text class='f25' x='51.966149' y='187.772279'>are<tspan x='68.598284'>b</tspan><tspan x='74.409774'>oth</tspan><tspan x='92.121188'>separable,</tspan><tspan x='138.696549'>so</tspan><tspan x='150.92851'>they</tspan><tspan x='173.344781'>admit</tspan><tspan x='202.125439'>coun</tspan><tspan x='222.327392'>table</tspan><tspan x='247.234085'>dense</tspan><tspan x='274.410006'>sets</tspan></text>
-<text class='f18' x='293.892788' y='187.772279'>{</text>
-<text class='f20' x='298.874124' y='187.772279'>σ</text>
-<text class='f19' x='304.566916' y='189.26666'>k</text>
-<text class='f18' x='309.4687' y='187.772279'>}</text>
-<text class='f19' x='314.450022' y='190.761056'>k</text>
-<text class='f17' x='318.853676' y='190.761056'>∈</text>
-<text class='f12' x='324.222458' y='190.761056'>N</text>
-<text class='f25' x='333.078058' y='187.772279'>and</text>
-<text class='f18' x='352.449735' y='187.772279'>{</text>
-<text class='f20' x='357.43107' y='187.772279'>ϕ</text>
-<text class='f19' x='363.948302' y='189.26666'>k</text>
-<text class='f22' x='368.850087' y='187.772279'>(</text>
-<text class='f20' x='372.724565' y='187.772279'>y</text>
-<text class='f22' x='377.966508' y='187.772279'>)</text>
-<text class='f18' x='381.840986' y='187.772279'>}</text>
-<text class='f19' x='386.822318' y='190.761056'>k</text>
-<text class='f17' x='391.225972' y='190.761056'>∈</text>
-<text class='f12' x='396.594754' y='190.761056'>N</text>
-<text class='f25' x='402.129479' y='187.772279'>,<tspan x='408.217734'>resp</tspan><tspan x='426.288929'>ectiv</tspan><tspan x='446.768114'>ely</tspan><tspan x='458.391441'>.</tspan><tspan x='12.176612' y='209.682958'>1.</tspan><tspan x='24.906631'>(Completeness).</tspan><tspan x='99.727257'>F</tspan><tspan x='105.400635'>or</tspan><tspan x='117.786091'>eac</tspan><tspan x='131.346461'>h</tspan></text>
+<text class='f20' x='11.461673' y='173.426114'>S</text>
+<text class='f12' x='17.570718' y='174.920495'>∅</text>
+<text class='f22' x='24.295515' y='173.426114'>(</text>
+<text class='f20' x='28.169993' y='173.426114'>T</text>
+<text class='f22' x='35.375636' y='173.426114'>)</text>
+<text class='f25' x='42.686386' y='173.426114'>are<tspan x='59.433918'>of</tspan><tspan x='70.895591'>the</tspan><tspan x='88.168981'>form</tspan></text>
+<text class='f22' x='111.834559' y='173.426114'>[</text>
+<text class='f20' x='114.65174' y='173.426114'>r<tspan x='122.382893'>&lt;</tspan><tspan x='133.091291'>σ</tspan><tspan x='142.101188'>&lt;</tspan><tspan x='152.809586'>s</tspan></text>
+<text class='f22' x='157.479573' y='173.426114'>]</text>
+<text class='f25' x='163.683225' y='173.426114'>where</text>
+<text class='f20' x='192.607115' y='173.426114'>σ</text>
+<text class='f25' x='202.093618' y='173.426114'>is<tspan x='212.227035'>an</tspan></text>
+<text class='f20' x='226.179368' y='173.426114'>L</text>
+<text class='f17' x='232.959515' y='169.81075'></text>
+<text class='f25' x='235.75459' y='173.426114'>-sen<tspan x='252.691124'>tence</tspan><tspan x='278.820312'>and</tspan></text>
+<text class='f20' x='298.307386' y='173.426114'>r<tspan x='302.525392'>,</tspan><tspan x='306.9532'>s</tspan></text>
+<text class='f18' x='314.582838' y='173.426114'>∈</text>
+<text class='f13' x='324.184286' y='173.426114'>R</text>
+<text class='f25' x='331.379546' y='173.426114'>.<tspan x='338.920954'>Since,</tspan></text>
+<text class='f18' x='367.846119' y='173.426114'>F</text>
+<text class='f12' x='375.006748' y='174.920495'>∅</text>
+<text class='f22' x='381.731545' y='173.426114'>(</text>
+<text class='f20' x='385.606023' y='173.426114'>L</text>
+<text class='f17' x='392.38617' y='169.81075'></text>
+<text class='f22' x='395.181246' y='173.426114'>)</text>
+<text class='f25' x='402.491996' y='173.426114'>and</text>
+<text class='f18' x='421.97907' y='173.426114'>F</text>
+<text class='f19' x='429.139698' y='174.920495'>y</text>
+<text class='f22' x='433.928488' y='173.426114'>(</text>
+<text class='f20' x='437.802966' y='173.426114'>L</text>
+<text class='f17' x='444.583113' y='169.81075'></text>
+<text class='f22' x='447.378188' y='173.426114'>)</text>
+<text class='f25' x='454.688938' y='173.426114'>are<tspan x='0' y='187.772279'>b</tspan><tspan x='5.811489'>oth</tspan><tspan x='23.522904'>separable,</tspan><tspan x='70.098265'>they</tspan><tspan x='92.514536'>admit</tspan><tspan x='121.295195'>coun</tspan><tspan x='141.497147'>table</tspan><tspan x='166.403841'>dense</tspan><tspan x='193.579761'>sets</tspan></text>
+<text class='f18' x='213.062544' y='187.772279'>{</text>
+<text class='f20' x='218.043879' y='187.772279'>σ</text>
+<text class='f19' x='223.736671' y='189.26666'>k</text>
+<text class='f18' x='228.638455' y='187.772279'>}</text>
+<text class='f19' x='233.619777' y='190.761056'>k</text>
+<text class='f17' x='238.023432' y='190.761056'>∈</text>
+<text class='f12' x='243.392214' y='190.761056'>N</text>
+<text class='f25' x='252.247813' y='187.772279'>and</text>
+<text class='f18' x='271.61949' y='187.772279'>{</text>
+<text class='f20' x='276.600826' y='187.772279'>ϕ</text>
+<text class='f19' x='283.118058' y='189.26666'>k</text>
+<text class='f22' x='288.019842' y='187.772279'>(</text>
+<text class='f20' x='291.89432' y='187.772279'>y</text>
+<text class='f22' x='297.136264' y='187.772279'>)</text>
+<text class='f18' x='301.010742' y='187.772279'>}</text>
+<text class='f19' x='305.992073' y='190.761056'>k</text>
+<text class='f17' x='310.395727' y='190.761056'>∈</text>
+<text class='f12' x='315.76451' y='190.761056'>N</text>
+<text class='f25' x='321.299234' y='187.772279'>,<tspan x='327.387489'>resp</tspan><tspan x='345.458684'>ectiv</tspan><tspan x='365.93787'>ely</tspan><tspan x='377.561196'>.</tspan><tspan x='12.176612' y='209.682958'>1.</tspan><tspan x='24.906631'>(Completeness).</tspan><tspan x='99.727257'>F</tspan><tspan x='105.400635'>or</tspan><tspan x='117.786091'>eac</tspan><tspan x='131.346461'>h</tspan></text>
 <text class='f20' x='140.383313' y='209.682958'>k</text>
 <text class='f18' x='148.952894' y='209.682958'>∈</text>
 <text class='f13' x='158.664053' y='209.682958'>N</text>

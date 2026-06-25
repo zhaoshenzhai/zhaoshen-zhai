@@ -17,7 +17,7 @@
 @font-face{font-family:rm-mlmr5;src:url(data:application/x-font-woff2;base64,d09GMgABAAAAAAKEAAoAAAAABGQAAAI5AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAANAqCQIIPCwgAATYCJAMKBCAFgjIHIBt4AyCeA+7OoohxwjC6ZULblPVhHkE4pvdJCkibBZSC7OTUhJbtwbqa4wPm4qEmKMnqiCaoXVtlHnkgCSQWUJNgFPjLo13d/1vu+EUK6LYiDfnnrXlBgi1IMYGkJalmLbEAOGALanOaLCIflDOtjLEOOb9HNQrppOPrWFXZ+EjFc6IDoooM1vA502OA6pF6Lb2uU1aYYO+4BQkZYySBMbI9UBSBp4jHGL8AkEEVCT/AHwAFEKLpJvRf0dM3TglNMwadIZ1dE56hASDvybQNQ8ME6jln6L09SzWR6e33Jv6A0hXhrk2FW5+ya68W6L6SPXL0ZCi7bxKQaGJYip719Iz89/A5tRiV6L3RXii9kp0Wy15SsX90ZhRhx2mUaHF20RyZz4Ew3Jlfg+uK1k0D51HiwTf0YiGG3q2mUaLJfnajvZpA87CINTCOaTPtFGJ4lSO/bZsESdp23uRmOu9Nkjx/GuKhUcBpRHe5aZ9+aUSUZ/8uo2pGgKhi6hIebCfm8K+99wKAQHD5CD4hLIZftCQyaOgmuxOngLoEgrOp5A6ePHNksJ9Q3AHSUwKeCMg+EEBQaPoHqMEtiroGKloGqKpbt5vmJJFEpYMwZGgo+pxRMRWMqr7UpOlBvpOj03fBXCsZUUISkWStS7RXU1adFq+iNxyZHpeSHoOIaihrgxNHTtxhEGFQWpIhlCASIZJp8RYlWYo4GJQoNcpUQbJxKFgPkypK5KZwWURFShcnRboYCFEalGkjkSkAAAA=) format('woff2');}
 @font-face{font-family:rm-mlmr7;src:url(data:application/x-font-woff2;base64,d09GMgABAAAAAAOMAAoAAAAABfwAAANDAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAARAqFNIQqCw4AATYCJAMYBCAFgjIHIBuxBBEVm/sAPhJy06IXjFiw0rjEl376TnuzE2xQ2kENnMz0xC8rBLO7tYCjzCJte9HfC/7Q5fjHxN/0Nh3fnhpr0liDrc0dZWEBh2mUZtsSKwiOo1kzcx8/G7sBcGxCw0AFxCeu/peGoRFAb6kDK8QAEGhAbAG4DulllVlAY4THKN3/rwBwFFkDAAJGKITDBAAMQBowVMEozAGARCIAGIElHhMKO2RuKROB8NbfUghN42VL4wEAql0vhVWEgPQzW1bO0Nqqrm9t8xomm2ie7p1FmN27rmU9SwS3zPXNAHGWBbx1zDucafk73Dt3TWYu2py/vbzMv8uxOTi1MCkr4JfAnJzRcXY/cfJuEsDRlNxev/NuU6z1a4FyJ/ayWBMyMC7N42AP66zelCLeY70nLs6Vu9wZmL+jfySYc4DD6kNqtdzUkQJnnMlu/zYrx9+8rCUQ8PbcMT6rMX2Eea6M2SsrEATuYzLXrZGOP7t3vyK1ZXIdk2kCFOuT4Y5beGjJLOptkzG3lL6v/0DawrJhFg+HjVFEmsySh1qPAodQ8NoQyowk4iCQHFn44QrmW6XicUGREeoySf1tG9uGO/AqUBePl6Ae1GmUVrJoF9OKnyVZTUoptUKRXTOpTTanPlZaJ0lJFpW3k/nbpq3XTNehN+/De3Hx9S7FepaXXuv9VaZ+Y/sRhdflJ6MYaAyR8elTF1Hzzh20DXMr9HK+rYEXNojJ07WKSZVDcuTaZlLt39fPT1xTlMEzmOsNN3wNJXzk2JpKp2D2lBZdjuapnZhiYF8PUWKaMm+jNLUfV96F57AkFNRrz1Sltn5RUTANl3iRpOobeh5A8Bmg7K/DSWLO30hMAbUgbMRexEmAHKwDIJDHEn5gKOMBZGM4bntUXAk/MJyhzG4bYg2YA5I462g7VIOpEVCBGAhqUJAY9woVi4RCQ1LewyQP2oCh9M5KgrMoFOIQqlAlshIVGnHlM0zm2kOCQ360XLQrLTApyC8otXv9yFmYmps3viffm16ZU1aZVaBuZWoLIYKFiFSkQIpCdkoZMDFD+b9fyg5PhlJlchQppM6CKXNPyC9UyNuYolyG9GSqmpUxXaUcZV+epYA6K6ZsYQo=) format('woff2');}
 @font-face{font-family:rm-mlmr10;src:url(data:application/x-font-woff2;base64,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) format('woff2');}
-@font-face{font-family:ec-mlmtt8;src:url(data:application/x-font-woff2;base64,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) format('woff2');}
+@font-face{font-family:ec-mlmtt8;src:url(data:application/x-font-woff2;base64,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) format('woff2');}
 @font-face{font-family:ec-mlmr10;src:url(data:application/x-font-woff2;base64,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) format('woff2');}
 text.f2 {font-family:ec-mlmr7;font-size:6.973848px}
 text.f3 {font-family:ec-mlmbx10;font-size:9.96264px}
@@ -40,7 +40,7 @@ text.f18 {font-family:ec-mlmr10;font-size:9.96264px}
 </style>
 <g id='page1'>
 <text class='f2' x='173.856492' y='-27.297658'>ZHA<tspan x='190.232792'>OSHEN</tspan><tspan x='220.550236'>ZHAI</tspan><tspan x='242.703621'>/</tspan><tspan x='249.359114'>THE</tspan><tspan x='268.966541'>A</tspan><tspan x='274.204056'>TTIC</tspan><tspan x='464.028919'>1</tspan></text>
-<text class='f17' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/06/22</tspan><tspan fill='#808080' x='114.317312'>18:08:46</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[topological</tspan><tspan fill='#808080' x='101.618929'>polynomial,</tspan><tspan fill='#808080' x='152.428394'>Thurston</tspan><tspan fill='#808080' x='190.535492'>obstruction,</tspan><tspan fill='#808080' x='245.579078'>Levy</tspan><tspan fill='#808080' x='266.749689'>cycle]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
+<text class='f17' x='0' y='0'><tspan fill='#808080'>Last</tspan><tspan fill='#808080' x='21.17061'>modified:</tspan><tspan fill='#808080' x='67.745953'>2026/06/25</tspan><tspan fill='#808080' x='114.317312'>09:33:08</tspan><tspan fill='#808080' x='0' y='11.357373'>Keywords:</tspan><tspan fill='#808080' x='46.575342'>[topological</tspan><tspan fill='#808080' x='101.618929'>polynomial,</tspan><tspan fill='#808080' x='152.428394'>Thurston</tspan><tspan fill='#808080' x='190.535492'>obstruction,</tspan><tspan fill='#808080' x='245.579078'>Levy</tspan><tspan fill='#808080' x='266.749689'>cycle]</tspan><tspan fill='#808080' x='0' y='22.714746'>References:</tspan><tspan fill='#808080' x='55.043587'>[</tspan></text>
 <a href='../?note=30562' style='cursor: pointer;' target='_top'>
 <path d='M59.777345 24.70703C60.101564 24.50391 60.410157 24.30859 60.773439 24.30859C61.13281 24.30859 61.44531 24.50391 61.76953 24.70703C62.09375 24.91016 62.40234 25.10547 62.76563 25.10547C63.125 25.10547 63.4375 24.91016 63.76172 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <path d='M63.76172 24.70703C64.085939 24.50391 64.398439 24.30859 64.757814 24.30859C65.11719 24.30859 65.42969 24.50391 65.75391 24.70703C66.07813 24.91016 66.39063 25.10547 66.75 25.10547C67.10938 25.10547 67.42188 24.91016 67.7461 24.70703' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -804,130 +804,144 @@ text.f18 {font-family:ec-mlmr10;font-size:9.96264px}
 <text class='f18' x='374.573453' y='493.857279'>,<tspan x='380.76432'>w</tspan><tspan x='387.682594'>e</tspan><tspan x='395.513473'>see</tspan><tspan x='411.702001'>that</tspan></text>
 <text class='f16' x='433.369999' y='493.857279'>∆<tspan x='444.576012'>=</tspan><tspan x='455.229113'>∆</tspan></text>
 <text class='f15' x='463.530977' y='495.35166'>0</text>
-<text class='f18' x='0' y='508.203444'>and<tspan x='19.150704'>that</tspan></text>
-<text class='f13' x='40.515623' y='508.203444'>λ</text>
-<text class='f15' x='46.327189' y='509.697825'>0</text>
-<text class='f18' x='53.896323' y='508.203444'>is<tspan x='63.69337'>cyclic.</tspan><tspan x='94.891671'>First</tspan><tspan x='118.968845'>observ</tspan><tspan x='146.72614'>e</tspan><tspan x='154.253941'>that</tspan></text>
-<text class='f16' x='175.618876' y='508.203444'>Γ</text>
-<text class='f10' x='183.617461' y='508.203444'>\</text>
-<text class='f16' x='190.370735' y='508.203444'>∆</text>
-<text class='f18' x='201.772501' y='508.203444'>is</text>
-<text class='f13' x='211.569548' y='508.203444'>T</text>
-<text class='f15' x='217.391479' y='509.697825'>Γ</text>
-<text class='f18' x='222.815643' y='508.203444'>-in<tspan x='234.161892'>v</tspan><tspan x='238.866688'>arian</tspan><tspan x='260.756741'>t,</tspan><tspan x='270.542693'>so</tspan><tspan x='282.55368'>an</tspan><tspan x='292.792993'>y</tspan><tspan x='301.151172'>path</tspan><tspan x='324.176354'>b</tspan><tspan x='329.987844'>et</tspan><tspan x='338.013473'>w</tspan><tspan x='344.931747'>een</tspan><tspan x='362.422203'>curv</tspan><tspan x='381.268413'>es</tspan><tspan x='392.725979'>in</tspan></text>
-<text class='f16' x='404.128002' y='508.203444'>∆</text>
-<text class='f18' x='415.529768' y='508.203444'>sta<tspan x='428.038584'>ys</tspan><tspan x='440.326528'>within</tspan></text>
-<text class='f16' x='0' y='522.549609'>∆</text>
-<text class='f18' x='8.301864' y='522.549609'>;<tspan x='14.346201'>moreo</tspan><tspan x='40.663898'>v</tspan><tspan x='45.645427'>er,</tspan><tspan x='60.010932'>b</tspan><tspan x='65.268925'>y</tspan><tspan x='73.782208'>the</tspan><tspan x='90.874332'>claim,</tspan><tspan x='120.155741'>an</tspan><tspan x='130.395054'>y</tspan><tspan x='138.908337'>path</tspan><tspan x='162.088623'>from</tspan></text>
-<text class='f16' x='185.572935' y='522.549609'>∆</text>
-<text class='f15' x='193.874799' y='524.04399'>0</text>
-<text class='f18' x='201.599037' y='522.549609'>to</text>
-<text class='f16' x='213.709841' y='522.549609'>∆</text>
-<text class='f18' x='225.266711' y='522.549609'>sta<tspan x='237.775527'>ys</tspan><tspan x='250.218575'>within</tspan></text>
-<text class='f16' x='281.147323' y='522.549609'>∆</text>
-<text class='f15' x='289.449188' y='524.04399'>0</text>
-<text class='f18' x='293.918421' y='522.549609'>.<tspan x='301.091687'>No</tspan><tspan x='313.268239'>w</tspan><tspan x='323.718267'>let</tspan></text>
-<text class='f13' x='338.04303' y='522.549609'>C</text>
-<text class='f10' x='348.643477' y='522.549609'>⊆</text>
-<text class='f16' x='359.159557' y='522.549609'>∆</text>
-<text class='f15' x='367.461421' y='524.04399'>0</text>
-<text class='f10' x='374.697986' y='522.549609'>⊆</text>
-<text class='f16' x='385.214066' y='522.549609'>∆</text>
-<text class='f18' x='396.770936' y='522.549609'>b<tspan x='402.582426'>e</tspan><tspan x='410.26533'>a</tspan><tspan x='418.501656'>cycle</tspan><tspan x='443.066017'>under</tspan></text>
-<text class='f13' x='0' y='536.895775'>λ</text>
-<text class='f15' x='5.811565' y='538.390156'>0</text>
-<text class='f18' x='10.280798' y='536.895775'>.<tspan x='17.666449'>By</tspan><tspan x='33.365604'>what</tspan><tspan x='58.335523'>w</tspan><tspan x='65.253797'>e</tspan><tspan x='73.066054'>just</tspan><tspan x='92.833462'>observ</tspan><tspan x='120.590757'>ed,</tspan></text>
-<text class='f13' x='136.721006' y='536.895775'>C</text>
-<text class='f18' x='147.938462' y='536.895775'>is<tspan x='158.019964'>a</tspan><tspan x='166.385627'>strongly-connected</tspan><tspan x='251.491802'>comp</tspan><tspan x='275.014375'>onen</tspan><tspan x='295.216328'>t</tspan><tspan x='302.475164'>of</tspan></text>
-<text class='f13' x='313.884907' y='536.895775'>G</text>
-<text class='f18' x='321.718024' y='536.895775'>,<tspan x='327.885633'>so</tspan></text>
-<text class='f10' x='340.18106' y='536.895775'></text>
-<text class='f13' x='345.162396' y='536.895775'>T</text>
-<text class='f12' x='350.984327' y='538.390156'>C</text>
-<text class='f10' x='357.685181' y='536.895775'></text>
-<text class='f12' x='362.666503' y='539.884552'>σ</text>
-<text class='f10' x='370.904623' y='536.895775'>≥</text>
-<text class='f16' x='381.526492' y='536.895775'>1</text>
-<text class='f18' x='386.507812' y='536.895775'>,<tspan x='392.675405'>since</tspan></text>
-<text class='f13' x='417.147447' y='536.895775'>C</text>
-<text class='f10' x='427.853682' y='536.895775'>⊆</text>
-<text class='f16' x='438.475552' y='536.895775'>∆</text>
-<text class='f18' x='446.777416' y='536.895775'>.<tspan x='454.163067'>Set</tspan></text>
-<text class='f16' x='0' y='551.24194'>Γ</text>
-<text class='f12' x='6.22665' y='552.736321'>C</text>
-<text class='f16' x='16.081084' y='550.895993'>:<tspan x='18.184311' y='551.24194'>=</tspan></text>
-<text class='f7' x='29.086828' y='543.769899'>⋃</text>
-<text class='f12' x='37.389054' y='554.230778'>k</text>
-<text class='f13' x='43.951237' y='551.24194'>λ</text>
-<text class='f12' x='49.762803' y='547.626576'>k<tspan x='49.762803' y='554.420146'>f</tspan></text>
-<text class='f16' x='54.927517' y='551.24194'>(</text>
-<text class='f13' x='58.801995' y='551.24194'>C</text>
-<text class='f16' x='66.635109' y='551.24194'>)</text>
-<text class='f18' x='70.509587' y='551.24194'>.<tspan x='78.400059'>No</tspan><tspan x='90.576611'>w</tspan></text>
-<text class='f10' x='101.32426' y='551.24194'></text>
-<text class='f13' x='106.305595' y='551.24194'>T</text>
-<text class='f15' x='112.127526' y='552.736321'>Γ</text>
-<text class='f11' x='117.053559' y='553.738133'>C</text>
-<text class='f10' x='123.350151' y='551.24194'></text>
-<text class='f12' x='128.331473' y='554.23625'>σ</text>
-<text class='f10' x='136.850034' y='551.24194'>≥<tspan x='147.752361'></tspan></text>
-<text class='f13' x='152.7337' y='551.24194'>T</text>
-<text class='f12' x='158.555632' y='552.736321'>C</text>
-<text class='f10' x='165.256486' y='551.24194'></text>
-<text class='f12' x='170.237825' y='552.736321'>σ</text>
-<text class='f10' x='178.756387' y='551.24194'>≥</text>
-<text class='f16' x='189.658714' y='551.24194'>1</text>
-<text class='f18' x='194.640034' y='551.24194'>,<tspan x='201.017989'>so</tspan></text>
-<text class='f16' x='213.481701' y='551.24194'>Γ</text>
-<text class='f12' x='219.708351' y='552.736321'>C</text>
-<text class='f18' x='229.961831' y='551.24194'>is<tspan x='240.211603'>a</tspan><tspan x='248.745549'>Th</tspan><tspan x='261.198564'>urston</tspan><tspan x='292.508277'>obstruction</tspan><tspan x='345.403808'>for</tspan></text>
-<text class='f13' x='360.883876' y='551.24194'>f</text>
-<text class='f18' x='366.833823' y='551.24194'>,<tspan x='373.211778'>and</tspan><tspan x='392.815206'>hence</tspan></text>
-<text class='f16' x='420.721012' y='551.24194'>Γ<tspan x='430.101241'>=</tspan><tspan x='441.003758'>Γ</tspan></text>
-<text class='f12' x='447.230408' y='552.736321'>C</text>
-<text class='f18' x='457.483889' y='551.24194'>b<tspan x='462.741881'>y</tspan><tspan x='0' y='565.588105'>minimalit</tspan><tspan x='41.787039'>y</tspan><tspan x='50.745461'>of</tspan></text>
-<text class='f16' x='62.470991' y='565.588105'>Γ</text>
-<text class='f18' x='68.697641' y='565.588105'>.<tspan x='77.030652'>No</tspan><tspan x='89.207204'>w</tspan><tspan x='100.102371'>tak</tspan><tspan x='113.939698'>e</tspan></text>
-<text class='f13' x='122.067741' y='565.588105'>γ</text>
-<text class='f10' x='131.178595' y='565.588105'>∈</text>
-<text class='f16' x='141.219815' y='565.588105'>∆</text>
-<text class='f10' x='152.921102' y='565.588105'>⊆</text>
-<text class='f16' x='164.069272' y='565.588105'>Γ<tspan x='173.69536'>=</tspan><tspan x='184.84372'>Γ</tspan></text>
-<text class='f12' x='191.07037' y='567.082486'>C</text>
-<text class='f18' x='197.771225' y='565.588105'>,<tspan x='204.333563'>so</tspan><tspan x='216.944792'>there</tspan><tspan x='242.81198'>is</tspan><tspan x='253.209269'>a</tspan><tspan x='261.890733'>path</tspan><tspan x='285.516158'>in</tspan></text>
-<text class='f13' x='297.518408' y='565.588105'>G</text>
-<text class='f18' x='309.051669' y='565.588105'>from<tspan x='332.98112'>some</tspan></text>
-<text class='f13' x='358.322098' y='565.588105'>γ</text>
-<text class='f15' x='363.480063' y='567.082486'>0</text>
-<text class='f10' x='371.348733' y='565.588105'>∈</text>
-<text class='f13' x='381.389938' y='565.588105'>C</text>
-<text class='f18' x='392.923196' y='565.588105'>to</text>
-<text class='f13' x='405.479139' y='565.588105'>γ</text>
-<text class='f18' x='411.19057' y='565.588105'>,<tspan x='417.752892'>whic</tspan><tspan x='437.401187'>h</tspan><tspan x='446.636072'>m</tspan><tspan x='454.661188'>ust</tspan><tspan x='0' y='579.934271'>lie</tspan><tspan x='13.422874'>within</tspan></text>
-<text class='f16' x='44.556846' y='579.934271'>∆</text>
-<text class='f15' x='52.85871' y='581.428651'>0</text>
-<text class='f18' x='57.327943' y='579.934271'>.<tspan x='64.941195'>As</tspan></text>
-<text class='f13' x='79.80317' y='579.934271'>λ</text>
-<text class='f15' x='85.614736' y='581.428651'>0</text>
-<text class='f18' x='93.544183' y='579.934271'>is<tspan x='103.701543'>a</tspan><tspan x='112.143093'>restriction</tspan><tspan x='159.99273'>of</tspan></text>
-<text class='f13' x='171.478361' y='579.934271'>λ</text>
-<text class='f12' x='177.289926' y='581.428651'>f</text>
-<text class='f18' x='185.914855' y='579.934271'>and</text>
-<text class='f13' x='205.425887' y='579.934271'>C</text>
-<text class='f18' x='216.719215' y='579.934271'>is<tspan x='226.87659'>a</tspan><tspan x='235.318124'>cycle,</tspan><tspan x='262.889916'>w</tspan><tspan x='269.80819'>e</tspan><tspan x='277.696304'>see</tspan><tspan x='293.942097'>that</tspan></text>
-<text class='f13' x='315.667329' y='579.934271'>γ</text>
-<text class='f10' x='324.378331' y='579.934271'>∈</text>
-<text class='f13' x='334.019698' y='579.934271'>C</text>
-<text class='f18' x='341.852812' y='579.934271'>.<tspan x='349.466064'>Th</tspan><tspan x='361.919079'>us</tspan></text>
-<text class='f13' x='374.8438' y='579.934271'>C</text>
-<text class='f10' x='385.676483' y='579.934271'>⊆</text>
-<text class='f16' x='396.424816' y='579.934271'>∆</text>
-<text class='f15' x='404.726681' y='581.428651'>0</text>
-<text class='f10' x='412.195484' y='579.934271'>⊆</text>
-<text class='f16' x='422.943801' y='579.934271'>∆</text>
-<text class='f10' x='434.245236' y='579.934271'>⊆</text>
-<text class='f13' x='444.993553' y='579.934271'>C</text>
-<text class='f18' x='452.826667' y='579.934271'>,<tspan x='459.089104'>as</tspan><tspan x='0' y='594.280436'>desired.</tspan><tspan x='14.94396' y='609.345037'>Finally</tspan><tspan x='44.693816'>,</tspan><tspan x='50.774151'>w</tspan><tspan x='57.692425'>e</tspan><tspan x='65.431303'>order</tspan><tspan x='91.490323'>the</tspan><tspan x='108.63842'>curv</tspan><tspan x='127.484631'>es</tspan></text>
+<text class='f18' x='0' y='508.203444'>and<tspan x='19.129771'>that</tspan></text>
+<text class='f13' x='40.473757' y='508.203444'>λ</text>
+<text class='f15' x='46.285323' y='509.697825'>0</text>
+<text class='f18' x='53.833525' y='508.203444'>is<tspan x='63.609639'>cyclic.</tspan><tspan x='94.800962'>Indeed,</tspan><tspan x='129.753221'>ﬁrst</tspan><tspan x='150.073216'>observ</tspan><tspan x='177.830511'>e</tspan><tspan x='185.337379'>that</tspan></text>
+<text class='f16' x='206.681366' y='508.203444'>Γ</text>
+<text class='f10' x='214.638085' y='508.203444'>\</text>
+<text class='f16' x='221.349493' y='508.203444'>∆</text>
+<text class='f18' x='232.730327' y='508.203444'>is</text>
+<text class='f13' x='242.506456' y='508.203444'>T</text>
+<text class='f15' x='248.328387' y='509.697825'>Γ</text>
+<text class='f18' x='253.75255' y='508.203444'>-in<tspan x='265.0988'>v</tspan><tspan x='269.803596'>arian</tspan><tspan x='291.693649'>t,</tspan><tspan x='301.462849'>so</tspan><tspan x='313.452903'>an</tspan><tspan x='323.692215'>y</tspan><tspan x='332.029477'>path</tspan><tspan x='355.033726'>b</tspan><tspan x='360.845216'>et</tspan><tspan x='368.870845'>w</tspan><tspan x='375.789119'>een</tspan><tspan x='393.258627'>curv</tspan><tspan x='412.104837'>es</tspan><tspan x='423.541471'>in</tspan></text>
+<text class='f16' x='434.922561' y='508.203444'>∆</text>
+<text class='f18' x='446.303394' y='508.203444'>sta<tspan x='458.812209'>ys</tspan><tspan x='0' y='522.549609'>within</tspan></text>
+<text class='f16' x='30.781458' y='522.549609'>∆</text>
+<text class='f18' x='39.083323' y='522.549609'>;<tspan x='45.029471'>moreo</tspan><tspan x='71.347168'>v</tspan><tspan x='76.328697'>er,</tspan><tspan x='90.576373'>b</tspan><tspan x='95.834366'>y</tspan><tspan x='104.200359'>the</tspan><tspan x='121.145193'>claim,</tspan><tspan x='150.308773'>an</tspan><tspan x='160.548085'>y</tspan><tspan x='168.914079'>path</tspan><tspan x='191.947074'>from</tspan></text>
+<text class='f16' x='215.284096' y='522.549609'>∆</text>
+<text class='f15' x='223.585961' y='524.04399'>0</text>
+<text class='f18' x='231.162909' y='522.549609'>to</text>
+<text class='f16' x='243.126423' y='522.549609'>∆</text>
+<text class='f18' x='254.536003' y='522.549609'>sta<tspan x='267.044818'>ys</tspan><tspan x='279.340576'>within</tspan></text>
+<text class='f16' x='310.122035' y='522.549609'>∆</text>
+<text class='f15' x='318.423899' y='524.04399'>0</text>
+<text class='f18' x='322.893132' y='522.549609'>.<tspan x='330.017312'>No</tspan><tspan x='342.193864'>w</tspan><tspan x='352.496602'>let</tspan></text>
+<text class='f13' x='366.674075' y='522.549609'>C</text>
+<text class='f10' x='377.274521' y='522.549609'>⊆</text>
+<text class='f16' x='387.790601' y='522.549609'>∆</text>
+<text class='f15' x='396.092465' y='524.04399'>0</text>
+<text class='f10' x='403.329031' y='522.549609'>⊆</text>
+<text class='f16' x='413.845111' y='522.549609'>∆</text>
+<text class='f18' x='425.254691' y='522.549609'>b<tspan x='431.06618'>e</tspan><tspan x='438.601795'>a</tspan><tspan x='446.69083'>cycle</tspan><tspan x='0' y='536.895775'>under</tspan></text>
+<text class='f13' x='28.562752' y='536.895775'>λ</text>
+<text class='f15' x='34.374318' y='538.390156'>0</text>
+<text class='f18' x='38.843551' y='536.895775'>;<tspan x='45.393362'>w</tspan><tspan x='52.311636'>e</tspan><tspan x='60.368125'>sho</tspan><tspan x='74.537203'>w</tspan><tspan x='85.360815'>that</tspan></text>
+<text class='f13' x='107.254406' y='536.895775'>C</text>
+<text class='f16' x='118.3677' y='536.895775'>=<tspan x='129.396802'>∆</tspan></text>
+<text class='f18' x='137.698666' y='536.895775'>.<tspan x='145.817013'>By</tspan><tspan x='161.760414'>what</tspan><tspan x='186.974566'>w</tspan><tspan x='193.89284'>e</tspan><tspan x='201.949313'>just</tspan><tspan x='221.960968'>observ</tspan><tspan x='249.718263'>ed,</tspan></text>
+<text class='f13' x='266.153794' y='536.895775'>C</text>
+<text class='f18' x='277.615497' y='536.895775'>is<tspan x='287.941217'>a</tspan><tspan x='296.551126'>strongly-connected</tspan><tspan x='381.901533'>comp</tspan><tspan x='405.424106'>onen</tspan><tspan x='425.626059'>t</tspan><tspan x='433.129111'>of</tspan></text>
+<text class='f13' x='444.783102' y='536.895775'>G</text>
+<text class='f18' x='452.616219' y='536.895775'>,<tspan x='459.08911'>so</tspan></text>
+<text class='f10' x='0' y='551.24194'></text>
+<text class='f13' x='4.981335' y='551.24194'>T</text>
+<text class='f12' x='10.803266' y='552.736321'>C</text>
+<text class='f10' x='17.504121' y='551.24194'></text>
+<text class='f12' x='22.485443' y='554.230717'>σ</text>
+<text class='f10' x='30.625328' y='551.24194'>≥</text>
+<text class='f16' x='41.148979' y='551.24194'>1</text>
+<text class='f18' x='49.455704' y='551.24194'>as</text>
+<text class='f13' x='61.69221' y='551.24194'>C</text>
+<text class='f10' x='72.300226' y='551.24194'>⊆</text>
+<text class='f16' x='82.823877' y='551.24194'>∆</text>
+<text class='f18' x='91.125741' y='551.24194'>.<tspan x='98.33458'>Set</tspan></text>
+<text class='f16' x='115.497119' y='551.24194'>Γ</text>
+<text class='f12' x='121.723769' y='552.736321'>C</text>
+<text class='f16' x='131.199511' y='550.895993'>:<tspan x='133.302738' y='551.24194'>=</tspan></text>
+<text class='f7' x='143.826579' y='543.769899'>⋃</text>
+<text class='f12' x='152.128804' y='554.230778'>k</text>
+<text class='f13' x='158.690988' y='551.24194'>λ</text>
+<text class='f12' x='164.502554' y='547.626576'>k<tspan x='164.502554' y='554.420146'>f</tspan></text>
+<text class='f16' x='169.667268' y='551.24194'>(</text>
+<text class='f13' x='173.541746' y='551.24194'>C</text>
+<text class='f16' x='181.37486' y='551.24194'>)</text>
+<text class='f18' x='185.249338' y='551.24194'>.<tspan x='192.458177'>No</tspan><tspan x='204.634729'>w</tspan></text>
+<text class='f10' x='215.155172' y='551.24194'></text>
+<text class='f13' x='220.136507' y='551.24194'>T</text>
+<text class='f15' x='225.958438' y='552.736321'>Γ</text>
+<text class='f11' x='230.884471' y='553.738133'>C</text>
+<text class='f10' x='237.181063' y='551.24194'></text>
+<text class='f12' x='242.162385' y='554.23625'>σ</text>
+<text class='f10' x='250.30227' y='551.24194'>≥<tspan x='260.825921'></tspan></text>
+<text class='f13' x='265.80726' y='551.24194'>T</text>
+<text class='f12' x='271.629191' y='552.736321'>C</text>
+<text class='f10' x='278.330045' y='551.24194'></text>
+<text class='f12' x='283.311384' y='552.736321'>σ</text>
+<text class='f10' x='291.45127' y='551.24194'>≥</text>
+<text class='f16' x='301.974905' y='551.24194'>1</text>
+<text class='f18' x='306.956225' y='551.24194'>,<tspan x='313.050166'>so</tspan></text>
+<text class='f16' x='325.286656' y='551.24194'>Γ</text>
+<text class='f12' x='331.513306' y='552.736321'>C</text>
+<text class='f18' x='341.539581' y='551.24194'>is<tspan x='351.562147'>a</tspan><tspan x='359.868887'>Th</tspan><tspan x='372.321902'>urston</tspan><tspan x='403.404394'>obstruction</tspan><tspan x='456.072719'>for</tspan></text>
+<text class='f13' x='0' y='565.588105'>f</text>
+<text class='f18' x='5.949947' y='565.588105'>,<tspan x='12.220031'>and</tspan><tspan x='31.737173'>hence</tspan></text>
+<text class='f16' x='59.556694' y='565.588105'>Γ<tspan x='68.793099'>=</tspan><tspan x='79.551807'>Γ</tspan></text>
+<text class='f12' x='85.778457' y='567.082486'>C</text>
+<text class='f18' x='95.945652' y='565.588105'>b<tspan x='101.203645'>y</tspan><tspan x='109.928263'>minimalit</tspan><tspan x='151.715303'>y</tspan><tspan x='160.439906'>of</tspan></text>
+<text class='f16' x='171.931648' y='565.588105'>Γ</text>
+<text class='f18' x='178.158298' y='565.588105'>.<tspan x='185.789913'>If</tspan></text>
+<text class='f13' x='195.897822' y='565.588105'>γ</text>
+<text class='f10' x='204.619024' y='565.588105'>∈</text>
+<text class='f16' x='214.270576' y='565.588105'>∆</text>
+<text class='f10' x='225.582196' y='565.588105'>⊆</text>
+<text class='f16' x='236.340714' y='565.588105'>Γ<tspan x='245.577135'>=</tspan><tspan x='256.335827'>Γ</tspan></text>
+<text class='f12' x='262.562477' y='567.082486'>C</text>
+<text class='f18' x='269.263332' y='565.588105'>,<tspan x='275.533415'>then</tspan><tspan x='298.371615'>there</tspan><tspan x='324.005015'>is</tspan><tspan x='334.168501'>a</tspan><tspan x='342.616162'>path</tspan><tspan x='366.007768'>in</tspan></text>
+<text class='f13' x='377.776229' y='565.588105'>G</text>
+<text class='f18' x='389.075688' y='565.588105'>from<tspan x='412.771335'>some</tspan></text>
+<text class='f13' x='437.878524' y='565.588105'>γ</text>
+<text class='f15' x='443.036489' y='567.082486'>0</text>
+<text class='f10' x='450.515477' y='565.588105'>∈</text>
+<text class='f13' x='460.16703' y='565.588105'>C</text>
+<text class='f18' x='0' y='579.934271'>to</text>
+<text class='f13' x='11.877563' y='579.934271'>γ</text>
+<text class='f18' x='17.588994' y='579.934271'>,<tspan x='23.437958'>whic</tspan><tspan x='43.086252'>h</tspan><tspan x='51.642758'>m</tspan><tspan x='59.667874'>ust</tspan><tspan x='76.028623'>lie</tspan><tspan x='89.013047'>within</tspan></text>
+<text class='f16' x='119.708554' y='579.934271'>∆</text>
+<text class='f15' x='128.010418' y='581.428651'>0</text>
+<text class='f18' x='132.479651' y='579.934271'>;<tspan x='138.368489'>in</tspan><tspan x='149.692375'>particular,</tspan></text>
+<text class='f13' x='198.21468' y='579.934271'>γ</text>
+<text class='f10' x='206.693444' y='579.934271'>∈</text>
+<text class='f16' x='216.102558' y='579.934271'>∆</text>
+<text class='f15' x='224.404423' y='581.428651'>0</text>
+<text class='f18' x='228.873655' y='579.934271'>.<tspan x='235.969181'>As</tspan></text>
+<text class='f13' x='250.392691' y='579.934271'>λ</text>
+<text class='f15' x='256.204256' y='581.428651'>0</text>
+<text class='f16' x='263.440821' y='579.934271'>=</text>
+<text class='f13' x='273.957091' y='579.934271'>λ</text>
+<text class='f12' x='279.768657' y='581.428651'>f</text>
+<text class='f10' x='284.933371' y='579.934271'>|</text>
+<text class='f16' x='287.700779' y='579.934271'>∆</text>
+<text class='f15' x='296.002644' y='581.428651'>0</text>
+<text class='f18' x='303.493641' y='579.934271'>and</text>
+<text class='f13' x='322.566208' y='579.934271'>C</text>
+<text class='f18' x='333.421071' y='579.934271'>is<tspan x='343.139981'>a</tspan><tspan x='351.143066'>cycle</tspan><tspan x='375.474185'>under</tspan></text>
+<text class='f13' x='403.430113' y='579.934271'>λ</text>
+<text class='f15' x='409.241678' y='581.428651'>0</text>
+<text class='f18' x='413.710911' y='579.934271'>,<tspan x='419.559875'>w</tspan><tspan x='426.478149'>e</tspan><tspan x='433.927813'>see</tspan><tspan x='449.735141'>that</tspan></text>
+<text class='f13' x='0' y='594.280436'>γ</text>
+<text class='f10' x='8.478764' y='594.280436'>∈</text>
+<text class='f13' x='17.887878' y='594.280436'>C</text>
+<text class='f18' x='25.720992' y='594.280436'>.<tspan x='32.91621'>Th</tspan><tspan x='45.369225'>us</tspan></text>
+<text class='f13' x='58.154607' y='594.280436'>C</text>
+<text class='f10' x='68.755053' y='594.280436'>⊆</text>
+<text class='f16' x='79.271133' y='594.280436'>∆</text>
+<text class='f15' x='87.572997' y='595.774817'>0</text>
+<text class='f10' x='94.809562' y='594.280436'>⊆</text>
+<text class='f16' x='105.325642' y='594.280436'>∆</text>
+<text class='f10' x='116.394839' y='594.280436'>⊆</text>
+<text class='f13' x='126.910919' y='594.280436'>C</text>
+<text class='f18' x='134.744033' y='594.280436'>,<tspan x='140.832288'>as</tspan><tspan x='153.064248'>desired.</tspan><tspan x='14.94396' y='609.345037'>Finally</tspan><tspan x='44.693816'>,</tspan><tspan x='50.774151'>w</tspan><tspan x='57.692425'>e</tspan><tspan x='65.431303'>order</tspan><tspan x='91.490323'>the</tspan><tspan x='108.63842'>curv</tspan><tspan x='127.484631'>es</tspan></text>
 <text class='f16' x='139.153274' y='609.345037'>∆<tspan x='150.22247'>=</tspan><tspan x='160.73874'>(</tspan></text>
 <text class='f13' x='164.613219' y='609.345037'>δ</text>
 <text class='f15' x='169.041061' y='610.839418'>0</text>

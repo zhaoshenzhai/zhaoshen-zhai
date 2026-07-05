@@ -19,89 +19,89 @@
 text.f0 {font-family:ec-mlmri8;font-size:7.970112px}
 text.f1 {font-family:ec-mlmcsc10;font-size:7.970112px}
 text.f2 {font-family:ec-mlmr7;font-size:6.973848px}
-text.f5 {font-family:msbm10;font-size:9.96264px}
-text.f6 {font-family:msam10;font-size:9.96264px}
-text.f7 {font-family:mlmex10;font-size:9.96264px}
-text.f9 {font-family:mlmsy7;font-size:6.973848px}
-text.f10 {font-family:mlmsy10;font-size:9.96264px}
-text.f12 {font-family:mlmmi7;font-size:6.973848px}
-text.f13 {font-family:mlmmi10;font-size:9.96264px}
-text.f15 {font-family:rm-mlmr7;font-size:6.973848px}
-text.f16 {font-family:rm-mlmr10;font-size:9.96264px}
+text.f3 {font-family:msbm10;font-size:9.96264px}
+text.f4 {font-family:msam10;font-size:9.96264px}
+text.f5 {font-family:mlmex10;font-size:9.96264px}
+text.f7 {font-family:mlmsy7;font-size:6.973848px}
+text.f8 {font-family:mlmsy10;font-size:9.96264px}
+text.f10 {font-family:mlmmi7;font-size:6.973848px}
+text.f11 {font-family:mlmmi10;font-size:9.96264px}
+text.f13 {font-family:rm-mlmr7;font-size:6.973848px}
+text.f14 {font-family:rm-mlmr10;font-size:9.96264px}
 text.f17 {font-family:ec-mlmtt8;font-size:7.970112px}
 text.f18 {font-family:ec-mlmr10;font-size:9.96264px}
 ]]>
 </style>
 <g id='page2'>
 <text class='f2' x='0' y='-27.297658'>2<tspan x='173.856492'>ZHA</tspan><tspan x='190.232792'>OSHEN</tspan><tspan x='220.550236'>ZHAI</tspan><tspan x='242.703621'>/</tspan><tspan x='249.359114'>THE</tspan><tspan x='268.966541'>A</tspan><tspan x='274.204056'>TTIC</tspan></text>
-<text class='f16' x='85.421293' y='38.044984'>[</text>
-<text class='f13' x='88.238474' y='38.044984'>T</text>
-<text class='f15' x='94.060405' y='39.539365'>Γ</text>
-<text class='f16' x='99.484568' y='38.044984'>]<tspan x='105.019281'>=</tspan></text>
-<text class='f7' x='115.535551' y='21.053298'></text>
-<text class='f16' x='137.151421' y='30.851941' transform='matrix(1 0 0 1 -13.729 0)'>[</text>
-<text class='f13' x='139.968602' y='30.851941' transform='matrix(1 0 0 1 -13.729 0)'>T</text>
-<text class='f15' x='145.790533' y='32.650768' transform='matrix(1 0 0 1 -13.729 0)'>Γ</text>
-<text class='f9' x='150.716566' y='32.650768' transform='matrix(1 0 0 1 -13.729 0)'>\</text>
-<text class='f15' x='154.798502' y='32.650768' transform='matrix(1 0 0 1 -13.729 0)'>∆</text>
-<text class='f16' x='161.841563' y='30.851941' transform='matrix(1 0 0 1 -13.729 0)'>]</text>
-<text class='f10' x='167.237907' y='30.851941' transform='matrix(1 0 0 1 -2.491 0)'>∗</text>
-<text class='f16' x='137.151421' y='45.198091' transform='matrix(1 0 0 1 -2.491 0)'>0</text>
-<text class='f16' x='167.237907' y='45.198091' transform='matrix(1 0 0 1 -6.395 0)'>[</text>
-<text class='f7' x='171.720748' y='42.679764' transform='matrix(1 0 0 1 -6.395 0)'></text>
-<text class='f13' x='170.055088' y='45.198091' transform='matrix(1 0 0 1 -6.395 0)'>T</text>
-<text class='f16' x='177.260718' y='45.198091' transform='matrix(1 0 0 1 -6.395 0)'>]</text>
-<text class='f7' x='173.632993' y='21.053298'></text>
-<text class='f16' x='184.287436' y='38.044984'>=</text>
-<text class='f7' x='194.803706' y='-8.879513'>⎛<tspan x='194.803706' y='8.654922'>⎜</tspan><tspan x='194.803706' y='14.632567'>⎜</tspan><tspan x='194.803706' y='20.610212'>⎜</tspan><tspan x='194.803706' y='26.587857'>⎜</tspan><tspan x='194.803706' y='32.565501'>⎜</tspan><tspan x='194.803706' y='38.543146'>⎜</tspan><tspan x='194.803706' y='44.520791'>⎜</tspan><tspan x='194.803706' y='50.498436'>⎜</tspan><tspan x='194.803706' y='56.476081'>⎜</tspan><tspan x='194.803706' y='62.941384'>⎝</tspan></text>
-<text class='f16' x='217.249791' y='-.318873' transform='matrix(1 0 0 1 -13.729 0)'>[</text>
-<text class='f13' x='220.066972' y='-.318873' transform='matrix(1 0 0 1 -13.729 0)'>T</text>
-<text class='f15' x='225.888903' y='1.479954' transform='matrix(1 0 0 1 -13.729 0)'>Γ</text>
-<text class='f9' x='230.814936' y='1.479954' transform='matrix(1 0 0 1 -13.729 0)'>\</text>
-<text class='f15' x='234.896872' y='1.479954' transform='matrix(1 0 0 1 -13.729 0)'>∆</text>
-<text class='f16' x='241.939933' y='-.318873' transform='matrix(1 0 0 1 -13.729 0)'>]</text>
-<text class='f10' x='306.01762' y='-.318873' transform='matrix(1 0 0 1 -2.491 0)'>∗</text>
-<text class='f16' x='217.249791' y='44.819552' transform='matrix(1 0 0 1 -2.491 0)'>0</text>
-<text class='f7' x='306.01762' y='6.861522' transform='matrix(1 0 0 1 -65.077 0)'>⎛<tspan x='306.01762' y='24.395957'>⎜</tspan><tspan x='306.01762' y='30.373602'>⎜</tspan><tspan x='306.01762' y='36.351247'>⎜</tspan><tspan x='306.01762' y='42.328892'>⎜</tspan><tspan x='306.01762' y='48.306537'>⎜</tspan><tspan x='306.01762' y='54.284182'>⎜</tspan><tspan x='306.01762' y='60.749484'>⎝</tspan></text>
-<text class='f16' x='322.687758' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
-<text class='f13' x='345.584515' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>a</text>
-<text class='f15' x='350.850669' y='15.521643' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
-<text class='f16' x='367.65957' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
-<text class='f10' x='384.980573' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>·<tspan x='389.40838'>·</tspan><tspan x='393.836188'>·</tspan></text>
-<text class='f16' x='414.519049' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>0<tspan x='322.687758' y='28.373412'>0</tspan><tspan x='347.961542'>0</tspan></text>
-<text class='f13' x='365.282544' y='28.373412' transform='matrix(1 0 0 1 -65.077 0)'>a</text>
-<text class='f15' x='370.548698' y='29.867793' transform='matrix(1 0 0 1 -65.077 0)'>1</text>
-<text class='f10' x='384.980573' y='28.373412' transform='matrix(1 0 0 1 -65.077 0)'>·<tspan x='389.40838'>·</tspan><tspan x='393.836188'>·</tspan></text>
-<text class='f16' x='414.519049' y='28.373412' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
+<text class='f14' x='85.421293' y='38.044984'>[</text>
+<text class='f11' x='88.238474' y='38.044984'>T</text>
+<text class='f13' x='94.060405' y='39.539365'>Γ</text>
+<text class='f14' x='99.484568' y='38.044984'>]<tspan x='105.019281'>=</tspan></text>
+<text class='f5' x='115.535551' y='21.053298'></text>
+<text class='f14' x='137.151421' y='30.851941' transform='matrix(1 0 0 1 -13.729 0)'>[</text>
+<text class='f11' x='139.968602' y='30.851941' transform='matrix(1 0 0 1 -13.729 0)'>T</text>
+<text class='f13' x='145.790533' y='32.650768' transform='matrix(1 0 0 1 -13.729 0)'>Γ</text>
+<text class='f7' x='150.716566' y='32.650768' transform='matrix(1 0 0 1 -13.729 0)'>\</text>
+<text class='f13' x='154.798502' y='32.650768' transform='matrix(1 0 0 1 -13.729 0)'>∆</text>
+<text class='f14' x='161.841563' y='30.851941' transform='matrix(1 0 0 1 -13.729 0)'>]</text>
+<text class='f8' x='167.237907' y='30.851941' transform='matrix(1 0 0 1 -2.491 0)'>∗</text>
+<text class='f14' x='137.151421' y='45.198091' transform='matrix(1 0 0 1 -2.491 0)'>0</text>
+<text class='f14' x='167.237907' y='45.198091' transform='matrix(1 0 0 1 -6.395 0)'>[</text>
+<text class='f5' x='171.720748' y='42.679764' transform='matrix(1 0 0 1 -6.395 0)'></text>
+<text class='f11' x='170.055088' y='45.198091' transform='matrix(1 0 0 1 -6.395 0)'>T</text>
+<text class='f14' x='177.260718' y='45.198091' transform='matrix(1 0 0 1 -6.395 0)'>]</text>
+<text class='f5' x='173.632993' y='21.053298'></text>
+<text class='f14' x='184.287436' y='38.044984'>=</text>
+<text class='f5' x='194.803706' y='-8.879513'>⎛<tspan x='194.803706' y='8.654922'>⎜</tspan><tspan x='194.803706' y='14.632567'>⎜</tspan><tspan x='194.803706' y='20.610212'>⎜</tspan><tspan x='194.803706' y='26.587857'>⎜</tspan><tspan x='194.803706' y='32.565501'>⎜</tspan><tspan x='194.803706' y='38.543146'>⎜</tspan><tspan x='194.803706' y='44.520791'>⎜</tspan><tspan x='194.803706' y='50.498436'>⎜</tspan><tspan x='194.803706' y='56.476081'>⎜</tspan><tspan x='194.803706' y='62.941384'>⎝</tspan></text>
+<text class='f14' x='217.249791' y='-.318873' transform='matrix(1 0 0 1 -13.729 0)'>[</text>
+<text class='f11' x='220.066972' y='-.318873' transform='matrix(1 0 0 1 -13.729 0)'>T</text>
+<text class='f13' x='225.888903' y='1.479954' transform='matrix(1 0 0 1 -13.729 0)'>Γ</text>
+<text class='f7' x='230.814936' y='1.479954' transform='matrix(1 0 0 1 -13.729 0)'>\</text>
+<text class='f13' x='234.896872' y='1.479954' transform='matrix(1 0 0 1 -13.729 0)'>∆</text>
+<text class='f14' x='241.939933' y='-.318873' transform='matrix(1 0 0 1 -13.729 0)'>]</text>
+<text class='f8' x='306.01762' y='-.318873' transform='matrix(1 0 0 1 -2.491 0)'>∗</text>
+<text class='f14' x='217.249791' y='44.819552' transform='matrix(1 0 0 1 -2.491 0)'>0</text>
+<text class='f5' x='306.01762' y='6.861522' transform='matrix(1 0 0 1 -65.077 0)'>⎛<tspan x='306.01762' y='24.395957'>⎜</tspan><tspan x='306.01762' y='30.373602'>⎜</tspan><tspan x='306.01762' y='36.351247'>⎜</tspan><tspan x='306.01762' y='42.328892'>⎜</tspan><tspan x='306.01762' y='48.306537'>⎜</tspan><tspan x='306.01762' y='54.284182'>⎜</tspan><tspan x='306.01762' y='60.749484'>⎝</tspan></text>
+<text class='f14' x='322.687758' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
+<text class='f11' x='345.584515' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>a</text>
+<text class='f13' x='350.850669' y='15.521643' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
+<text class='f14' x='367.65957' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
+<text class='f8' x='384.980573' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>·<tspan x='389.40838'>·</tspan><tspan x='393.836188'>·</tspan></text>
+<text class='f14' x='414.519049' y='14.027262' transform='matrix(1 0 0 1 -65.077 0)'>0<tspan x='322.687758' y='28.373412'>0</tspan><tspan x='347.961542'>0</tspan></text>
+<text class='f11' x='365.282544' y='28.373412' transform='matrix(1 0 0 1 -65.077 0)'>a</text>
+<text class='f13' x='370.548698' y='29.867793' transform='matrix(1 0 0 1 -65.077 0)'>1</text>
+<text class='f8' x='384.980573' y='28.373412' transform='matrix(1 0 0 1 -65.077 0)'>·<tspan x='389.40838'>·</tspan><tspan x='393.836188'>·</tspan></text>
+<text class='f14' x='414.519049' y='28.373412' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
 <text class='f18' x='323.794721' y='39.706478' transform='matrix(1 0 0 1 -65.077 0)'>.<tspan x='323.794721' y='43.691534'>.</tspan><tspan x='323.794721' y='47.67659'>.</tspan><tspan x='349.06852' y='39.706478'>.</tspan><tspan x='349.06852' y='43.691534'>.</tspan><tspan x='349.06852' y='47.67659'>.</tspan><tspan x='368.766549' y='39.706478'>.</tspan><tspan x='368.766549' y='43.691534'>.</tspan><tspan x='368.766549' y='47.67659'>.</tspan><tspan x='385.534085' y='40.702742'>.</tspan><tspan x='389.408396' y='43.691534'>.</tspan><tspan x='393.282707' y='46.680326'>.</tspan><tspan x='415.626013' y='39.706478'>.</tspan><tspan x='415.626013' y='43.691534'>.</tspan><tspan x='415.626013' y='47.67659'>.</tspan></text>
-<text class='f16' x='322.687758' y='62.02274' transform='matrix(1 0 0 1 -65.077 0)'>0<tspan x='347.961542'>0</tspan><tspan x='367.65957'>0</tspan></text>
-<text class='f10' x='384.980573' y='62.02274' transform='matrix(1 0 0 1 -65.077 0)'>·<tspan x='389.40838'>·</tspan><tspan x='393.836188'>·</tspan></text>
-<text class='f13' x='406.566252' y='62.02274' transform='matrix(1 0 0 1 -65.077 0)'>a</text>
-<text class='f12' x='411.832406' y='63.517121' transform='matrix(1 0 0 1 -65.077 0)'>n</text>
-<text class='f9' x='416.757269' y='63.517121' transform='matrix(1 0 0 1 -65.077 0)'>−</text>
-<text class='f15' x='422.983948' y='63.517121' transform='matrix(1 0 0 1 -65.077 0)'>2</text>
-<text class='f13' x='314.73496' y='76.36889' transform='matrix(1 0 0 1 -65.077 0)'>a</text>
-<text class='f12' x='320.001114' y='77.863271' transform='matrix(1 0 0 1 -65.077 0)'>n</text>
-<text class='f9' x='324.925977' y='77.863271' transform='matrix(1 0 0 1 -65.077 0)'>−</text>
-<text class='f15' x='331.152656' y='77.863271' transform='matrix(1 0 0 1 -65.077 0)'>1</text>
-<text class='f16' x='347.961542' y='76.36889' transform='matrix(1 0 0 1 -65.077 0)'>0<tspan x='367.65957'>0</tspan></text>
-<text class='f10' x='384.980573' y='76.36889' transform='matrix(1 0 0 1 -65.077 0)'>·<tspan x='389.40838'>·</tspan><tspan x='393.836188'>·</tspan></text>
-<text class='f16' x='414.519049' y='76.36889' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
-<text class='f7' x='427.453152' y='6.861522' transform='matrix(1 0 0 1 -65.077 0)'>⎞<tspan x='427.453152' y='24.395957'>⎟</tspan><tspan x='427.453152' y='30.373602'>⎟</tspan><tspan x='427.453152' y='36.351247'>⎟</tspan><tspan x='427.453152' y='42.328892'>⎟</tspan><tspan x='427.453152' y='48.306537'>⎟</tspan><tspan x='427.453152' y='54.284182'>⎟</tspan><tspan x='427.453152' y='60.749484'>⎠</tspan></text>
-<text class='f7' x='371.094048' y='-8.879513'>⎞<tspan x='371.094048' y='8.654922'>⎟</tspan><tspan x='371.094048' y='14.632567'>⎟</tspan><tspan x='371.094048' y='20.610212'>⎟</tspan><tspan x='371.094048' y='26.587857'>⎟</tspan><tspan x='371.094048' y='32.565501'>⎟</tspan><tspan x='371.094048' y='38.543146'>⎟</tspan><tspan x='371.094048' y='44.520791'>⎟</tspan><tspan x='371.094048' y='50.498436'>⎟</tspan><tspan x='371.094048' y='56.476081'>⎟</tspan><tspan x='371.094048' y='62.941384'>⎠</tspan></text>
-<text class='f13' x='379.811374' y='38.044984'>,</text>
+<text class='f14' x='322.687758' y='62.02274' transform='matrix(1 0 0 1 -65.077 0)'>0<tspan x='347.961542'>0</tspan><tspan x='367.65957'>0</tspan></text>
+<text class='f8' x='384.980573' y='62.02274' transform='matrix(1 0 0 1 -65.077 0)'>·<tspan x='389.40838'>·</tspan><tspan x='393.836188'>·</tspan></text>
+<text class='f11' x='406.566252' y='62.02274' transform='matrix(1 0 0 1 -65.077 0)'>a</text>
+<text class='f10' x='411.832406' y='63.517121' transform='matrix(1 0 0 1 -65.077 0)'>n</text>
+<text class='f7' x='416.757269' y='63.517121' transform='matrix(1 0 0 1 -65.077 0)'>−</text>
+<text class='f13' x='422.983948' y='63.517121' transform='matrix(1 0 0 1 -65.077 0)'>2</text>
+<text class='f11' x='314.73496' y='76.36889' transform='matrix(1 0 0 1 -65.077 0)'>a</text>
+<text class='f10' x='320.001114' y='77.863271' transform='matrix(1 0 0 1 -65.077 0)'>n</text>
+<text class='f7' x='324.925977' y='77.863271' transform='matrix(1 0 0 1 -65.077 0)'>−</text>
+<text class='f13' x='331.152656' y='77.863271' transform='matrix(1 0 0 1 -65.077 0)'>1</text>
+<text class='f14' x='347.961542' y='76.36889' transform='matrix(1 0 0 1 -65.077 0)'>0<tspan x='367.65957'>0</tspan></text>
+<text class='f8' x='384.980573' y='76.36889' transform='matrix(1 0 0 1 -65.077 0)'>·<tspan x='389.40838'>·</tspan><tspan x='393.836188'>·</tspan></text>
+<text class='f14' x='414.519049' y='76.36889' transform='matrix(1 0 0 1 -65.077 0)'>0</text>
+<text class='f5' x='427.453152' y='6.861522' transform='matrix(1 0 0 1 -65.077 0)'>⎞<tspan x='427.453152' y='24.395957'>⎟</tspan><tspan x='427.453152' y='30.373602'>⎟</tspan><tspan x='427.453152' y='36.351247'>⎟</tspan><tspan x='427.453152' y='42.328892'>⎟</tspan><tspan x='427.453152' y='48.306537'>⎟</tspan><tspan x='427.453152' y='54.284182'>⎟</tspan><tspan x='427.453152' y='60.749484'>⎠</tspan></text>
+<text class='f5' x='371.094048' y='-8.879513'>⎞<tspan x='371.094048' y='8.654922'>⎟</tspan><tspan x='371.094048' y='14.632567'>⎟</tspan><tspan x='371.094048' y='20.610212'>⎟</tspan><tspan x='371.094048' y='26.587857'>⎟</tspan><tspan x='371.094048' y='32.565501'>⎟</tspan><tspan x='371.094048' y='38.543146'>⎟</tspan><tspan x='371.094048' y='44.520791'>⎟</tspan><tspan x='371.094048' y='50.498436'>⎟</tspan><tspan x='371.094048' y='56.476081'>⎟</tspan><tspan x='371.094048' y='62.941384'>⎠</tspan></text>
+<text class='f11' x='379.811374' y='38.044984'>,</text>
 <text class='f18' x='0' y='100.136041'>where</text>
-<text class='f7' x='30.474137' y='97.617713'></text>
-<text class='f13' x='28.808478' y='100.136041'>T</text>
+<text class='f5' x='30.474137' y='97.617713'></text>
+<text class='f11' x='28.808478' y='100.136041'>T</text>
 <text class='f18' x='39.334982' y='100.136041'>is<tspan x='49.353003'>the</tspan><tspan x='66.510996'>induced</tspan><tspan x='103.594013'>op</tspan><tspan x='114.386822'>erator</tspan><tspan x='143.776797'>on</tspan></text>
-<text class='f5' x='157.613733' y='100.136041'>R</text>
-<text class='f15' x='164.808993' y='96.520677'>Γ</text>
-<text class='f13' x='170.233156' y='100.136041'>/</text>
-<text class='f10' x='175.214495' y='100.136041'></text>
-<text class='f16' x='179.088869' y='100.136041'>Γ</text>
-<text class='f10' x='187.529385' y='100.136041'>\</text>
-<text class='f16' x='194.72459' y='100.136041'>∆</text>
-<text class='f10' x='203.026454' y='100.136041'></text>
+<text class='f3' x='157.613733' y='100.136041'>R</text>
+<text class='f13' x='164.808993' y='96.520677'>Γ</text>
+<text class='f11' x='170.233156' y='100.136041'>/</text>
+<text class='f8' x='175.214495' y='100.136041'></text>
+<text class='f14' x='179.088869' y='100.136041'>Γ</text>
+<text class='f8' x='187.529385' y='100.136041'>\</text>
+<text class='f14' x='194.72459' y='100.136041'>∆</text>
+<text class='f8' x='203.026454' y='100.136041'></text>
 <text class='f18' x='206.900828' y='100.136041'>.</text>
 <a href='../?note=24455' style='cursor: pointer;' target='_top'>
 <path d='M215.191413 102.1289C215.519538 101.92578 215.828132 101.73047 216.187507 101.73047C216.55079 101.73047 216.85938 101.92578 217.18751 102.1289C217.51173 102.33203 217.82032 102.52734 218.1836 102.52734C218.54298 102.52734 218.85157 102.33203 219.17969 102.1289' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
@@ -111,34 +111,34 @@ text.f18 {font-family:ec-mlmr10;font-size:9.96264px}
 <path d='M231.132817 102.1289C231.457036 101.92578 231.769536 101.73047 232.128911 101.73047C232.48829 101.73047 232.80079 101.92578 233.125 102.1289C233.44922 102.33203 233.76172 102.52734 234.1211 102.52734C234.48438 102.52734 234.79297 102.33203 235.11719 102.1289' stroke='#808080' fill='none' stroke-width='.3985' stroke-miterlimit='10' stroke-linecap='round'/>
 <text class='f18' x='214.096047' y='100.136041'>Then</text>
 </a>
-<text class='f10' x='240.109321' y='100.136041'></text>
-<text class='f7' x='246.75632' y='97.617713'></text>
-<text class='f13' x='245.09066' y='100.136041'>T</text>
-<text class='f10' x='252.29629' y='100.136041'></text>
-<text class='f12' x='257.277629' y='101.630422'>σ</text>
-<text class='f16' x='265.409944' y='100.136041'>=</text>
-<text class='f13' x='275.926214' y='100.136041'>a</text>
-<text class='f15' x='281.192368' y='101.630422'>0</text>
-<text class='f10' x='287.322' y='100.136041'>·<tspan x='291.749808'>·</tspan><tspan x='296.177616'>·</tspan></text>
-<text class='f13' x='300.605424' y='100.136041'>a</text>
-<text class='f12' x='305.871578' y='101.630422'>n</text>
-<text class='f9' x='310.796441' y='101.630422'>−</text>
-<text class='f15' x='317.02312' y='101.630422'>1</text>
-<text class='f10' x='324.259669' y='100.136041'>≥</text>
-<text class='f16' x='334.775749' y='100.136041'>1</text>
+<text class='f8' x='240.109321' y='100.136041'></text>
+<text class='f5' x='246.75632' y='97.617713'></text>
+<text class='f11' x='245.09066' y='100.136041'>T</text>
+<text class='f8' x='252.29629' y='100.136041'></text>
+<text class='f10' x='257.277629' y='101.630422'>σ</text>
+<text class='f14' x='265.409944' y='100.136041'>=</text>
+<text class='f11' x='275.926214' y='100.136041'>a</text>
+<text class='f13' x='281.192368' y='101.630422'>0</text>
+<text class='f8' x='287.322' y='100.136041'>·<tspan x='291.749808'>·</tspan><tspan x='296.177616'>·</tspan></text>
+<text class='f11' x='300.605424' y='100.136041'>a</text>
+<text class='f10' x='305.871578' y='101.630422'>n</text>
+<text class='f7' x='310.796441' y='101.630422'>−</text>
+<text class='f13' x='317.02312' y='101.630422'>1</text>
+<text class='f8' x='324.259669' y='100.136041'>≥</text>
+<text class='f14' x='334.775749' y='100.136041'>1</text>
 <text class='f18' x='339.757069' y='100.136041'>,<tspan x='345.845324'>so</tspan></text>
-<text class='f13' x='358.077285' y='100.136041'>a</text>
-<text class='f15' x='363.343439' y='101.630422'>0</text>
-<text class='f16' x='370.580004' y='100.136041'>=</text>
-<text class='f10' x='381.096274' y='100.136041'>·<tspan x='385.524082'>·</tspan><tspan x='389.95189'>·</tspan></text>
-<text class='f16' x='395.486631' y='100.136041'>=</text>
-<text class='f13' x='406.002901' y='100.136041'>a</text>
-<text class='f12' x='411.269055' y='101.630422'>n</text>
-<text class='f9' x='416.193917' y='101.630422'>−</text>
-<text class='f15' x='422.420597' y='101.630422'>1</text>
-<text class='f16' x='429.657146' y='100.136041'>=<tspan x='440.173416'>1</tspan></text>
+<text class='f11' x='358.077285' y='100.136041'>a</text>
+<text class='f13' x='363.343439' y='101.630422'>0</text>
+<text class='f14' x='370.580004' y='100.136041'>=</text>
+<text class='f8' x='381.096274' y='100.136041'>·<tspan x='385.524082'>·</tspan><tspan x='389.95189'>·</tspan></text>
+<text class='f14' x='395.486631' y='100.136041'>=</text>
+<text class='f11' x='406.002901' y='100.136041'>a</text>
+<text class='f10' x='411.269055' y='101.630422'>n</text>
+<text class='f7' x='416.193917' y='101.630422'>−</text>
+<text class='f13' x='422.420597' y='101.630422'>1</text>
+<text class='f14' x='429.657146' y='100.136041'>=<tspan x='440.173416'>1</tspan></text>
 <text class='f18' x='445.154736' y='100.136041'>.</text>
-<text class='f6' x='460.251461' y='100.136041'></text>
+<text class='f4' x='460.251461' y='100.136041'></text>
 <text class='f1' x='14.94396' y='131.970428'>Dep<tspan x='29.912897'>ar</tspan><tspan x='39.069219'>tment</tspan><tspan x='66.904906'>of</tspan><tspan x='79.367442'>Ma</tspan><tspan x='91.605811'>thema</tspan><tspan x='115.958345'>tics</tspan><tspan x='134.566793'>and</tspan><tspan x='152.448589'>St</tspan><tspan x='161.498902'>a</tspan><tspan x='165.855619'>tistics,</tspan><tspan x='197.808078'>McGill</tspan><tspan x='230.906736'>University,</tspan><tspan x='280.184629'>805</tspan><tspan x='296.531006'>Sherbr</tspan><tspan x='324.780091'>ooke</tspan><tspan x='347.550765'>Street</tspan><tspan x='378.663348'>West,</tspan><tspan x='405.984052'>Montreal,</tspan><tspan x='452.4592'>QC,</tspan><tspan x='0' y='141.434936'>H3A</tspan><tspan x='20.390538'>0B9,</tspan><tspan x='40.902524'>Canad</tspan><tspan x='66.631844'>a</tspan></text>
 <text class='f0' x='14.94396' y='153.390104'>Email<tspan x='39.980657'>addr</tspan><tspan x='56.268713'>ess:</tspan></text>
 <text class='f17' x='73.75847' y='153.390104'>zhaoshen.zhai@mail.mcgill.ca</text>

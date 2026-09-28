@@ -212,3 +212,24 @@ body::after {
 mjx-container:not([display="true"]) {
     line-height: 0;
 }
+
+@media (max-width: 600px) {
+    /* On phones the nav sits above the content instead of floating over
+       it, so it needs no backdrop. With one, Chrome's automatic dark mode
+       darkens the whole page. */
+    #section_nav {
+        position: static;
+        width: auto;
+        padding: 32px var(--gutter) 0;
+        background-color: transparent;
+    }
+
+    #content {
+        margin-top: 32px;
+    }
+
+    .data_info, .data_abstract {
+        left: 0;
+        margin-left: 60px;
+    }
+}

@@ -1,3 +1,8 @@
+// MathJax sizes math to the surrounding text font, so it must not typeset
+// before that font loads. document.fonts.ready alone can resolve before the
+// font is requested; loading it by name cannot. A failed load typesets anyway.
+var textFontReady = () => document.fonts.load('1em mlmt').catch(() => {}).then(() => document.fonts.ready);
+
 // Loaded synchronously in <head>: MathJax reads this config when its script runs.
 window.MathJax = {
     tex: {
@@ -7,7 +12,12 @@ window.MathJax = {
         processEnvironments: true
     },
     svg: { fontCache: 'global' },
-    loader: {load: ['[tex]/mathtools']}
+    loader: {load: ['[tex]/mathtools']},
+    startup: {
+        pageReady() {
+            return textFontReady().then(() => MathJax.startup.defaultPageReady());
+        }
+    }
 };
 
 var mathJaxScript = document.createElement('script');
@@ -16,10 +26,11 @@ mathJaxScript.async = true;
 document.head.appendChild(mathJaxScript);
 
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('./data.json').then(response => response.json()).then(data => {
+    fetch('./data.json').then(response => response.json()).then(async data => {
         insertData('research', data, 'research');
         insertData('seminar_talks', data, 'talk');
         insertData('expositions', data, 'exposition');
+        await textFontReady();
         if (window.MathJax.typesetPromise) {
             window.MathJax.typesetPromise();
         }

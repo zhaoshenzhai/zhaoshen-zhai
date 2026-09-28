@@ -27,8 +27,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     for (const section of document.getElementsByClassName('section_content')) {
         const button = section.querySelector('.section_button');
-        section.addEventListener('mouseenter', () => button.style.opacity = '1');
-        section.addEventListener('mouseleave', () => button.style.opacity = '0');
+        section.addEventListener('mouseenter', () => button.classList.add('shown'));
+        section.addEventListener('mouseleave', () => button.classList.remove('shown'));
         button.addEventListener('click', toggleSection);
     }
 
@@ -57,8 +57,10 @@ function insertData(sectionId, data, type) {
     var list = add(document.getElementById(sectionId), 'ol');
     for (var entry of data.filter(entry => entry.type == type)) {
         var item = add(list, 'div', 'data_item');
-        var arrow = add(item, 'img', 'noSelect');
-        arrow.src = 'css/fa/arrow-head.svg';
+        var arrow = add(item, entry.abstract ? 'button' : 'img', 'noSelect');
+        var icon = entry.abstract ? add(arrow, 'img', 'noSelect') : arrow;
+        icon.src = 'css/fa/arrow-head.svg';
+        icon.alt = '';
         add(item, 'span', 'data_title').innerText = entry.title;
 
         for (var [name, href] of Object.entries(entry.sources || {})) {
@@ -72,6 +74,9 @@ function insertData(sectionId, data, type) {
         }
 
         if (entry.abstract) {
+            arrow.type = 'button';
+            arrow.setAttribute('aria-expanded', 'false');
+            arrow.setAttribute('aria-label', 'Show abstract');
             arrow.classList.add('data_arrow');
             arrow.addEventListener('click', toggleAbstract);
             add(add(item, 'div', 'data_abstract'), 'p').innerHTML = 'Abstract. ' + entry.abstract;
@@ -90,6 +95,8 @@ function setExpanded(arrow, expanded) {
     abstract.style.maxHeight = expanded ? abstract.scrollHeight + 'px' : null;
     abstract.style.opacity = expanded ? '1' : '0';
     arrow.style.rotate = expanded ? '-180deg' : '0deg';
+    arrow.setAttribute('aria-expanded', String(expanded));
+    arrow.setAttribute('aria-label', expanded ? 'Hide abstract' : 'Show abstract');
 }
 
 function toggleAbstract() {
@@ -113,5 +120,9 @@ function mostlyExpanded(section) {
 }
 
 function updateButton(section) {
-    section.querySelector('.section_button').innerText = mostlyExpanded(section) ? '[-]' : '[+]';
+    var expanded = mostlyExpanded(section);
+    var button = section.querySelector('.section_button');
+    button.innerText = expanded ? '[-]' : '[+]';
+    button.setAttribute('aria-expanded', String(expanded));
+    button.setAttribute('aria-label', expanded ? 'Hide all abstracts' : 'Show all abstracts');
 }

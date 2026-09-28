@@ -114,13 +114,28 @@ body::after {
     color: var(--ink);
 }
 
+.section_button, .data_arrow {
+    border: 0;
+    background: none;
+    font: inherit;
+}
+
 .section_button {
     color: var(--ink);
     font-size: 25px;
+    /* Match the <span> this replaced: a box as tall as the text, and a
+       line as tall as the font's normal line height. */
+    line-height: 1.34;
+    margin: 1px 0;
     padding: 0px 5px;
     opacity: 0;
     border-radius: 8px;
     transition: opacity 0.2s ease-out, background-color 0.1s ease-out;
+}
+
+/* JS adds .shown while the pointer is in the section; keyboard focus also shows it. */
+.section_button.shown, .section_button:focus-visible {
+    opacity: 1;
 }
 
 .section_button:hover, .data_arrow:hover, .source:hover {
@@ -144,6 +159,15 @@ body::after {
 
 .data_arrow_disabled {
     opacity: 0;
+}
+
+.data_arrow {
+    box-sizing: content-box;
+}
+
+.data_arrow img {
+    display: block;
+    width: 100%;
 }
 
 .data_title {

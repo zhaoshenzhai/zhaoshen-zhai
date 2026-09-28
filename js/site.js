@@ -63,6 +63,16 @@ function add(parent, tag, className) {
     return parent.appendChild(element);
 }
 
+// The paragraph keeps its full height while its parent clips or animates.
+var abstractResizeObserver = new ResizeObserver(entries => {
+    for (var entry of entries) {
+        var abstract = entry.target.parentElement;
+        if (abstract.style.maxHeight) {
+            abstract.style.maxHeight = abstract.scrollHeight + 'px';
+        }
+    }
+});
+
 // Each entry: arrow, title, [source] links, info lines, and a collapsible abstract.
 function insertData(sectionId, data, type) {
     var list = add(document.getElementById(sectionId), 'ol');
@@ -90,7 +100,9 @@ function insertData(sectionId, data, type) {
             arrow.setAttribute('aria-label', 'Show abstract');
             arrow.classList.add('data_arrow');
             arrow.addEventListener('click', toggleAbstract);
-            add(add(item, 'div', 'data_abstract'), 'p').innerHTML = 'Abstract. ' + entry.abstract;
+            var paragraph = add(add(item, 'div', 'data_abstract'), 'p');
+            paragraph.innerHTML = 'Abstract. ' + entry.abstract;
+            abstractResizeObserver.observe(paragraph);
         } else {
             arrow.classList.add('data_arrow_disabled');
         }

@@ -1,3 +1,12 @@
 #!/bin/sh
+# Checks each commit being pushed, not the working tree.
 # Enable once per clone: git config core.hooksPath .githooks
-exec python3 "$(git rev-parse --show-toplevel)/.github/check.py"
+check="$(git rev-parse --show-toplevel)/.github/check.py"
+while read -r _ sha _ _; do
+    [ "$sha" = 0000000000000000000000000000000000000000 ] && continue
+    tree=$(mktemp -d) || exit 1
+    git archive "$sha" | tar -x -C "$tree"
+    python3 "$check" "$tree"; status=$?
+    rm -rf "$tree"
+    [ $status -eq 0 ] || exit $status
+done

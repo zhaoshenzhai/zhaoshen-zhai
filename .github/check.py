@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """Check that data.json parses and every local link and asset path resolves.
 
-Run from anywhere: python3 .github/check.py. The pull-request workflow and
-.githooks/pre-push run it. It lives under .github/ so Pages does not publish it.
+Run from anywhere: python3 .github/check.py [site-root]. The site root defaults
+to this repository. The pull-request workflow and .githooks/pre-push run it.
+It lives under .github/ so Pages does not publish it.
 """
 import json
 import re
 import sys
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import unquote, urlsplit
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else Path(__file__).parent.parent).resolve()
 TYPES = {'research', 'talk', 'exposition'}
 errors = []
 
@@ -38,7 +39,7 @@ def check(ref, base, where, ids=()):
         if url.fragment and url.fragment not in ids:
             errors.append(f'{where}: no element with id "{url.fragment}"')
         return
-    if not (base / url.path).resolve().is_file():
+    if not (base / unquote(url.path)).resolve().is_file():
         errors.append(f'{where}: missing {ref}')
 
 
@@ -58,6 +59,8 @@ try:
     entries = json.loads((ROOT / 'data.json').read_text())
 except json.JSONDecodeError as e:
     sys.exit(f'data.json: {e}')
+if not isinstance(entries, list) or not all(isinstance(e, dict) for e in entries):
+    sys.exit('data.json: must be a list of entry objects')
 for n, entry in enumerate(entries):
     where = f'data.json entry {n}'
     if not entry.get('title'):
@@ -65,10 +68,10 @@ for n, entry in enumerate(entries):
     if entry.get('type') not in TYPES:
         errors.append(f'{where}: type must be one of {sorted(TYPES)}')
     for ref in entry.get('sources', {}).values():
-        check(ref, ROOT, where)
+        check(ref, ROOT, where, index.ids)
     for html in [entry.get('abstract', '')] + entry.get('info', []):
         for ref in Links(html).refs:
-            check(ref, ROOT, where)
+            check(ref, ROOT, where, index.ids)
 
 if errors:
     sys.exit('\n'.join(errors))

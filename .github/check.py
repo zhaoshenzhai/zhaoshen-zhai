@@ -31,16 +31,25 @@ class Links(HTMLParser):
 
 
 def check(ref, base, where, ids=()):
-    """Report ref if it is local and names a missing file or anchor."""
+    """Report ref if it is local and names a missing file or anchor.
+
+    A bare #fragment is checked against ids, the page the reference lands on.
+    A fragment after an .html path is checked against that file's ids.
+    """
     url = urlsplit(ref)
     if url.scheme or url.netloc:
         return
-    if not url.path:
-        if url.fragment and url.fragment not in ids:
-            errors.append(f'{where}: no element with id "{url.fragment}"')
-        return
-    if not (base / unquote(url.path)).resolve().is_file():
-        errors.append(f'{where}: missing {ref}')
+    if url.path:
+        target = (base / unquote(url.path)).resolve()
+        if not target.is_file():
+            errors.append(f'{where}: missing {ref}')
+            return
+        if target.suffix != '.html':
+            return
+        ids = Links(target.read_text()).ids
+    fragment = unquote(url.fragment)
+    if fragment and fragment not in ids:
+        errors.append(f'{where}: no element with id "{fragment}" for {ref}')
 
 
 index = Links((ROOT / 'index.html').read_text())
@@ -48,12 +57,17 @@ for ref in index.refs:
     check(ref, ROOT, 'index.html', index.ids)
 
 for css in ROOT.glob('css/*.css'):
-    for ref in re.findall(r"url\(['\"]?([^'\")]+)", css.read_text()):
-        check(ref, css.parent, css.relative_to(ROOT))
+    for _, quoted, bare in re.findall(r"""url\(\s*(?:(['"])(.*?)\1|([^'"\s)]*))\s*\)""", css.read_text()):
+        check(quoted or bare, css.parent, css.relative_to(ROOT))
 
+# JS paths resolve against the page, so against ROOT. Check every string or
+# static template literal that looks like a URL to a file with an extension.
 for js in ROOT.glob('js/*.js'):
-    for ref in re.findall(r"['\"](\.?/?[\w/.-]+\.(?:json|svg|pdf|css|js))['\"]", js.read_text()):
-        check(ref, ROOT, js.relative_to(ROOT))
+    for _, literal in re.findall(r"(['\"`])((?:\\.|(?!\1).)*)\1", js.read_text()):
+        if '${' in literal or not re.fullmatch(r"[\w./%?#=&@+~-]+", literal):
+            continue
+        if re.search(r"[^/.]\.\w+$", urlsplit(literal).path):
+            check(literal, ROOT, js.relative_to(ROOT))
 
 try:
     entries = json.loads((ROOT / 'data.json').read_text())

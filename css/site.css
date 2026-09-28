@@ -181,3 +181,10 @@ body::after {
 .data_abstract p {
     margin-bottom: 0;
 }
+
+/* Quirks mode, which the page used before it had a doctype, gave inline
+   boxes without text no line height. Keep that for inline math so lines
+   with math keep their spacing. */
+mjx-container:not([display="true"]) {
+    line-height: 0;
+}

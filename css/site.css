@@ -1,0 +1,235 @@
+@font-face {
+    font-family: 'mlmt';
+    src: url('fonts/mlmtt.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mlmt';
+    src: url('fonts/mlmtti.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'mlmsc';
+    src: url('fonts/mlmsc.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+:root {
+    --ink: #2C3E50;
+    --hover: #ECF0F1;
+    /* Space beside the content column; the nav and content share it. */
+    --gutter: max(5%, calc(50% - 700px));
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'mlmt', sans-serif;
+    margin: 0px;
+}
+
+a {
+    color: #2980B9;
+    text-decoration: none;
+}
+
+.noSelect {
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-user-drag: none;
+}
+
+/* Fixed nav on the right */
+
+#section_nav {
+    position: fixed;
+    z-index: 1000;
+    top: 100px;
+    right: 0px;
+    width: 250px;
+    padding-right: var(--gutter);
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+#title {
+    font-size: 30px;
+}
+
+#title:hover {
+    cursor: pointer;
+}
+
+#title_sep {
+    padding: 0px 10px;
+}
+
+#section_nav ol {
+    list-style: none;
+    user-select: none;
+}
+
+#section_nav ol a {
+    color: #95A5A6;
+    transition: color 0.1s ease-out;
+}
+
+#section_nav ol a:hover, #section_nav li.active > a {
+    color: var(--ink);
+}
+
+/* Content column */
+
+#content {
+    font-size: 22px;
+    margin-top: 200px;
+    margin-left: var(--gutter);
+    width: min(90%, 1100px);
+}
+
+body::after {
+    content: '';
+    display: block;
+    height: 100px;
+}
+
+#information {
+    margin-bottom: 20px;
+}
+
+.section_content {
+    margin-top: 50px;
+}
+
+.section_title {
+    font-family: 'mlmsc', sans-serif;
+    font-size: 30px;
+    color: var(--ink);
+}
+
+.section_button, .data_arrow {
+    border: 0;
+    background: none;
+    font: inherit;
+}
+
+.section_button {
+    color: var(--ink);
+    font-size: 25px;
+    /* Match the <span> this replaced: a box as tall as the text, and a
+       line as tall as the font's normal line height. */
+    line-height: 1.34;
+    margin: 1px 0;
+    padding: 0px 5px;
+    opacity: 0;
+    border-radius: 8px;
+    transition: opacity 0.2s ease-out, background-color 0.1s ease-out;
+}
+
+/* JS adds .shown while the pointer is in the section; keyboard focus also shows it. */
+.section_button.shown, .section_button:focus-visible {
+    opacity: 1;
+}
+
+.section_button:hover, .data_arrow:hover, .source:hover {
+    background-color: var(--hover);
+    cursor: pointer;
+}
+
+/* Entries rendered from data.json */
+
+.data_item {
+    margin-bottom: 10px;
+}
+
+.data_arrow, .data_arrow_disabled {
+    width: 15px;
+    border-radius: 8px;
+    padding: 8px;
+    vertical-align: middle;
+    transition: background-color 0.2s ease-out, rotate 0.3s ease-out;
+}
+
+.data_arrow_disabled {
+    opacity: 0;
+}
+
+.data_arrow {
+    box-sizing: content-box;
+}
+
+.data_arrow img {
+    display: block;
+    width: 100%;
+}
+
+.data_title {
+    margin-left: 10px;
+    text-decoration: underline;
+    padding: 0px 10px;
+}
+
+.source {
+    border-radius: 8px;
+    transition: background-color 0.1s ease-out;
+}
+
+.source a {
+    color: #16A085;
+}
+
+.data_info {
+    display: block;
+    position: relative;
+    left: 60px;
+}
+
+.data_abstract {
+    overflow: hidden;
+    position: relative;
+    max-height: 0;
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+    top: -10px;
+    left: 60px;
+    line-height: 1.2;
+    font-size: 18px;
+}
+
+.data_abstract p {
+    margin-bottom: 0;
+}
+
+/* Quirks mode, which the page used before it had a doctype, gave inline
+   boxes without text no line height. Keep that for inline math so lines
+   with math keep their spacing. */
+mjx-container:not([display="true"]) {
+    line-height: 0;
+}
+
+@media (max-width: 600px) {
+    /* On phones the nav sits above the content instead of floating over
+       it, so it needs no backdrop. With one, Chrome's automatic dark mode
+       darkens the whole page. */
+    #section_nav {
+        position: static;
+        width: auto;
+        padding: 32px var(--gutter) 0;
+        background-color: transparent;
+    }
+
+    #content {
+        margin-top: 32px;
+    }
+
+    .data_info, .data_abstract {
+        left: 0;
+        margin-left: 60px;
+    }
+}

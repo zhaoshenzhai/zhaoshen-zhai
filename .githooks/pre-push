@@ -1,0 +1,19 @@
+#!/bin/sh
+# Checks the tip commit of each pushed ref with that commit's own checker,
+# so uncommitted edits affect nothing. Earlier commits in the push are not checked.
+# Enable once per clone: git config core.hooksPath .githooks
+while read -r _ sha _ _; do
+    [ "$sha" = 0000000000000000000000000000000000000000 ] && continue
+    tree=$(mktemp -d) || exit 1
+    if git archive "$sha" | tar -x -C "$tree"; then
+        if [ -f "$tree/.github/check.py" ]; then
+            python3 "$tree/.github/check.py" "$tree"
+        fi
+    else
+        echo "pre-push: could not extract $sha" >&2
+        false
+    fi
+    status=$?
+    rm -rf "$tree"
+    [ $status -eq 0 ] || exit $status
+done

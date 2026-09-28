@@ -213,8 +213,8 @@ mjx-container:not([display="true"]) {
     line-height: 0;
 }
 
-@media (max-width: 600px) {
-    /* On phones the nav sits above the content instead of floating over
+@media (max-width: 1199px) {
+    /* On narrower screens the nav sits above the content instead of floating over
        it, so it needs no backdrop. With one, Chrome's automatic dark mode
        darkens the whole page. */
     #section_nav {

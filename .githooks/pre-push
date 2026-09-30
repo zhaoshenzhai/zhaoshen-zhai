@@ -1,13 +1,14 @@
 #!/bin/sh
 # Checks the tip commit of each pushed ref with that commit's own checker,
 # so uncommitted edits affect nothing. Earlier commits in the push are not checked.
+# The check runs at low priority under the machine-wide local-checks lock.
 # Enable once per clone: git config core.hooksPath .githooks
 while read -r _ sha _ _; do
     [ "$sha" = 0000000000000000000000000000000000000000 ] && continue
     tree=$(mktemp -d) || exit 1
     if git archive "$sha" | tar -x -C "$tree"; then
-        if [ -f "$tree/.github/check.py" ]; then
-            python3 "$tree/.github/check.py" "$tree"
+        if [ -f "$tree/.githooks/check.py" ]; then
+            lockf -k /private/tmp/local-checks.lock nice -n 10 python3 "$tree/.githooks/check.py" "$tree"
         fi
     else
         echo "pre-push: could not extract $sha" >&2

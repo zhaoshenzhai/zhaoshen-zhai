@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Check that data.json parses and every local link and asset path resolves.
 
-Run from anywhere: python3 .github/check.py [site-root]. The site root defaults
-to this repository. The pull-request workflow and .githooks/pre-push run it.
-It lives under .github/ so Pages does not publish it.
+Run from anywhere: python3 .githooks/check.py [site-root]. The site root
+defaults to this repository. .githooks/pre-push runs it. It lives in a hidden
+directory so the Pages deploy, which skips hidden paths, does not publish it.
 """
 import json
 import re

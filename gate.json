@@ -1,0 +1,11 @@
+{
+  "fast": "lockf -k /private/tmp/local-checks.lock nice -n 10 python3 .githooks/check.py",
+  "full": "lockf -k /private/tmp/local-checks.lock nice -n 10 python3 .githooks/check.py",
+  "merge": "squash",
+  "paths": {
+    "visible": ["index.html", "css/**", "js/**", "data.json", "data/**"],
+    "hosted": [".github/workflows/**"],
+    "model-text": ["AGENTS.md"],
+    "tooling": [".githooks/**", "gate.json"]
+  }
+}
